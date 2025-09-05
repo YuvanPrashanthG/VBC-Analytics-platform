@@ -1,0 +1,11 @@
+flask
+flask-login
+werkzeug
+pandas
+numpy
+joblib
+pymssql
+python-dotenv
+groq
+xgboost
+scikit-learn
