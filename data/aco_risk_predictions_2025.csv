@@ -1,0 +1,477 @@
+ACO_ID,ACO_Name,Risk_Score_for_2025,Risk_Tier_for_2025
+A4551,SolutionHealth ACO LLC,1.0,High Risk
+A2029,"Scottsdale Health Partners, LLC",1.0,High Risk
+A3317,"McLaren High Performance Network, LLC",1.0,High Risk
+A4588,"McAuley Health Partners ACO, LLC",1.0,High Risk
+A5193,"Aledade Accountable Care 91, LLC",0.99,High Risk
+A4638,"KentuckyOne Health Partners, LLC",0.99,High Risk
+A5387,"agilon health Michigan ACO, Inc.",0.99,High Risk
+A4979,"ProHealth Solutions, LLC",0.98,High Risk
+A5279,Sutter Preferred Direct Contracting Entity LLC,0.98,High Risk
+A5331,"INTEGRIS Health Partners, LLC",0.98,High Risk
+A5407,"CVS ACO, LLC",0.97,High Risk
+A2308,"Bayview Physician Services, PC",0.97,High Risk
+A5471,KPC Excel LLC,0.96,High Risk
+A5176,"Arizona Care Network - Next, LLC",0.89,High Risk
+A5386,"agilon health Kentucky ACO, Inc.",0.89,High Risk
+A2246,PMC ACO LLC,0.83,High Risk
+A5364,"Aledade Accountable Care 196, LLC",0.4,Medium Risk
+A2710,"CHI St. Luke's Health Network, LLC",0.39,Medium Risk
+A4575,"Integra Community Care Network, LLC.",0.36,Medium Risk
+A5318,"Penn Medicine Healthcare Partners, LLC",0.34,Medium Risk
+A5370,"Aledade Accountable Care 205, LLC",0.33,Medium Risk
+A4692,Caravan Health ACO 41 LLC,0.3,Low Risk
+A2164,Arkansas Health Network LLC,0.28,Low Risk
+A3579,"HH Health System ACO, LLC",0.28,Low Risk
+A4825,"Froedtert & The Medical College of Wisconsin ACO, LLC",0.28,Low Risk
+A1175,Memorial Hermann Accountable Care Organization,0.27,Low Risk
+A5323,"PSW ACO 2, LLC",0.27,Low Risk
+A5216,"Aledade Accountable Care 101, LLC",0.26,Low Risk
+A5226,"Aledade Accountable Care 143, LLC",0.26,Low Risk
+A3832,"ACO of Central Alabama 1, LLC",0.26,Low Risk
+A1488,"Northwest Ohio ACO, LLC",0.25,Low Risk
+A4516,"AtlantiCare Health Solutions, Inc.",0.23,Low Risk
+A4931,IHCI ACO LLC,0.22,Low Risk
+A5361,"Aledade Accountable Care 158, LLC",0.22,Low Risk
+A3235,"Mount Auburn Cambridge Independent Practice Association, Inc.",0.21,Low Risk
+A5395,"Medical Partners Management Group, LLC",0.21,Low Risk
+A3908,"MHN ACO, LLC",0.21,Low Risk
+A3380,"Mercy Health Network ACO, LLC",0.2,Low Risk
+A5192,Lore Health ACO LLC,0.2,Low Risk
+A4996,"Aledade Accountable Care 94, LLC",0.19,Low Risk
+A5173,"Physician Partners ACO 1, LLC.",0.18,Low Risk
+A5357,"Aledade Accountable Care 154, LLC",0.17,Low Risk
+A4924,"Peninsula Regional Clinically Integrated Network, LLC",0.16,Low Risk
+A1242,BHS Accountable Care LLC,0.15,Low Risk
+A4768,"Banner Network Colorado, LLC",0.15,Low Risk
+A1241,"AnewCare Collaborative, LLC",0.14,Low Risk
+A4949,"Carilion Clinic Medicare Shared Savings Company, LLC",0.14,Low Risk
+A4657,"AdvantagePoint Health Alliance - Laurel Highlands, LLC",0.14,Low Risk
+A3617,"Boulder Valley Care Network, LLC",0.13,Low Risk
+A5245,"Doylestown Value Partners, LLC",0.13,Low Risk
+A5321,"PSW ACO 1, LLC",0.12,Low Risk
+A4711,"Prospect Health Services PA, Inc.",0.12,Low Risk
+A4577,SOMOS ACCOUNTABLE CARE ORGANIZATION LLC,0.12,Low Risk
+A4618,Virginia Care Partners ACO LLC,0.12,Low Risk
+A5372,Saint Francis Accountable Health Alliance LLC,0.12,Low Risk
+A4998,"Aledade Accountable Care 98, LLC",0.12,Low Risk
+A5116,"PHP Prime, LLC",0.11,Low Risk
+A5206,"Aledade Accountable Care 93, LLC",0.11,Low Risk
+A4707,"Essential Health Partners ACO, LLC",0.11,Low Risk
+A5346,Stellar Health ACO LLC,0.1,Low Risk
+A3507,"UVA Community Health Accountable Care Organization, LLC",0.1,Low Risk
+A5080,"CareMax Accountable Care Network, LLC",0.1,Low Risk
+A3631,"MultiCare Connected Care, LLC",0.1,Low Risk
+A2802,Space Coast ACO LLC,0.1,Low Risk
+A1539,Collaborative Care of Florida LLC,0.1,Low Risk
+A5181,"Mountain Star Care Partners ACO, LLC",0.1,Low Risk
+A4937,"BEST CARE COLLABORATIVE, LLC",0.09,Low Risk
+A1063,Summa Accountable Care Organization,0.09,Low Risk
+A3739,Centrus Health of Kansas City LLC,0.08,Low Risk
+A4938,"UNC Senior Alliance, LLC",0.08,Low Risk
+A5304,Centrus Health LLC,0.08,Low Risk
+A3053,"Christiana Care Quality Partners ACO, LLC",0.07,Low Risk
+A4960,"Lifeprint Accountable Care Organization, LLC",0.07,Low Risk
+A4983,"PROSPECT HEALTH SERVICES RI, INC",0.07,Low Risk
+A3318,Community Care Collaborative of Pennsylvania and New Jersey LLC,0.07,Low Risk
+A5365,"Aledade Accountable Care 200, LLC",0.06,Low Risk
+A2217,"Rocky Mountain Accountable Health Network, Inc",0.06,Low Risk
+A2198,CCA ACO LLC,0.06,Low Risk
+A5309,"Centrus Health of Overland Park, LLC",0.06,Low Risk
+A2021,"Covenant ACO, Inc.",0.06,Low Risk
+A5203,"Emergent ACO 23.1, LLC",0.06,Low Risk
+A5068,River City Medical Group ACO LLC,0.06,Low Risk
+A3273,"Nebraska Health Network, LLC",0.06,Low Risk
+A5025,"AdvantagePoint Health Alliance - Northwest, LLC",0.06,Low Risk
+A2628,"Adena Healthcare Collaborative, LLC",0.06,Low Risk
+A5260,"OBHS ACO 2, LLC",0.06,Low Risk
+A3319,"Mid-Atlantic Collaborative Care, LLC",0.05,Low Risk
+A3667,"Health Alliance ACO, LLC",0.05,Low Risk
+A2735,"Lehigh Valley Health Network Accountable Care Organization, LLC",0.05,Low Risk
+A3327,"New York Medical Partners ACO, LLC",0.05,Low Risk
+A2591,"Mission Health Partners, LLC",0.05,Low Risk
+A5356,"Aledade Accountable Care 153, LLC",0.05,Low Risk
+A3566,"Myriad Health Alliance, LLC",0.05,Low Risk
+A5360,"Aledade Accountable Care 157, LLC",0.05,Low Risk
+A2207,"CHA ACO, LLC",0.05,Low Risk
+A1216,Southern Kentucky Health Care Alliance,0.05,Low Risk
+A2205,St Vincents Accountable Care Organization LLC,0.05,Low Risk
+A2528,"Capital Health Accountable Care Organization, LLC",0.05,Low Risk
+A2634,Akira Health of Los Angeles Inc,0.04,Low Risk
+A4771,"EHN MSSP ACO, LLC",0.04,Low Risk
+A3730,"Heritage Valley Healthcare Network ACO, LLC",0.04,Low Risk
+A4678,UT Health San Antonio Regional Physician Network,0.04,Low Risk
+A4542,"Aledade Accountable Care 45, LLC",0.04,Low Risk
+A5450,APOLLOMED MSSP I INC,0.04,Low Risk
+A3302,"Aledade Accountable Care 12, LLC",0.04,Low Risk
+A5058,"OptumCare ACO West, LLC",0.04,Low Risk
+A5191,ELEHEALTH MEDICARE ACO LLC,0.04,Low Risk
+A4862,"NJPACO R, LLC",0.04,Low Risk
+A1297,"Physician Organization of Michigan ACO, LLC",0.04,Low Risk
+A4964,"Torrance Memorial Integrated Physicians, LLC",0.04,Low Risk
+A3864,"Baptist Physician Partners ACO, LLC",0.04,Low Risk
+A2543,"North Central Arizona Accountable Care, LLC",0.04,Low Risk
+A5423,PraxisCare 2 INC,0.04,Low Risk
+A3477,Community Health Provider Alliance,0.04,Low Risk
+A5040,"Pioneer Valley Accountable Care, LLC",0.04,Low Risk
+A5349,"Aledade Accountable Care 151, LLC",0.03,Low Risk
+A4901,TUALITY HEALTH PLAN SERVICES,0.03,Low Risk
+A3675,"Carolinas HealthCare System ACO, LLC",0.03,Low Risk
+A5178,"Banner Network Southern Arizona, LLC",0.03,Low Risk
+A1199,"Westchester Medical Group, PLLC",0.03,Low Risk
+A3476,"Rochester Regional Health ACO, Inc.",0.03,Low Risk
+A4923,"Accountable Care Organization of the North Country, LLC",0.03,Low Risk
+A3632,"Community Healthcare Partners ACO, Inc.",0.03,Low Risk
+A5403,Main Street Rural Health Sycamore ACO LLC,0.03,Low Risk
+A5465,"UF HEALTH ACO JACKSONVILLE, LLC",0.03,Low Risk
+A3283,"Healthcare Solutions Network, LLC",0.03,Low Risk
+A3599,"Central Virginia Accountable Care Collaborative, LLC",0.03,Low Risk
+A4597,Achiever Health Care Consultation and Management LLC,0.03,Low Risk
+A5439,Main Street Rural Health Cottonwood ACO LLC,0.03,Low Risk
+A4566,"Saint Francis Health Plans, LLC",0.03,Low Risk
+A4620,"WK Integrin Health, L3C",0.03,Low Risk
+A2666,"BMC Integrated Care Services, Inc.",0.03,Low Risk
+A3770,"Family Choice ACO, LLC",0.03,Low Risk
+A5166,MA-TDC GROUP ACO INC,0.03,Low Risk
+A5362,"Aledade Accountable Care 159, LLC",0.03,Low Risk
+A3738,"Alabama Physician Network, LLC",0.03,Low Risk
+A4888,"WellMed Network Medicare ACO, LLC",0.03,Low Risk
+A4764,"Five Star ACO, LLC",0.03,Low Risk
+A2530,"Signature Partners in Health, LLC",0.03,Low Risk
+A5400,Main Street Rural Health Magnolia ACO LLC,0.03,Low Risk
+A2500,York Health Plan,0.03,Low Risk
+A4832,"SSM IL ACO, LLC",0.03,Low Risk
+A2833,"IHC Quality Partners, LLC",0.03,Low Risk
+A3919,Bridges Health Partners ACO LLC,0.03,Low Risk
+A1290,MaineHealth Accountable Care Organization,0.02,Low Risk
+A3834,"CareMax National Care Network, LLC",0.02,Low Risk
+A5300,Vytalize Health Enhanced ACO LLC,0.02,Low Risk
+A3563,"Accountable Care Organization of West Virginia, LLC",0.02,Low Risk
+A1131,"Florida Medical Clinic ACO, LLC",0.02,Low Risk
+A5067,"ACO Collaborative, LLC",0.02,Low Risk
+A3547,Physician Partners of Western PA LLC,0.02,Low Risk
+A3922,Public Hospital District #1 of King County,0.02,Low Risk
+A3531,"UCMCNACO, LLC",0.02,Low Risk
+A5438,Main Street Rural Health Hawthorn ACO LLC,0.02,Low Risk
+A3509,"OneHealth Nebraska ACO, LLC",0.02,Low Risk
+A1490,"Lahey Clinical Performance Accountable Care Organization, LLC",0.02,Low Risk
+A1535,"Ochsner Accountable Care Network, LLC",0.02,Low Risk
+A1026,"AHS ACO, LLC",0.02,Low Risk
+A3630,"Aledade Accountable Care 22, LLC",0.02,Low Risk
+A1262,University Hospitals Coordinated Care,0.02,Low Risk
+A5275,"Jefferson Accountable Care, LLC",0.02,Low Risk
+A5214,"Health Choice Community Partners, LLC",0.02,Low Risk
+A1557,"MCM ACCOUNTABLE CARE ORGANIZATION, LLC",0.02,Low Risk
+A4573,"Bryan Health Connect ACO, LLC",0.02,Low Risk
+A5030,PA Clinical Network ACO Inc,0.02,Low Risk
+A5028,"AdvantagePoint Health Alliance - Bluegrass, LLC",0.02,Low Risk
+A3731,Cascadia Care Network LLC,0.02,Low Risk
+A1061,Ascension Care Management Health Partners Tennessee,0.02,Low Risk
+A4502,"Western Accountable Care Organization, LLC",0.02,Low Risk
+A5033,"Henry Ford Physicians Accountable Care Organization, LLC",0.02,Low Risk
+A3764,"Select Physicians Associates, LLC",0.02,Low Risk
+A5231,"Aledade Accountable Care 149, LLC",0.02,Low Risk
+A5451,Health First Physicians ACO LLC,0.02,Low Risk
+A5255,"IntraCare Premier ACO, LLC",0.02,Low Risk
+A4513,CAMC Health Network LLC,0.02,Low Risk
+A3694,"CHSPSC ACO 17, LLC",0.02,Low Risk
+A3361,"UOP ACO, LLC",0.02,Low Risk
+A2247,St Joseph Regional Health Partners ACO,0.02,Low Risk
+A5328,HealthONE Colorado Care Partners ACO LLC,0.02,Low Risk
+A4776,"Aledade Accountable Care 59, LLC",0.02,Low Risk
+A5337,"Southeast Quality Network, LLC",0.02,Low Risk
+A2141,"MD Valuecare, LLC",0.02,Low Risk
+A2452,"Alliance for Integrated Care of New York, LLC",0.02,Low Risk
+A3195,"Cayuga Area Preferred, Inc.",0.02,Low Risk
+A5189,"Premier Health ACO, LLC",0.02,Low Risk
+A5344,C3 MSSP LLC,0.02,Low Risk
+A5160,Caravan Health ACO 50 LLC,0.02,Low Risk
+A4652,"AdvantagePoint Health Alliance - Great Lakes, LLC",0.02,Low Risk
+A2342,"Health Connect Partners, LLC",0.02,Low Risk
+A4737,"Aledade Accountable Care 34, LLC",0.02,Low Risk
+A2920,"Aledade West Virginia ACO, LLC",0.02,Low Risk
+A2778,"Physician Quality Partners, LLC",0.02,Low Risk
+A4889,"WellMed Texas Medicare ACO, LLC",0.02,Low Risk
+A2909,"Aledade Florida Central ACO, LLC",0.02,Low Risk
+A4754,"CareAllies Accountable Care Collaborative, LLC",0.02,Low Risk
+A2120,"North Georgia HealthCare Partnership, Inc.",0.02,Low Risk
+A4654,"AdvantagePoint Health Alliance - Blue Ridge, LLC",0.02,Low Risk
+A3336,"Lifespan Health Alliance, LLC",0.02,Low Risk
+A3379,"Pacific Accountable Care, LLC",0.02,Low Risk
+A2684,"Coastal Plains Network, LLC",0.02,Low Risk
+A4945,Imperium Clinical Partners LLC,0.02,Low Risk
+A2024,"Accountable Care Organization of Pennsylvania, LLC",0.02,Low Risk
+A4650,"North Jersey Health Alliance, LLC dba Mission Health Coordinated Care LLC",0.02,Low Risk
+A3457,"Aledade Accountable Care 15, LLC",0.02,Low Risk
+A2599,"Ascension Care Management Health Partners Evansville, LLC",0.02,Low Risk
+A2643,Aledade Primary Care ACO LLC,0.02,Low Risk
+A1652,Billings Clinic,0.02,Low Risk
+A5374,"Adventist HealthCare ACO, LLC",0.02,Low Risk
+A2612,"Bassett Accountable Care Partners, LLC",0.02,Low Risk
+A5148,Health Leaders Network of Mississippi LLC,0.01,Low Risk
+A4856,"Aledade Accountable Care 80, LLC",0.01,Low Risk
+A4778,"Healthier Communities ACO, LLC",0.01,Low Risk
+A4799,"Genesis Accountable Care Organization, LLC",0.01,Low Risk
+A5147,"SBL Practice Acquisitions, Inc.",0.01,Low Risk
+A4795,"Cura Health Network, LLC",0.01,Low Risk
+A5037,"AdvantagePoint Health Alliance - Hot Springs, LLC",0.01,Low Risk
+A4775,"Aledade Accountable Care 60, LLC",0.01,Low Risk
+A4794,"Advanced Doctors ACO, LLC",0.01,Low Risk
+A4546,"Aledade Accountable Care 38, LLC",0.01,Low Risk
+A5069,"EPC ACO, LLC",0.01,Low Risk
+A5177,"Tryon ACO, LLC",0.01,Low Risk
+A4756,"Aledade Accountable Care 57, LLC",0.01,Low Risk
+A4986,Privia Quality Network Maryland LLC,0.01,Low Risk
+A4629,SoNE Health ACO LLC,0.01,Low Risk
+A4999,"Aledade Accountable Care 99, LLC",0.01,Low Risk
+A4984,"Concord Hospital ACO, LLC",0.01,Low Risk
+A5088,"Atrius Health, Inc.",0.01,Low Risk
+A4613,NH-Cares ACO LLC,0.01,Low Risk
+A4649,"Mercycare Accountable Care Organization, LLC",0.01,Low Risk
+A4604,Caravan Health ACO 22 LLC,0.01,Low Risk
+A4943,"Privia Quality Network Tennessee, LLC",0.01,Low Risk
+A4592,The Physicians Alliance LLC,0.01,Low Risk
+A4585,"Texoma Clinical Partners ACO, LLC",0.01,Low Risk
+A4701,"Freedom Healthcare Alliance, LLC",0.01,Low Risk
+A5012,"CHESS Innovation, LLC",0.01,Low Risk
+A4922,"Wellforce ACO, LLC",0.01,Low Risk
+A4723,"Community Care of Brooklyn IPA, Inc.",0.01,Low Risk
+A4749,"ACMG Health Systems, Inc.",0.01,Low Risk
+A4559,"Beth Israel Deaconess Physician Organization, LLC",0.01,Low Risk
+A4830,Stony Brook ACO LLC,0.01,Low Risk
+A5045,"HCP ACO California, LLC",0.01,Low Risk
+A5220,"Sound Physicians Long Term Care Management, LLC",0.01,Low Risk
+A2671,"USMM ACCOUNTABLE CARE PARTNERS, LLC",0.01,Low Risk
+A2366,Akira Health of Fresno Inc.,0.01,Low Risk
+A5392,"Envoy Integrated Health ACO, LLC",0.01,Low Risk
+A5378,"Emergent ACO 24.1, LLC",0.01,Low Risk
+A2587,"Springfield Clinic ACO, LLC",0.01,Low Risk
+A2597,"Genesys PHO, L.L.C.",0.01,Low Risk
+A2598,"UMASS Memorial Accountable Care Organization, INC.",0.01,Low Risk
+A2600,"Ascension Care Management Health Partners Indianapolis, LLC",0.01,Low Risk
+A2645,"Mission Health Care Network, LLC",0.01,Low Risk
+A2695,"Northeast Medical Group ACO, LLC",0.01,Low Risk
+A2309,"Seton Accountable Care Organization, Inc.",0.01,Low Risk
+A3891,"Aledade Accountable Care 25, LLC",0.01,Low Risk
+A2706,"PQN - Central Texas, LLC",0.01,Low Risk
+A2773,"Think ACO, LLC",0.01,Low Risk
+A2801,"Central Florida ACO, LLC",0.01,Low Risk
+A5355,"Aledade Accountable Care 152, LLC",0.01,Low Risk
+A2844,"Central Minnesota ACO, LLC",0.01,Low Risk
+A2880,National Rural ACO 19 LLC,0.01,Low Risk
+A2918,"Aledade Louisiana ACO, LLC",0.01,Low Risk
+A5399,Main Street Rural Health Juniper ACO LLC,0.01,Low Risk
+A2299,Northwest Florida Health Partners LLC,0.01,Low Risk
+A2975,"Baptist Health Care Partners, LLC",0.01,Low Risk
+A1702,"American Health Alliance, LLC",0.01,Low Risk
+A1051,"Coastal Carolina Quality Care, Inc.",0.01,Low Risk
+A1196,Methodist Patient Centered ACO,0.01,Low Risk
+A5455,"Votion ACO 1, LLC",0.01,Low Risk
+A1403,"AHN Accountable Care Organization, LLC",0.01,Low Risk
+A1494,"Indiana Lakes ACO, LLC",0.01,Low Risk
+A1552,"Keystone Accountable Care Organization, LLC",0.01,Low Risk
+A1596,"Accountable Care Coalition of Georgia, LLC.",0.01,Low Risk
+A1675,HHC ACO Inc,0.01,Low Risk
+A1737,The Premier HealthCare Network LLC,0.01,Low Risk
+A5401,Main Street Rural Health Maple ACO LLC,0.01,Low Risk
+A2000,"ProHealth Physicians ACO, LLC",0.01,Low Risk
+A5419,Trinity Health Of New England CIN LLC,0.01,Low Risk
+A2035,Midwest Health Coalition ACO LLC,0.01,Low Risk
+A2083,"First Coast Health Alliance, LLC",0.01,Low Risk
+A2142,Buena Vida y Salud LLC,0.01,Low Risk
+A2193,"Adirondacks ACO, LLC",0.01,Low Risk
+A2202,"SJFI, LLC",0.01,Low Risk
+A2251,Silver State ACO LLC,0.01,Low Risk
+A2952,"Alliance ACO, LLC",0.01,Low Risk
+A2704,"Richmond Quality, LLC",0.01,Low Risk
+A3644,Lifecare ACO LLC,0.01,Low Risk
+A3621,"Kootenai Accountable Care, LLC",0.01,Low Risk
+A3797,"NCH ACO, LLC",0.01,Low Risk
+A3714,"CHSPSC ACO 7, LLC",0.01,Low Risk
+A3759,"Riverside Health Source, LLC",0.01,Low Risk
+A3560,"St. Luke's Shared Savings Plan, LLC",0.01,Low Risk
+A3578,Caravan Health ACO 15 LLC,0.01,Low Risk
+A3591,"ColigoCare, LLC",0.01,Low Risk
+A3613,Utah Physicians Quality Care,0.01,Low Risk
+A3623,"St. Luke's ACO, LLC",0.01,Low Risk
+A3825,"OhioHealth Venture, LLC",0.01,Low Risk
+A3671,"Einstein Care Partners, LLC",0.01,Low Risk
+A3724,"CHSPSC ACO 14, LLC",0.01,Low Risk
+A3723,"CHSPSC ACO 13, LLC",0.01,Low Risk
+A5257,The Rural Advantage LLC,0.01,Low Risk
+A3720,"HealthChoice, LLC",0.01,Low Risk
+A5249,"FACS MEDICARE ACO, LLC",0.01,Low Risk
+A3696,"CHSPSC ACO 19, LLC",0.01,Low Risk
+A3454,"Trinity Integrated Care, LLC",0.01,Low Risk
+A3698,"CHSPSC ACO 21, LLC",0.01,Low Risk
+A5329,"Ascension Care Management Health Partners Wisconsin, LLC",0.01,Low Risk
+A3320,Texas Panhandle Clinical Partners ACO LLC,0.01,Low Risk
+A3229,Banner Health Network,0.01,Low Risk
+A5339,Altais Care Alliance LLC,0.01,Low Risk
+A3266,Empire ACO LLC,0.01,Low Risk
+A3272,"Netrin Primary Care ACO, LLC",0.01,Low Risk
+A3840,"Mid South ACO, LLC",0.01,Low Risk
+A5335,Memorial Health Partners ACO LLC,0.01,Low Risk
+A3287,NPG Health Collaborative LLC,0.01,Low Risk
+A3378,All Care Health Alliance LLC,0.01,Low Risk
+A5330,Value Based Long Term Care LLC,0.01,Low Risk
+A3325,"Southeastern Health Partners Medicare ACO, LLC",0.01,Low Risk
+A5468,"UF HEALTH ACO GAINESVILLE, LLC",0.0,Low Risk
+A5062,Kettering Physician Partners Accountable Care LLC,0.0,Low Risk
+A5483,"Collaborative ACO 30, LLC",0.0,Low Risk
+A5421,Main Street Rural Health Dogwood ACO LLC,0.0,Low Risk
+A5053,"Iowa Health Centers for Accountability - West, LLC",0.0,Low Risk
+A5056,"Tandigm Value Partners, LLC",0.0,Low Risk
+A5444,Northwestern Medicine Health Network ACO LLC,0.0,Low Risk
+A5215,"Responsive Care Solutions, LLC",0.0,Low Risk
+A5424,PraxisCare 3 INC,0.0,Low Risk
+A5473,Family Health ACO LLC,0.0,Low Risk
+A5460,East Georgia Health Cooperative,0.0,Low Risk
+A5431,"Accountable Care Coalition of Quality Health II, LLC",0.0,Low Risk
+A5230,"Aledade Accountable Care 147, LLC",0.0,Low Risk
+A5453,Wellvana Essential Care LLC,0.0,Low Risk
+A5348,"Aledade Accountable Care 150, LLC",0.0,Low Risk
+A5094,"Gundersen Health Accountable Care Organization, LLC",0.0,Low Risk
+A5417,"St. John Providence ACO, LLC",0.0,Low Risk
+A5341,"TH-PTN, LLC",0.0,Low Risk
+A5350,"Care Partners ACO, LLC",0.0,Low Risk
+A5340,Missouri Health Center ACO LLC,0.0,Low Risk
+A5358,"Aledade Accountable Care 155, LLC",0.0,Low Risk
+A5363,"Aledade Accountable Care 160, LLC",0.0,Low Risk
+A5334,Main Street Rural Health Hickory ACO LLC,0.0,Low Risk
+A5170,"Iowa Health Accountable Care, L.C.",0.0,Low Risk
+A5049,"Summit Medical Group, P.A.",0.0,Low Risk
+A5375,"Eastside ACO, LLC",0.0,Low Risk
+A5308,"Physician Partners ACO 2, LLC.",0.0,Low Risk
+A5388,"Medical Home Network Health Alliance II, LLC",0.0,Low Risk
+A5169,"Privia Quality Network Colorado, LLC",0.0,Low Risk
+A5202,Montana Health Plus,0.0,Low Risk
+A5305,Centrus Health of Kansas LLC,0.0,Low Risk
+A5402,Main Street Rural Health Poplar ACO LLC,0.0,Low Risk
+A5347,"Hudson Accountable Care, LLC",0.0,Low Risk
+A5404,Main Street Rural Health Willow ACO LLC,0.0,Low Risk
+A5411,Health Centers of Ohio ACO LLC,0.0,Low Risk
+A5412,ONCHC ACO LLC,0.0,Low Risk
+A5124,SSM WI ACO LLC,0.0,Low Risk
+A5414,"Dartmouth Health Performance Network, LLC",0.0,Low Risk
+A1001,"PBACO Holding, LLC",0.0,Low Risk
+A3873,"Adventist Health Accountable Care, LLC",0.0,Low Risk
+A5047,"Zenith Independent Physicians, PLLC",0.0,Low Risk
+A2754,"United Medical, LLC",0.0,Low Risk
+A2490,"CMG ACO, LLC",0.0,Low Risk
+A2506,Cotton-O'Neil ACO llc,0.0,Low Risk
+A2542,Baylor Quality Health Care Alliance LLC,0.0,Low Risk
+A2550,"Franciscan ACO, Inc.",0.0,Low Risk
+A2551,"Physicians ACO, LLC",0.0,Low Risk
+A2557,Aledade Delaware ACO LLC,0.0,Low Risk
+A2571,"NYP-CU-WC Integrated Services, LLC",0.0,Low Risk
+A2592,"BayCare Physician Partners ACO, LLC",0.0,Low Risk
+A2616,"Mercy Health ACO, LLC",0.0,Low Risk
+A2619,Illinois Rural Community Care Organization LLC,0.0,Low Risk
+A2620,"Northwestern Medicine ACO, LLC",0.0,Low Risk
+A2729,"Cleveland Clinic Medicare ACO, LLC",0.0,Low Risk
+A2762,"LHP Accountable Care, LLC",0.0,Low Risk
+A2311,"JFK Population Health Company, LLC",0.0,Low Risk
+A2772,"Citrus County ACO, LLC",0.0,Low Risk
+A2783,"HSHS ACO, L.L.C.",0.0,Low Risk
+A2809,AmpliPHY of Kentucky ACO LLC,0.0,Low Risk
+A2811,Abacus Health LLC,0.0,Low Risk
+A2831,"Community Care Partnership of Maine, LLC",0.0,Low Risk
+A2916,"Aledade Kansas ACO, LLC",0.0,Low Risk
+A2973,"LTC ACO, LLC",0.0,Low Risk
+A3016,"ProMedica Health Network, Inc.",0.0,Low Risk
+A3029,"CHRISTUS Health Quality Care Alliance, LLC",0.0,Low Risk
+A3030,"North Shore-LIJ MSSP ACO, LLC",0.0,Low Risk
+A3047,"Aledade Mississippi ACO, LLC",0.0,Low Risk
+A3094,AVANT MSO LLC,0.0,Low Risk
+A2419,"Duke Connected Care, LLC",0.0,Low Risk
+A2286,"Broward Guardian, LLC",0.0,Low Risk
+A3250,Piedmont Clinic ACO LLC,0.0,Low Risk
+A1459,"Alegent Health Partners, LLC",0.0,Low Risk
+A1033,"Advocate Physician Partners Accountable Care, Inc.",0.0,Low Risk
+A1041,"West Florida ACO, LLC",0.0,Low Risk
+A1059,"Optimus Healthcare Partners, LLC",0.0,Low Risk
+A1066,Essentia Health,0.0,Low Risk
+A1095,"Oakwood Accountable Care Organization, LLC",0.0,Low Risk
+A1204,"BJC HealthCare ACO, LLC",0.0,Low Risk
+A1215,"Mercy Health Select, LLC",0.0,Low Risk
+A1225,"Cumberland Center for Healthcare Innovation, LLC",0.0,Low Risk
+A1247,"RWJBH Accountable Care, LLC",0.0,Low Risk
+A1252,Polyclinic Management Services Company,0.0,Low Risk
+A1392,"Asian American Accountable Care Organization, LLC",0.0,Low Risk
+A1401,TP-ACO L.L.C.,0.0,Low Risk
+A1501,"AMITA Health Accountable Care Organization, LLC",0.0,Low Risk
+A2272,"SSM ACO, LLC",0.0,Low Risk
+A1522,"Southcoast Accountable Care Organization, LLC",0.0,Low Risk
+A1694,"Franciscan Northwest Physicians Health Network, LLC",0.0,Low Risk
+A1749,"HARTFORD HEALTHCARE ACCOUNTABLE CARE ORGANIZATION, INC.",0.0,Low Risk
+A2019,"Lancaster General Health Community Care Collaborative, LLC",0.0,Low Risk
+A2057,"Privia Quality Network, LLC",0.0,Low Risk
+A2070,"Renown Accountable Care, LLC",0.0,Low Risk
+A2097,Mercy Health Corporation,0.0,Low Risk
+A2098,"The Accountable Care Organization, Ltd.",0.0,Low Risk
+A2107,"Primary PartnerCare ACO Independent Practice Association, Inc.",0.0,Low Risk
+A2147,"Health Choice Care, LLC",0.0,Low Risk
+A2189,Loudoun Medical Group ACO LLC,0.0,Low Risk
+A2266,"Augusta Care Partners, LLC",0.0,Low Risk
+A3236,"PQN - Georgia, LLC",0.0,Low Risk
+A3280,"Prime Care Managers, LLC",0.0,Low Risk
+A5039,"AdvantagePoint Health Alliance - Western North Carolina, LLC",0.0,Low Risk
+A4885,"WellMed Foundation Medicare ACO, LLC",0.0,Low Risk
+A4626,"West Michigan Accountable Care Organization, LLC",0.0,Low Risk
+A4641,"Mass General Brigham ACO, LLC",0.0,Low Risk
+A4671,"Aledade Accountable Care 48, LLC",0.0,Low Risk
+A4709,"CALIFORNIA CLINICAL PARTNERS ACO, LLC",0.0,Low Risk
+A4733,UHA ACO LLC,0.0,Low Risk
+A4744,"Aledade Accountable Care 43, LLC",0.0,Low Risk
+A4757,"Aledade Accountable Care 58, LLC",0.0,Low Risk
+A4777,"Aledade Accountable Care 61, LLC",0.0,Low Risk
+A4803,"WellStar Clinical Partners Medicare ACO, LLC",0.0,Low Risk
+A4824,Dignity Health Care Network LLC,0.0,Low Risk
+A4868,"Sentara Accountable Care Organization, LLC",0.0,Low Risk
+A4873,"Accountable Care Coalition of Northeast Partners, LLC",0.0,Low Risk
+A4894,"Aledade Accountable Care 79, LLC",0.0,Low Risk
+A4614,"Queen's MSSP ACO, LLC",0.0,Low Risk
+A4895,"WellMed MSSP ACO, LLC",0.0,Low Risk
+A4947,"Privia Quality Network Central Florida, LLC",0.0,Low Risk
+A4961,"Desert Mountain ACO, LLC.",0.0,Low Risk
+A4974,Caravan Health ACO 43 LLC,0.0,Low Risk
+A4976,"Mary Washington Health Alliance, LLC",0.0,Low Risk
+A4977,"Bellin Health Partners, Inc.",0.0,Low Risk
+A4988,THEDACARE ACO LLC,0.0,Low Risk
+A4992,"Aledade Accountable Care 90, LLC",0.0,Low Risk
+A5002,"Aledade Accountable Care 102, LLC",0.0,Low Risk
+A5003,"Aledade Accountable Care 103, LLC",0.0,Low Risk
+A5013,Baptist Health Quality Network LLC,0.0,Low Risk
+A5038,"AdvantagePoint Health Alliance - Tennessee Valley, LLC",0.0,Low Risk
+A4617,"Mayo Clinic Community ACO, LLC",0.0,Low Risk
+A4556,"Emergent ACO, LLC",0.0,Low Risk
+A3289,OSF Healthcare System,0.0,Low Risk
+A3588,"Treasure Coast Integrated Healthcare, LLC",0.0,Low Risk
+A3299,"Aledade Arkansas ACO, LLC",0.0,Low Risk
+A3324,"Hampton Roads Good Help ACO, LLC",0.0,Low Risk
+A3365,"TC2, LLC",0.0,Low Risk
+A3391,"CHESS Value, LLC",0.0,Low Risk
+A3458,"Aledade Accountable Care 16, LLC",0.0,Low Risk
+A3466,"Louisiana Primary Care Accountable Care Organization, LLC",0.0,Low Risk
+A3473,Houston Methodist Coordinated Care,0.0,Low Risk
+A3504,"Novant Health Accountable Care Organization I, LLC",0.0,Low Risk
+A3521,"Scripps Accountable Care Organization, LLC",0.0,Low Risk
+A3527,"Kansas Clinical Improvement Collaborative, LLC",0.0,Low Risk
+A3554,"Community Health Center Network Of Idaho, LLC",0.0,Low Risk
+A3555,"Inspire Health Partners, LLC",0.0,Low Risk
+A3633,A2 ACO LLC,0.0,Low Risk
+A4548,"Aledade Duwamish ACO, LLC",0.0,Low Risk
+A3664,"CHSPSC ACO 2, LLC",0.0,Low Risk
+A3677,"McLeod Healthcare Network, LLC",0.0,Low Risk
+A3692,"CHSPSC ACO 15, LLC",0.0,Low Risk
+A3712,"CHSPSC ACO 6, LLC",0.0,Low Risk
+A3715,"CHSPSC ACO 8, LLC",0.0,Low Risk
+A3722,"CHSPSC ACO 12, LLC",0.0,Low Risk
+A3783,"Privia Quality Network Gulf Coast II, LLC",0.0,Low Risk
+A3791,"University Health ACO, LLC",0.0,Low Risk
+A3799,UC Irvine Health Accountable Care Organization,0.0,Low Risk
+A3894,"Aledade Accountable Care 37, LLC",0.0,Low Risk
+A3899,"Aledade Accountable Care 35, LLC",0.0,Low Risk
+A4527,Caravan Health ACO 20 LLC,0.0,Low Risk
+A5488,Physicians Collaborative Solutions,0.0,Low Risk

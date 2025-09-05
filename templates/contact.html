@@ -1,0 +1,170 @@
+{% extends "base.html" %}
+
+{% block title %}CMS VBC Analytics - Contact{% endblock %}
+
+{% block head %}
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/contact.css') }}">
+{% endblock %}
+
+{% block content %}
+<!-- Hero Section -->
+<section class="contact-hero">
+    <div class="container">
+        <div class="hero-content fade-in-up">
+            <h1>Get Started Today</h1>
+            <p>Ready to transform your healthcare analytics? Contact our team of experts to discuss your specific needs and get started with CMS VBC Analytics.</p>
+        </div>
+    </div>
+</section>
+
+<!-- Contact Section -->
+<section class="contact-section section">
+    <div class="container">
+        <div class="contact-grid">
+            <!-- Contact Form -->
+            <div class="contact-form-container slide-in-left">
+                <div class="form-header">
+                    <h3>Send us a message</h3>
+                    <p>Fill out the form below and we'll get back to you within 24 hours</p>
+                </div>
+                
+                <form class="contact-form" id="contactForm" action="https://formspree.io/f/mgvlppkd" method="POST">
+                    <div class="form-row">
+                        <div class="form-group">
+                            <label for="firstName">First Name</label>
+                            <input type="text" id="firstName" name="firstName" required>
+                        </div>
+                        <div class="form-group">
+                            <label for="lastName">Last Name</label>
+                            <input type="text" id="lastName" name="lastName" required>
+                        </div>
+                    </div>
+                    
+                    <div class="form-group">
+                        <label for="email">Email Address</label>
+                        <input type="email" id="email" name="email" required>
+                    </div>
+                    
+                    <div class="form-group">
+                        <label for="organization">Organization</label>
+                        <input type="text" id="organization" name="organization">
+                    </div>
+                    
+                    <div class="form-group">
+                        <label for="subject">Subject</label>
+                        <select id="subject" name="subject" required>
+                            <option value="">Select a topic</option>
+                            <option value="demo">Request Demo</option>
+                            <option value="pricing">Pricing Information</option>
+                            <option value="support">Technical Support</option>
+                            <option value="partnership">Partnership</option>
+                            <option value="other">Other</option>
+                        </select>
+                    </div>
+                    
+                    <div class="form-group">
+                        <label for="message">Message</label>
+                        <textarea id="message" name="message" rows="5" required></textarea>
+                    </div>
+                    
+                    <button type="submit" class="submit-btn">
+                        <span class="btn-text">
+                            <i class="fas fa-paper-plane"></i>
+                            Send Message
+                        </span>
+                    </button>
+
+                    <!-- Success & Error Messages -->
+                    <p id="formResponse" class="form-response"></p>
+                </form>
+            </div>
+            
+            <!-- Contact Info -->
+            <div class="contact-info slide-in-right">
+                <div class="info-header">
+                    <h3>Contact Information</h3>
+                    <p>Headquarters and primary contact channels for CMS. Always double-check official CMS pages for the latest contact details.</p>
+                </div>
+                
+                <div class="info-cards">
+                    <div class="info-card">
+                        <div class="info-icon"><i class="fas fa-map-marker-alt"></i></div>
+                        <div class="info-content">
+                            <h5>Our Office</h5>
+                            <p>Centers for Medicare & Medicaid Services (CMS)<br>
+                            7500 Security Boulevard<br>
+                            Baltimore, MD 21244<br>
+                            United States</p>
+                        </div>
+                    </div>
+                    
+                    <div class="info-card">
+                        <div class="info-icon"><i class="fas fa-phone"></i></div>
+                        <div class="info-content">
+                            <h5>Phone Support</h5>
+                            <p>Main:  1-800-633-4227<br>Support: 1-877-486-2048<br>Available 9 AM - 6 PM EST</p>
+                        </div>
+                    </div>
+                    
+                    <div class="info-card">
+                        <div class="info-icon"><i class="fas fa-envelope"></i></div>
+                        <div class="info-content">
+                            <h5>Email Support</h5>
+                            <p>General: info@cms.co.in <br>Support: info@cms.co.in <br>Sales: investrel@cmsenergy.com</p>
+                        </div>
+                    </div>
+                    
+                    <div class="info-card">
+                        <div class="info-icon"><i class="fas fa-clock"></i></div>
+                        <div class="info-content">
+                            <h5>Business Hours</h5>
+                            <p>Monday – Friday: 8:00 AM – 5:00 PM (local time). Closed on federal holidays.</p>
+                            <p class="small">Hours vary by office/department — verify on the official site.</p>
+                        </div>
+                    </div>
+                </div>  
+            </div>
+        </div>
+    </div>
+</section>
+{% endblock %}
+
+{% block scripts %}
+<script>
+    const form = document.getElementById('contactForm');
+    const responseMsg = document.getElementById('formResponse');
+
+    form.addEventListener('submit', async (e) => {
+        e.preventDefault(); // stop normal submission
+        responseMsg.textContent = "Sending...";
+        responseMsg.style.color = "#555";
+
+        try {
+            const formData = new FormData(form);
+
+            const res = await fetch(form.action, {
+                method: "POST",
+                body: formData,
+                headers: { 'Accept': 'application/json' }
+            });
+
+            if (res.ok) {
+                responseMsg.textContent = "✅ Thank you! Your message has been sent.";
+                responseMsg.style.color = "green";
+                form.reset();
+            } else {
+                const errorData = await res.json();
+                if (errorData.errors) {
+                    responseMsg.textContent = "❌ " + errorData.errors.map(e => e.message).join(", ");
+                } else {
+                    responseMsg.textContent = "❌ Oops! Something went wrong.";
+                }
+                responseMsg.style.color = "red";
+            }
+        } catch (err) {
+            responseMsg.textContent = "❌ Network error. Please try again.";
+            responseMsg.style.color = "red";
+        }
+    });
+</script>
+{% endblock %}

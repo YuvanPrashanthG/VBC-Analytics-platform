@@ -1,0 +1,317 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>VBC Cost Forecaster</title>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+  <style>
+    /* --- Color Palette (matches Risk Performance Dashboard) --- */
+    :root {
+      --primary-50: #eff6ff;
+      --primary-100: #dbeafe;
+      --primary-200: #bfdbfe;
+      --primary-300: #93c5fd;
+      --primary-400: #60a5fa;
+      --primary-500: #3b82f6;
+      --primary-600: #2563eb;
+      --primary-700: #1d4ed8;
+      --primary-800: #1e40af;
+      --primary-900: #1e3a8a;
+      --success: #2ecc71;
+      --warning: #f39c12;
+      --danger: #e74c3c;
+      --light: #f9fafb;
+      --text: #1f2937;
+      --text-light: #6b7280;
+      --border: #dee2e6;
+      --shadow: rgba(0,0,0,0.08);
+    }
+
+    *{box-sizing:border-box;margin:0;padding:0}
+    body {
+      font-family:'Poppins', sans-serif;
+      background-color: var(--primary-50);
+      color: var(--text);
+      padding-top: 80px;
+    }
+
+    /* --- Navigation Bar Styles (same as Risk Dashboard) --- */
+    .tool-navbar {
+      position: fixed;
+      top: 0;
+      left: 0;
+      width: 100%;
+      z-index: 1000;
+      background: rgba(255, 255, 255, 0.95);
+      backdrop-filter: blur(10px);
+      border-bottom: 1px solid #dee2e6;
+      box-shadow: 0 1px 3px 0 rgba(0, 0, 0, 0.1);
+      padding: 0 1rem;
+    }
+
+    .nav-container-tool {
+      max-width: 1400px;
+      margin: 0 auto;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      height: 4rem;
+    }
+
+    .nav-brand {
+      display: flex;
+      align-items: center;
+      text-decoration: none;
+      color: var(--text);
+    }
+
+    .nav-brand-icon {
+      background: linear-gradient(135deg, var(--primary-600), var(--primary-700));
+      padding: 0.5rem;
+      border-radius: 0.5rem;
+      margin-right: 0.75rem;
+    }
+
+    .nav-brand-icon i { color: white; font-size: 1.25rem; }
+    .nav-brand-text { font-size: 1.25rem; font-weight: 700; }
+
+    .back-button {
+      display: inline-flex;
+      align-items: center;
+      gap: 0.5rem;
+      padding: 0.5rem 1rem;
+      background: #e9ecef;
+      color: var(--primary-800);
+      border: 1px solid #dee2e6;
+      border-radius: 0.5rem;
+      font-weight: 600;
+      text-decoration: none;
+      transition: all 0.2s ease;
+    }
+
+    .back-button:hover { background-color: #dbe2e9; }
+    .back-button i { font-size: 0.9rem; }
+
+    /* --- Forecaster Container --- */
+    .container {
+      width:100%;
+      max-width:700px;
+      background:white;
+      border-radius:16px;
+      box-shadow:0 10px 30px var(--shadow);
+      margin: 2rem auto;
+      padding:2.5rem;
+      border:1px solid var(--primary-100);
+    }
+
+    header {
+      text-align:center;
+      margin-bottom:2rem;
+    }
+
+    header h1 {
+      color: var(--primary-800);
+      font-size:2rem;
+      margin-bottom:.5rem;
+      font-weight:600;
+    }
+
+    header p { color: var(--text-light); font-size:1rem; }
+
+    .form-section { margin-bottom:2rem; }
+
+    .section-title {
+      display:flex;
+      align-items:center;
+      gap:.75rem;
+      margin-bottom:1.5rem;
+      padding-bottom:.5rem;
+      border-bottom:1px solid var(--primary-100);
+    }
+
+    .section-number {
+      background: var(--primary-600);
+      color:white;
+      width:24px;height:24px;
+      border-radius:50%;
+      display:flex;
+      align-items:center;
+      justify-content:center;
+      font-weight:700;
+      font-size:.8rem;
+    }
+
+    .section-title span {
+      font-size:1.1rem;
+      font-weight:600;
+      color:var(--primary-800);
+    }
+
+    .form-group { margin-bottom:1.5rem; }
+    .form-group label { display:block;margin-bottom:.5rem;font-weight:600;font-size:.9rem }
+
+    .input-icon { position:relative }
+    .input-icon i {
+      position:absolute;
+      left:12px;
+      top:50%;
+      transform:translateY(-50%);
+      color:#aaa;
+    }
+
+    .form-group select,.form-group input {
+      width:100%;
+      padding:.75rem .75rem .75rem 2.25rem;
+      border:1px solid var(--primary-200);
+      border-radius:8px;
+      font-size:1rem;
+      transition:border-color .2s ease,box-shadow .2s ease;
+    }
+
+    .form-group select:focus,.form-group input:focus {
+      outline:none;
+      border-color: var(--primary-500);
+      box-shadow:0 0 0 3px rgba(59,130,246,0.3);
+    }
+
+    .btn-submit {
+      width:100%;
+      padding:1rem;
+      background:linear-gradient(135deg,var(--primary-600),var(--primary-700));
+      color:white;
+      border:none;
+      border-radius:8px;
+      font-size:1.1rem;
+      font-weight:700;
+      cursor:pointer;
+      transition:all .3s ease;
+      display:flex;
+      align-items:center;
+      justify-content:center;
+      gap:.5rem;
+    }
+
+    .btn-submit:hover {
+      transform:translateY(-2px);
+      box-shadow:0 6px 20px rgba(37,99,235,0.4);
+    }
+
+    .prediction-result {
+      margin-top:2.5rem;
+      padding:2rem;
+      background: var(--primary-50);
+      border-radius:12px;
+      text-align:center;
+      border:1px solid var(--primary-200);
+    }
+
+    .prediction-result h2 {
+      color:var(--primary-800);
+      font-size:1.5rem;
+      margin-bottom:1rem;
+    }
+
+    .prediction-value {
+      font-size:2.5rem;
+      font-weight:700;
+      color: var(--success);
+      margin-bottom:.5rem;
+    }
+
+    .prediction-label {
+      font-size:1rem;
+      color: var(--text-light);
+      font-weight:600;
+    }
+
+    .flash-messages{list-style:none;padding:0;margin-bottom:1.5rem}
+    .flash-messages li{
+      padding:.8rem 1rem;
+      border-radius:6px;
+      text-align:center;
+      font-weight:600;
+      background-color:#f8d7da;
+      color:#721c24;
+      border:1px solid #f5c6cb;
+    }
+  </style>
+</head>
+<body>
+  <!-- Navigation Bar -->
+  <nav class="tool-navbar">
+    <div class="nav-container-tool">
+      <a href="{{ url_for('index') }}" class="nav-brand">
+        <div class="nav-brand-icon">
+          <i class="fas fa-chart-line"></i>
+        </div>
+        <span class="nav-brand-text">CMS VBC Analytics</span>
+      </a>
+      <a href="{{ url_for('models') }}" class="back-button">
+        <i class="fas fa-arrow-left"></i>
+        <span>Back to Models</span>
+      </a>
+    </div>
+  </nav>
+
+  <div class="container">
+    <header>
+      <h1>VBC Cost Forecaster</h1>
+      <p>Select an ACO and adjust variables to predict future costs.</p>
+    </header>
+    <form action="{{ url_for('cost_predict') }}" method="POST">
+      <div class="form-section">
+        <div class="section-title">
+          <div class="section-number">1</div>
+          <span>Select Base ACO</span>
+        </div>
+        <div class="form-group">
+          <label for="aco_name">Accountable Care Organization (ACO)</label>
+          <div class="input-icon">
+            <i class="fas fa-hospital"></i>
+            <select id="aco_name" name="aco_name" required>
+              <option value="" disabled selected>Choose an ACO...</option>
+              {% for name in aco_names %}
+                <option value="{{ name }}">{{ name }}</option>
+              {% endfor %}
+            </select>
+          </div>
+        </div>
+      </div>
+
+      <div class="form-section">
+        <div class="section-title">
+          <div class="section-number">2</div>
+          <span>Enter "What-If" Scenarios <small>(Optional)</small></span>
+        </div>
+        <div class="form-group">
+          <label for="N_AB">New Number of Beneficiaries</label>
+          <div class="input-icon">
+            <i class="fas fa-users"></i>
+            <input type="number" id="N_AB" name="N_AB" placeholder="e.g., 25000">
+          </div>
+        </div>
+        <div class="form-group">
+          <label for="GenSaveLoss">Projected Gross Savings/Losses ($)</label>
+          <div class="input-icon">
+            <i class="fas fa-dollar-sign"></i>
+            <input type="number" id="GenSaveLoss" name="GenSaveLoss" placeholder="e.g., -500000">
+          </div>
+        </div>
+      </div>
+
+      <button type="submit" class="btn-submit">
+        <i class="fas fa-calculator"></i> Predict Cost
+      </button>
+    </form>
+
+    {% if prediction is not none %}
+    <div class="prediction-result">
+      <h2>Prediction Result</h2>
+      <div class="prediction-label">Predicted Per Capita Expense for 2025</div>
+      <div class="prediction-value">${{ "%.2f"|format(prediction) }}</div>
+    </div>
+    {% endif %}
+  </div>
+</body>
+</html>

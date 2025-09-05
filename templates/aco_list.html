@@ -1,0 +1,49 @@
+
+{% extends "aco_base.html" %}
+
+{% block title %}ACO Dashboard - All Organizations{% endblock %}
+
+{% block content %}
+<div class="page-header">
+  <h2>Accountable Care Organizations (ACOs)</h2>
+  <div style="display: flex; align-items: center; justify-content: space-between;">
+    <p class="page-subtitle" style="margin: 0;">Performance Rankings - High Quality to Low Quality</p>
+    <div class="dashboard-controls" style="margin: 0;">
+      <a href="{{ url_for('analysis') }}" class="back-btn">← Back to Analysis</a>
+    </div>
+  </div>
+
+</div>
+
+<div class="aco-grid">
+  {% for aco in acos %}
+  <div class="aco-card" 
+     data-model="{{ aco.modelType|lower }}" 
+     onclick="window.location.href='{{ url_for('aco_dashboard', aco_id=aco.id) }}'">
+  <div class="aco-rank">#{{ loop.index }}</div>
+  <h3 class="aco-name">{{ aco.name }}</h3>
+  <span class="aco-model-type model-{{ aco.modelType|lower }}">
+      {{ aco.modelType }}
+  </span>
+  <div class="aco-metrics">
+    <div class="metric-item {% if aco.qualityScore >= 85 %}quality-high{% elif aco.qualityScore >= 75 %}quality-medium{% else %}quality-low{% endif %}">
+      <div class="metric-value">{{ aco.qualityScore }}%</div>
+      <div class="metric-label">Quality Score</div>
+    </div>
+    <div class="metric-item">
+      <div class="metric-value">{{ '{:,}'.format(aco.beneficiaries) }}</div>
+      <div class="metric-label">Beneficiaries</div>
+    </div>
+    <div class="metric-item">
+      <div class="metric-value">${{ '%.1f'|format((aco.sharedSavings | abs) / 1000000) }}M</div>
+      <div class="metric-label">Savings/Losses</div>
+    </div>
+    <div class="metric-item">
+      <div class="metric-value" style="font-size: 1.2rem; padding-top: 5px;">{{ aco.modelType }}</div>
+      <div class="metric-label">Risk Model</div>
+    </div>
+  </div>
+</div>
+  {% endfor %}
+</div>
+{% endblock %}

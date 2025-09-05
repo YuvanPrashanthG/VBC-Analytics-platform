@@ -1,0 +1,413 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&display=swap');
+
+:root {
+    --primary-50: #eff6ff;
+    --primary-100: #dbeafe;
+    --primary-200: #bfdbfe;
+    --primary-300: #93c5fd;
+    --primary-400: #60a5fa;
+    --primary-500: #3b82f6;
+    --primary-600: #2563eb;
+    --primary-700: #1d4ed8;
+    --primary-800: #1e40af;
+    --primary-900: #1e3a8a;
+    
+    --accent-50: #f0f9ff;
+    --accent-100: #e0f2fe;
+    --accent-200: #bae6fd;
+    --accent-300: #7dd3fc;
+    --accent-400: #38bdf8;
+    --accent-500: #0ea5e9;
+    --accent-600: #0284c7;
+    --accent-700: #0369a1;
+    --accent-800: #075985;
+    --accent-900: #0c4a6e;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Inter', sans-serif;
+    color: #1f2937;
+    background-color: #f9fafb;
+    line-height: 1.6;
+}
+
+/* Navigation Styles */
+.navbar {
+    position: fixed;
+    top: 0;
+    width: 100%;
+    z-index: 1000;
+    background: rgba(255, 255, 255, 0.95);
+    backdrop-filter: blur(10px);
+    border-bottom: 1px solid var(--primary-100);
+    box-shadow: 0 1px 3px 0 rgba(0, 0, 0, 0.1);
+    transition: all 0.3s ease;
+}
+/* Tooltip Text */
+.tooltip-text {
+    visibility: hidden;
+    width: 90px;
+    background-color: #fafbfd;
+    color: #6b6b6b;
+    text-align: center;
+    border-radius: 6px;
+    padding: 8px 10px;
+    position: absolute;
+    z-index: 1000;
+    top: 130%; /* Position below the icon */
+    left: 50%;
+    margin-left: -45px; /* Center the tooltip */
+    opacity: 0;
+    transition: all 0.3s ease;
+    font-size: 13px;
+    white-space: nowrap;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.3);
+    border: 2px solid #007bff;
+}
+
+/* Tooltip Arrow */
+.tooltip-text::after {
+    content: "";
+    position: absolute;
+    bottom: 100%;
+    left: 50%;
+    margin-left: -6px;
+    border-width: 6px;
+    border-style: solid;
+    border-color: transparent transparent #007bff transparent;
+}
+
+/* Show tooltip on hover */
+.tooltip-container:hover .tooltip-text {
+    visibility: visible;
+    opacity: 1;
+}
+
+/* Optional: Style the user icon */
+.tooltip-container .fas.fa-user-circle {
+    font-size: 30px;
+    color: #666;
+    transition: color 0.2s ease;
+}
+
+.tooltip-container:hover .fas.fa-user-circle {
+    color: #333;
+}
+.nav-container {
+    max-width: 1280px;
+    margin: 0 auto;
+    padding: 0 1rem;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 4rem;
+}
+
+.nav-brand {
+    display: flex;
+    align-items: center;
+    text-decoration: none;
+    color: #1f2937;
+}
+
+.nav-brand-icon {
+    background: linear-gradient(135deg, var(--primary-500), var(--primary-600));
+    padding: 0.5rem;
+    border-radius: 0.5rem;
+    margin-right: 0.75rem;
+    transition: transform 0.3s ease;
+}
+
+.nav-brand-icon:hover {
+    transform: scale(1.1);
+}
+
+.nav-brand-icon i {
+    color: white;
+    font-size: 1.25rem;
+}
+
+.nav-brand-text {
+    font-size: 1.25rem;
+    font-weight: 700;
+    transition: color 0.3s ease;
+}
+
+.nav-brand:hover .nav-brand-text {
+    color: var(--primary-600);
+}
+
+.nav-menu {
+    display: flex;
+    align-items: center;
+    list-style: none;
+    gap: 2rem;
+}
+
+.nav-link {
+    text-decoration: none;
+    color: #4b5563;
+    font-weight: 500;
+    padding: 0.5rem 0.75rem;
+    border-radius: 0.375rem;
+    transition: all 0.3s ease;
+    position: relative;
+}
+
+.nav-link:hover,
+.nav-link.active {
+    color: var(--primary-600);
+}
+
+.nav-link::after {
+    content: '';
+    position: absolute;
+    bottom: -0.25rem;
+    left: 0.75rem;
+    right: 0.75rem;
+    height: 2px;
+    background: var(--primary-600);
+    transform: scaleX(0);
+    transition: transform 0.3s ease;
+}
+
+.nav-link:hover::after,
+.nav-link.active::after {
+    transform: scaleX(1);
+}
+
+.nav-actions {
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+}
+
+.login-status {
+    padding: 0.25rem 0.75rem;
+    background-color: #f3f4f6;
+    color: #4b5563;
+    border-radius: 1rem;
+    font-size: 0.875rem;
+    font-weight: 600;
+    transition: all 0.3s ease;
+}
+
+.login-status.logged-in {
+    background-color: #d1fae5;
+    color: #065f46;
+}
+
+.login-btn {
+    background: var(--primary-600);
+    color: white;
+    padding: 0.5rem 1rem;
+    border: none;
+    border-radius: 0.5rem;
+    font-size: 0.875rem;
+    font-weight: 600;
+    cursor: pointer;
+    transition: all 0.3s ease;
+}
+
+.login-btn:hover {
+    background: var(--primary-700);
+    transform: translateY(-1px);
+    box-shadow: 0 4px 12px rgba(37, 99, 235, 0.4);
+}
+
+.login-btn.logout {
+    background: #dc2626;
+}
+
+.login-btn.logout:hover {
+    background: #b91c1c;
+}
+
+/* Mobile Menu */
+.mobile-menu-btn {
+    display: none;
+    background: none;
+    border: none;
+    font-size: 1.25rem;
+    color: #4b5563;
+    cursor: pointer;
+}
+
+/* Page Container */
+.page-container {
+    min-height: 100vh;
+    padding-top: 4rem;
+}
+
+/* Animations */
+@keyframes fadeInUp {
+    from {
+        opacity: 0;
+        transform: translateY(30px);
+    }
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+@keyframes slideInLeft {
+    from {
+        opacity: 0;
+        transform: translateX(-50px);
+    }
+    to {
+        opacity: 1;
+        transform: translateX(0);
+    }
+}
+
+@keyframes slideInRight {
+    from {
+        opacity: 0;
+        transform: translateX(50px);
+    }
+    to {
+        opacity: 1;
+        transform: translateX(0);
+    }
+}
+
+@keyframes float {
+    0%, 100% { transform: translateY(0px); }
+    50% { transform: translateY(-20px); }
+}
+
+.fade-in-up {
+    animation: fadeInUp 0.8s ease-out;
+}
+
+.slide-in-left {
+    animation: slideInLeft 0.8s ease-out;
+}
+
+.slide-in-right {
+    animation: slideInRight 0.8s ease-out;
+}
+
+.float {
+    animation: float 6s ease-in-out infinite;
+}
+
+/* Utility Classes */
+.container {
+    max-width: 1280px;
+    margin: 0 auto;
+    padding: 0 1rem;
+}
+
+.btn-primary {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    padding: 0.75rem 1.5rem;
+    background: linear-gradient(135deg, var(--primary-600), var(--primary-700));
+    color: white;
+    text-decoration: none;
+    font-weight: 600;
+    border-radius: 0.75rem;
+    transition: all 0.3s ease;
+    border: none;
+    cursor: pointer;
+}
+
+.btn-primary:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 8px 25px rgba(37, 99, 235, 0.4);
+}
+
+.btn-secondary {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    padding: 0.75rem 1.5rem;
+    border: 2px solid var(--primary-600);
+    color: var(--primary-600);
+    text-decoration: none;
+    font-weight: 600;
+    border-radius: 0.75rem;
+    transition: all 0.3s ease;
+    background: transparent;
+    cursor: pointer;
+}
+
+.btn-secondary:hover {
+    background: var(--primary-600);
+    color: white;
+    transform: translateY(-2px);
+}
+
+.section {
+    padding: 5rem 0;
+}
+
+.section-title {
+    text-align: center;
+    margin-bottom: 4rem;
+}
+
+.section-title h2 {
+    font-size: 2.5rem;
+    font-weight: 700;
+    margin-bottom: 1rem;
+    color: #1f2937;
+}
+
+.section-title .divider {
+    width: 6rem;
+    height: 0.25rem;
+    background: linear-gradient(135deg, var(--primary-500), var(--primary-600));
+    margin: 0 auto 1.5rem;
+    border-radius: 0.125rem;
+}
+
+.section-title p {
+    font-size: 1.125rem;
+    color: #6b7280;
+    max-width: 48rem;
+    margin: 0 auto;
+}
+
+/* Card Styles */
+.card {
+    background: white;
+    border-radius: 1rem;
+    box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1);
+    transition: all 0.3s ease;
+    overflow: hidden;
+}
+
+.card:hover {
+    transform: translateY(-8px);
+    box-shadow: 0 20px 25px -5px rgba(0, 0, 0, 0.1);
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+    .nav-menu {
+        display: none;
+    }
+    
+    .mobile-menu-btn {
+        display: block;
+    }
+    
+    .section-title h2 {
+        font-size: 2rem;
+    }
+    
+    .nav-container {
+        padding: 0 1rem;
+    }
+}

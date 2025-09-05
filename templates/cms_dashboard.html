@@ -1,0 +1,69 @@
+{% extends "base.html" %}
+
+{% block title %}CMS Dashboard{% endblock %}
+
+{% block head %}
+<style>
+  body, html {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    background: linear-gradient(to right, #e6f2ff, #ffffff);
+    font-family: "Segoe UI", Arial, sans-serif;
+  }
+
+  .dashboard-container {
+    display: flex;
+    flex-direction: column;
+    height: 100;
+    width: 90vw;
+    margin: 2vh auto;
+    border: 8px solid #1e90ff; /* Blue border */
+    border-radius: 16px;       /* Rounded corners */
+    background-color: white;   
+    box-shadow: 0 6px 20px rgba(0, 0, 0, 0.25);
+    overflow: hidden;
+  }
+
+  .dashboard-header {
+    background: linear-gradient(135deg, #1e90ff, #0066cc);
+    color: white;
+    padding: 15px 25px;
+    font-size: 24px;
+    font-weight: 600;
+    text-align: center;
+    letter-spacing: 1px;
+    border-bottom: 4px solid #ffffff;
+    text-shadow: 1px 1px 4px rgba(0,0,0,0.3);
+    position: relative;
+  }
+
+  /* Decorative underline glow */
+  .dashboard-header::after {
+    content: "";
+    position: absolute;
+    left: 50%;
+    transform: translateX(-50%);
+    bottom: 8px;
+    width: 120px;
+    height: 3px;
+    background: #ffffff;
+    border-radius: 4px;
+    box-shadow: 0 0 8px rgba(255, 255, 255, 0.7);
+  }
+
+  .dashboard-frame {
+    flex: 1;
+    border: none;
+    width: 100%;
+    height: 100%;
+  }
+</style>
+{% endblock %}
+
+{% block content %}
+<div class="dashboard-container">
+  <div class="dashboard-header">CMS VBC Analytics</div>
+  <iframe class="dashboard-frame" title="cts_best_dashboard" src="https://app.powerbi.com/view?r=eyJrIjoiZTAzZjlmYzUtMzQ1Ni00YTU2LWI2MWQtMjYxNzhhN2FmNTVlIiwidCI6ImFlYjQ3YTM1LTliYzctNDJiYS1hMzAwLTAwOWFmMWJkOTY4OSJ9" frameborder="0" allowFullScreen="true"></iframe>
+</div>
+{% endblock %}

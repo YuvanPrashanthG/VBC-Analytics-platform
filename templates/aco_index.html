@@ -1,0 +1,126 @@
+{% extends "aco_all_base.html" %}
+
+{% block title %}ACO Analytics - Home{% endblock %}
+
+{% block head %}
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/home.css') }}">
+    
+    <!-- The navbar styles are now inherited from the base template, -->
+    <!-- so the specific <style> block has been removed. -->
+{% endblock %}
+
+{% block content %}
+<!-- The redundant <nav> element has been removed from this content block. -->
+<!-- The main navigation is now correctly inherited from aco_all_base.html. -->
+
+<section class="hero-section">
+    <div class="floating-shapes">
+        <div class="shape shape-1"></div>
+        <div class="shape shape-2"></div>
+        <div class="shape shape-3"></div>
+    </div>
+    
+    <div class="container">
+        <div class="hero-grid">
+            <div class="hero-content fade-in-up">
+                <h1 class="hero-title">
+                    <span class="title-primary">Welcome, ACO User</span>
+                    <span class="title-gradient">Your Analytics Hub</span>
+                </h1>
+                <p class="hero-description">
+                    Access advanced data analytics and machine learning insights to improve patient outcomes and reduce costs for your organization.
+                </p>
+                
+                <div class="hero-stats">
+                    <div class="stat-card">
+                        <div class="stat-number">500+</div>
+                        <div class="stat-label">Providers</div>
+                    </div>
+                    <div class="stat-card">
+                        <div class="stat-number">95%</div>
+                        <div class="stat-label">Accuracy</div>
+                    </div>
+                    <div class="stat-card">
+                        <div class="stat-number">$2M+</div>
+                        <div class="stat-label">Saved</div>
+                    </div>
+                </div>
+                
+                <div class="hero-actions">
+                    <!-- This link now uses the session to get the user's ID, -->
+                    <!-- making it consistent with the base template. -->
+                    <a href="{{ url_for('sep_aco_dashboard', aco_id=session.get('aco_id')) }}" class="btn-primary">
+                        <span>Go to Dashboard</span>
+                        <i class="fas fa-arrow-right"></i>
+                    </a>
+                    <button class="btn-secondary">
+                        <i class="fas fa-book"></i>
+                        <span>Read Docs</span>
+                    </button>
+                </div>
+            </div>
+            
+            <div class="hero-image slide-in-right">
+                <div class="image-container">
+                    <img src="{{ url_for('static', filename='images/Aco_image.jpeg') }}" alt="Healthcare Analytics Dashboard">
+                    <div class="live-indicator">
+                        <div class="pulse-dot"></div>
+                        <span>Live Analytics</span>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<section class="quote-section">
+    <div class="container">
+        <div class="quote-card fade-in-up">
+            <p class="quote-text">"Transforming healthcare data into actionable insights for improved patient outcomes and cost reduction."</p>
+            <footer class="quote-author">— CMS VBC Analytics Team</footer>
+        </div>
+    </div>
+</section>
+
+<section class="features-section section">
+    <div class="container">
+        <div class="section-title">
+            <h2>Platform Capabilities</h2>
+            <div class="divider"></div>
+            <p>Comprehensive analytics solutions designed specifically for healthcare organizations</p>
+        </div>
+        
+        <div class="features-grid">
+            <div class="feature-card fade-in-up">
+                <div class="feature-icon">
+                    <i class="fas fa-chart-bar"></i>
+                </div>
+                <h3>Advanced Analytics</h3>
+                <p>Powerful data analysis tools with real-time insights and predictive modeling capabilities.</p>
+            </div>
+            
+            <div class="feature-card fade-in-up">
+                <div class="feature-icon">
+                    <i class="fas fa-shield-alt"></i>
+                </div>
+                <h3>HIPAA Compliant</h3>
+                <p>Enterprise-grade security ensuring full compliance with healthcare data protection standards.</p>
+            </div>
+            
+            <div class="feature-card fade-in-up">
+                <div class="feature-icon">
+                    <i class="fas fa-users"></i>
+                </div>
+                <h3>Expert Support</h3>
+                <p>Dedicated team of healthcare analytics specialists providing ongoing support and guidance.</p>
+            </div>
+        </div>
+    </div>
+</section>
+
+{% endblock %}
+
+{% block scripts %}
+    <script src="{{ url_for('static', filename='js/home.js') }}"></script>
+{% endblock %}
+

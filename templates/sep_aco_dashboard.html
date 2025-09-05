@@ -1,0 +1,134 @@
+{% extends "aco_all_base.html" %}
+
+{% block title %}Dashboard - {{ aco.name }}{% endblock %}
+
+{% block content %}
+<div class="dashboard-container">
+<div class="aco-header">
+  <div class="aco-title">{{ aco.name }}</div>
+  <div class="aco-details">
+    <div class="detail-item">
+      <div class="detail-label">Beneficiaries</div>
+      <div class="detail-value">{{ '{:,}'.format(aco.beneficiaries) }}</div>
+    </div>
+    <div class="detail-item">
+      <div class="detail-label">Quality Score</div>
+      <div class="detail-value">{{ aco.qualityScore }}%</div>
+    </div>
+    <div class="detail-item">
+      <div class="detail-label">Total Spending</div>
+      <div class="detail-value">${{ '%.1f'|format(aco.totalSpending / 1000000) }}M</div>
+    </div>
+    <div class="detail-item">
+      <div class="detail-label">Benchmark</div>
+      <div class="detail-value">${{ '%.1f'|format(aco.benchmarkSpending / 1000000) }}M</div>
+    </div>
+  </div>
+</div>
+
+<div class="metrics-grid">
+  <div class="metric-card large">
+    <h3>Total Benchmark vs. Actual Spending</h3>
+    <div class="chart-container">
+      <canvas id="spendingChart"></canvas>
+    </div>
+  </div>
+  
+  <div class="metric-card">
+    <h3>Quality Performance Score</h3>
+    <div class="chart-container">
+      <canvas id="qualityGauge"></canvas>
+    </div>
+  </div>
+  
+  <div class="metric-card">
+    <h3>Beneficiary Population Breakdown</h3>
+    <div class="chart-container">
+      <canvas id="beneficiaryChart"></canvas>
+    </div>
+  </div>
+
+  <div class="metric-card">
+    <h3>Per Capita Expenditure by Population</h3>
+    <div class="chart-container">
+      <canvas id="expenditureBreakdownChart"></canvas>
+    </div>
+  </div>
+
+  
+  <div class="metric-card">
+    <h3>Shared Savings/Losses</h3>
+    <div class="savings-container {% if aco.sharedSavings < 0 %}negative{% endif %}">
+      <div class="savings-amount">
+        {% if aco.sharedSavings >= 0 %}↗{% else %}↘{% endif %} ${{ '%.1f'|format((aco.sharedSavings | abs) / 1000000) }}M
+      </div>
+      <div class="savings-details">
+        <div class="savings-detail">
+          <div class="savings-detail-label">Savings Rate</div>
+          <div class="savings-detail-value">{{ '%.1f'|format((aco.sharedSavings / aco.benchmarkSpending) * 100) }}%</div>
+        </div>
+        <div class="savings-detail">
+          <div class="savings-detail-label">Per Beneficiary</div>
+          <div class="savings-detail-value">${{ '{:,.0f}'.format(aco.sharedSavings / aco.beneficiaries) }}</div>
+        </div>
+      </div>
+    </div>
+  </div>
+  
+  
+  <div class="metric-card large">
+    <h3>Provider Network Composition</h3>
+    <div class="chart-container">
+      <canvas id="providerChart"></canvas>
+    </div>
+  </div>
+
+  <div class="metric-card">
+    <h3>Per Beneficiary Expenditure</h3>
+    <div class="expenditure-container">
+      <div class="expenditure-item">
+        <div class="expenditure-amount">${{ '{:,.0f}'.format(aco.perBeneficiaryExpenditure) }}</div>
+        <div class="expenditure-label">Actual PBE</div>
+      </div>
+      <div class="expenditure-item">
+        <div class="expenditure-amount">${{ '{:,.0f}'.format(aco.cmsTarget) }}</div>
+        <div class="expenditure-label">CMS Target PBE</div>
+      </div>
+    </div>
+  </div>
+
+  <div class="metric-card">
+    <h3>Penalties/Exposure</h3>
+    <div class="penalties-container">
+      {% if aco.penalties and aco.penalties|length > 0 %}
+        {% for p in aco.penalties %}
+        <div class="penalty-item penalty-{{ p.status }}">
+          <div class="penalty-details">
+            <div class="penalty-type">{{ p.type }}</div>
+            <div class="penalty-description">{{ p.description }}</div>
+          </div>
+          <div class="penalty-amount">${{ p.amount | round(2) }}</div>
+        </div>
+        {% endfor %}
+      {% else %}
+        <div class="penalty-item penalty-resolved" style="background: rgba(255, 255, 255, 0.2); color: white;">
+          <div class="penalty-details">
+            <div class="penalty-type">No Active Penalties</div>
+            <div class="penalty-description" style="color: white; opacity: 0.9;">All performance targets met.</div>
+          </div>
+          <div class="penalty-amount" style="color: white;">$0</div>
+        </div>
+      {% endif %}
+    </div>
+  </div>
+</div>
+</dev>
+{% endblock %}
+
+{% block scripts %}
+  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+  <script>
+    const acoData = {{ aco | tojson }};
+  </script>
+  <script src="{{ url_for('static', filename='js/charts.js') }}"></script>
+{% endblock %}

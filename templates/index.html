@@ -1,0 +1,121 @@
+{% extends "base.html" %}
+
+{% block title %}CMS VBC Analytics - Home{% endblock %}
+
+{% block head %}
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/home.css') }}">
+{% endblock %}
+
+{% block content %}
+<!-- Hero Section -->
+<section class="hero-section">
+    <div class="floating-shapes">
+        <div class="shape shape-1"></div>
+        <div class="shape shape-2"></div>
+        <div class="shape shape-3"></div>
+    </div>
+    
+    <div class="container">
+        <div class="hero-grid">
+            <div class="hero-content fade-in-up">
+                <h1 class="hero-title">
+                    <span class="title-primary">Value-Based Care</span>
+                    <span class="title-gradient">Analytics Platform</span>
+                </h1>
+                <p class="hero-description">
+                    Transform healthcare delivery through advanced data analytics and machine learning for improved patient outcomes and cost reduction.
+                </p>
+                
+                <div class="hero-stats">
+                    <div class="stat-card">
+                        <div class="stat-number">500+</div>
+                        <div class="stat-label">Providers</div>
+                    </div>
+                    <div class="stat-card">
+                        <div class="stat-number">95%</div>
+                        <div class="stat-label">Accuracy</div>
+                    </div>
+                    <div class="stat-card">
+                        <div class="stat-number">$2M+</div>
+                        <div class="stat-label">Saved</div>
+                    </div>
+                </div>
+                
+                <div class="hero-actions">
+                    <a href="{{ url_for('analysis') }}" class="btn-primary">
+                        <span>Explore Analytics</span>
+                        <i class="fas fa-arrow-right"></i>
+                    </a>
+                    <button class="btn-secondary">
+                        <i class="fas fa-play"></i>
+                        <span>Watch Demo</span>
+                    </button>
+                </div>
+            </div>
+            
+            <div class="hero-image slide-in-right">
+                <div class="image-container">
+                    <!-- This could be replaced with a local image using url_for -->
+                    <img src="https://images.unsplash.com/photo-1551434678-e076c223a692?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80" alt="Healthcare Analytics Dashboard">
+                    <div class="live-indicator">
+                        <div class="pulse-dot"></div>
+                        <span>Live Analytics</span>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- Quote Section -->
+<section class="quote-section">
+    <div class="container">
+        <div class="quote-card fade-in-up">
+            <p class="quote-text">"Transforming healthcare data into actionable insights for improved patient outcomes and cost reduction."</p>
+            <footer class="quote-author">— CMS VBC Analytics Team</footer>
+        </div>
+    </div>
+</section>
+
+<!-- Features Overview -->
+<section class="features-section section">
+    <div class="container">
+        <div class="section-title">
+            <h2>Why Choose Our Platform</h2>
+            <div class="divider"></div>
+            <p>Comprehensive analytics solutions designed specifically for healthcare organizations</p>
+        </div>
+        
+        <div class="features-grid">
+            <div class="feature-card fade-in-up">
+                <div class="feature-icon">
+                    <i class="fas fa-chart-bar"></i>
+                </div>
+                <h3>Advanced Analytics</h3>
+                <p>Powerful data analysis tools with real-time insights and predictive modeling capabilities.</p>
+            </div>
+            
+            <div class="feature-card fade-in-up">
+                <div class="feature-icon">
+                    <i class="fas fa-shield-alt"></i>
+                </div>
+                <h3>HIPAA Compliant</h3>
+                <p>Enterprise-grade security ensuring full compliance with healthcare data protection standards.</p>
+            </div>
+            
+            <div class="feature-card fade-in-up">
+                <div class="feature-icon">
+                    <i class="fas fa-users"></i>
+                </div>
+                <h3>Expert Support</h3>
+                <p>Dedicated team of healthcare analytics specialists providing ongoing support and guidance.</p>
+            </div>
+        </div>
+    </div>
+</section>
+
+{% endblock %}
+
+{% block scripts %}
+    <script src="{{ url_for('static', filename='js/home.js') }}"></script>
+{% endblock %}

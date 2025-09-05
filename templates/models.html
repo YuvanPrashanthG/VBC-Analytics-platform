@@ -1,0 +1,91 @@
+{% extends "base.html" %}
+
+{% block title %}CMS VBC Analytics - ML Models{% endblock %}
+
+{% block head %}
+    <!-- This line correctly links the stylesheet for this specific page -->
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/models.css') }}">
+{% endblock %}
+
+{% block content %}
+<!-- Hero Section -->
+<section class="models-hero">
+    <div class="container">
+        <div class="hero-content fade-in-up">
+            <h1>AI-Powered Machine Learning Models</h1>
+            <p>Cutting-edge predictive models designed to optimize healthcare outcomes and reduce costs</p>
+        </div>
+    </div>
+</section>
+
+<!-- Models Grid -->
+<section class="models-section section">
+    <div class="container">
+        <div class="models-grid">
+            <!-- Cost Optimization Model Card -->
+            <div class="model-card fade-in-up" onclick="window.location.href='{{ url_for('model_cost') }}'">
+                <div class="model-header">
+                    <div class="model-icon cost">
+                        <i class="fas fa-money-bill-wave"></i>
+                    </div>
+                    <div class="model-status">
+                        <span class="status-badge active">Active</span>
+                    </div>
+                </div>
+                <div class="model-content">
+                    <h3>Cost Forecasting</h3>
+                    <p>Intelligent cost analysis identifying savings opportunities while maintaining high-quality patient care standards.</p>
+                </div>
+                <div class="model-action">
+                    <button class="model-btn primary">View Details</button>
+                </div>
+            </div>
+            
+            <!-- Risk Stratification Model Card -->
+            <div class="model-card fade-in-up" onclick="window.location.href='{{ url_for('risk_dashboard') }}'">
+                <div class="model-header">
+                    <div class="model-icon risk">
+                        <i class="fas fa-dna"></i>
+                    </div>
+                    <div class="model-status">
+                        <span class="status-badge active">Active</span>
+                    </div>
+                </div>
+                <div class="model-content">
+                    <h3>Risk Stratification</h3>
+                    <p>Advanced patient classification system enabling targeted interventions and personalized care management strategies.</p>
+                </div>
+                <div class="model-action">
+                    <button class="model-btn primary">View Details</button>
+                </div>
+            </div>
+
+            <!-- What-If Simulator Model Card -->
+            <div class="model-card fade-in-up" onclick="window.location.href='{{ url_for('model_what_if') }}'">
+                <div class="model-header">
+                    <div class="model-icon provider">
+                        <i class="fas fa-user-md"></i>
+                    </div>
+                    <div class="model-status">
+                        <span class="status-badge active">Active</span>
+                    </div>
+                </div>
+                <div class="model-content">
+                    <h3>What-If Simulator</h3>
+                    <p>A digital twin to simulate contract outcomes by applying strategic levers to a virtual year to estimate costs.</p>
+                </div>
+                 <div class="model-action">
+                    <button class="model-btn primary">View Details</button>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+{% endblock %}
+
+{% block scripts %}
+    <!-- Link to the specific JavaScript for this page -->
+    <script src="{{ url_for('static', filename='js/models.js') }}"></script>
+{% endblock %}
+

@@ -1,0 +1,279 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{% block title %}VBC Analytics Platform{% endblock %}</title>
+  <link rel="stylesheet" href="{{ url_for('static', filename='css/aco-dashboard-style.css') }}">
+  <style>
+    .header-content {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 15px;
+    }
+    
+    .search-container {
+      display: flex;
+      align-items: center;
+      gap: 10px;
+      margin-left: auto;
+      margin-right: 15px;
+    }
+    
+    .model-options {
+      display: flex;
+      gap: 8px;
+    }
+    
+    .model-option {
+      display: flex;
+      align-items: center;
+      font-size: 14px;
+      color: #333;
+      background: rgba(255, 255, 255, 0.2);
+      padding: 4px 8px;
+      border-radius: 4px;
+    }
+    
+    .model-option input {
+      margin-right: 4px;
+    }
+    
+    .search-bar {
+      position: relative;
+      width: 200px;
+    }
+    
+    .search-input {
+      width: 100%;
+      padding: 6px 10px;
+      border: 1px solid #ddd;
+      border-radius: 4px;
+      font-size: 14px;
+    }
+    
+    .search-results {
+      position: absolute;
+      top: 100%;
+      left: 0;
+      right: 0;
+      background: white;
+      border: 1px solid #ddd;
+      border-top: none;
+      border-radius: 0 0 4px 4px;
+      max-height: 200px;
+      overflow-y: auto;
+      z-index: 1000;
+      display: none;
+    }
+    
+    .search-result-item {
+      padding: 8px 12px;
+      cursor: pointer;
+      border-bottom: 1px solid #eee;
+    }
+    
+    .search-result-item:hover {
+      background-color: #f5f5f5;
+    }
+    
+    .search-result-item:last-child {
+      border-bottom: none;
+    }
+    
+    .aco-model-type {
+      display: inline-block;
+      padding: 3px 8px;
+      border-radius: 12px;
+      font-size: 12px;
+      font-weight: 600;
+      margin-top: 5px;
+    }
+    
+    .model-one-sided {
+      background-color: #e8f5e9;
+      color: #2e7d32;
+    }
+    
+    .model-two-sided {
+      background-color: #e3f2fd;
+      color: #1565c0;
+    }
+    
+    @media (max-width: 768px) {
+      .header-content {
+        flex-direction: column;
+        align-items: flex-start;
+      }
+      
+      .search-container {
+        margin-left: 0;
+        margin-right: 0;
+        width: 100%;
+        justify-content: space-between;
+      }
+    }
+  </style>
+  {% block head %}{% endblock %}
+</head>
+<body>
+  <div class="dashboard-container">
+    <header class="dashboard-header">
+      <div class="header-content">
+        <h1>VBC Analytics Platform</h1>
+        <div class="search-container">
+          <div class="model-options">
+            <label class="model-option">
+              <input type="radio" name="model-type" value="all" checked> All
+            </label>
+            <label class="model-option">
+              <input type="radio" name="model-type" value="one-sided"> One-Sided
+            </label>
+            <label class="model-option">
+              <input type="radio" name="model-type" value="two-sided"> Two-Sided
+            </label>
+          </div>
+          <div class="search-bar">
+            <input type="text" class="search-input" placeholder="Search ACO...">
+            <div class="search-results"></div>
+          </div>
+        </div>
+      </div>
+    </header>
+
+    <main class="content-container">
+        {% block content %}{% endblock %}
+    </main>
+  </div>
+  <script>
+    document.addEventListener('DOMContentLoaded', function() {
+      const searchInput = document.querySelector('.search-input');
+      const searchResults = document.querySelector('.search-results');
+      const modelTypeRadios = document.querySelectorAll('input[name="model-type"]');
+      const acoGrid = document.querySelector('.aco-grid');
+      
+      let allACOs = [];
+      
+      // Get all ACO cards and add model type badges
+      if (acoGrid) {
+        const acoCards = acoGrid.querySelectorAll('.aco-card');
+        allACOs = allACOs = Array.from(acoCards).map(card => {
+  const modelType = card.getAttribute('data-model');
+  return {
+    element: card,
+    name: card.querySelector('.aco-name').textContent,
+    modelType: modelType
+  };
+});
+      }
+      
+      // Function to filter ACOs based on search input and model type
+      function filterACOs(searchTerm, modelType) {
+        if (!acoGrid) return;
+        
+        allACOs.forEach(aco => {
+          const matchesName = searchTerm === '' || aco.name.toLowerCase().includes(searchTerm.toLowerCase());
+          const matchesModel = modelType === 'all' || aco.modelType === modelType;
+          
+          if (matchesName && matchesModel) {
+            aco.element.style.display = 'block';
+          } else {
+            aco.element.style.display = 'none';
+          }
+        });
+        
+        // Show message if no results
+        const visibleCards = allACOs.filter(aco => aco.element.style.display !== 'none');
+        let noResultsMsg = acoGrid.querySelector('.no-results-message');
+        
+        if (visibleCards.length === 0 && (searchTerm || modelType !== 'all')) {
+          if (!noResultsMsg) {
+            noResultsMsg = document.createElement('div');
+            noResultsMsg.className = 'no-results-message';
+            noResultsMsg.style.textAlign = 'center';
+            noResultsMsg.style.padding = '20px';
+            noResultsMsg.style.gridColumn = '1 / -1';
+            noResultsMsg.innerHTML = '<p>No ACOs found matching your criteria.</p>';
+            acoGrid.appendChild(noResultsMsg);
+          }
+        } else if (noResultsMsg) {
+          noResultsMsg.remove();
+        }
+        
+        return allACOs.filter(aco => aco.element.style.display !== 'none');
+      }
+      
+      // Function to display search results in dropdown
+      function displayResults(results) {
+        searchResults.innerHTML = '';
+        
+        if (results.length === 0 && searchInput.value.length > 0) {
+          const div = document.createElement('div');
+          div.className = 'search-result-item';
+          div.textContent = 'No ACOs found';
+          searchResults.appendChild(div);
+          searchResults.style.display = 'block';
+          return;
+        }
+        
+        if (searchInput.value.length === 0) {
+          searchResults.style.display = 'none';
+          return;
+        }
+        
+        results.slice(0, 5).forEach(aco => {
+          const div = document.createElement('div');
+          div.className = 'search-result-item';
+          div.textContent = aco.name;
+          div.addEventListener('click', () => {
+            searchInput.value = aco.name;
+            searchResults.style.display = 'none';
+            const selectedModelType = document.querySelector('input[name="model-type"]:checked').value;
+            filterACOs(aco.name, selectedModelType);
+          });
+          searchResults.appendChild(div);
+        });
+        
+        searchResults.style.display = 'block';
+      }
+      
+      // Event listener for search input
+      searchInput.addEventListener('input', function() {
+        const searchTerm = this.value;
+        const selectedModelType = document.querySelector('input[name="model-type"]:checked').value;
+        
+        const results = filterACOs(searchTerm, selectedModelType);
+        displayResults(results);
+      });
+      
+      // Event listeners for model type radio buttons
+      modelTypeRadios.forEach(radio => {
+        radio.addEventListener('change', function() {
+          const searchTerm = searchInput.value;
+          filterACOs(searchTerm, this.value);
+          
+          if (searchTerm.length > 0) {
+            const results = filterACOs(searchTerm, this.value);
+            displayResults(results);
+          } else {
+            searchResults.style.display = 'none';
+          }
+        });
+      });
+      
+      // Hide search results when clicking outside
+      document.addEventListener('click', function(e) {
+        if (!searchInput.contains(e.target) && !searchResults.contains(e.target)) {
+          searchResults.style.display = 'none';
+        }
+      });
+      
+      // Initialize with all ACOs visible
+      filterACOs('', 'all');
+    });
+  </script>
+  {% block scripts %}{% endblock %}
+</body>
+</html>

@@ -1,0 +1,160 @@
+{% extends "base.html" %}
+
+{% block title %}CMS VBC Analytics - Analysis{% endblock %}
+
+{% block head %}
+    <!-- Correctly links the specific stylesheet for this page -->
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/analysis.css') }}">
+{% endblock %}
+
+{% block content %}
+<!-- Hero Section -->
+<section class="analysis-hero">
+    <div class="container">
+        <div class="hero-content fade-in-up">
+            <h1>Advanced Data Analysis</h1>
+            <p>Comprehensive analytics solutions designed specifically for CMS Value-Based Care programs</p>
+        </div>
+    </div>
+</section>
+
+<!-- Analysis Tools -->
+<section class="analysis-section section">
+    <div class="container">
+        <div class="analysis-grid">
+            <div class="analysis-card slide-in-left" onclick="window.location.href='{{ url_for('cms_dashboard') }}'">
+                <div class="card-image">
+                    <img src="{{ url_for('static', filename='images/Cms_analysis.png') }}" alt="CMS Dashboard Analytics">
+                    <div class="card-overlay">
+                        <div class="overlay-icon">
+                            <i class="fas fa-tachometer-alt"></i>
+                        </div>
+                    </div>
+                </div>
+                <div class="card-content">
+                    <h3>CMS Overall Dashboard</h3>
+                    <p>Comprehensive overview of all CMS Value-Based Care programs with real-time performance indicators and trend analysis.</p>
+                    
+                    <div class="progress-metrics">
+                        <div class="metric">
+                            <div class="metric-info">
+                                <span class="metric-label">Performance Score</span>
+                                <span class="metric-value">92%</span>
+                            </div>
+                            <div class="progress-bar">
+                                <div class="progress-fill" style="width: 92%"></div>
+                            </div>
+                        </div>
+                        <div class="metric">
+                            <div class="metric-info">
+                                <span class="metric-label">Cost Efficiency</span>
+                                <span class="metric-value">87%</span>
+                            </div>
+                            <div class="progress-bar">
+                                <div class="progress-fill" style="width: 87%"></div>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class="card-action">
+                        <span class="action-btn">
+                            Explore Dashboard
+                            <i class="fas fa-arrow-right"></i>
+                        </span>
+                    </div>
+                </div>
+            </div>
+            
+            <div class="analysis-card slide-in-right" onclick="window.location.href='{{ url_for('aco_list') }}'">
+                <div class="card-image">
+                    <img src="{{ url_for('static', filename='images/Aco_image.jpeg') }}" alt="ACO Analysis Healthcare">
+                    <div class="card-overlay">
+                        <div class="overlay-icon">
+                            <i class="fas fa-stethoscope"></i>
+                        </div>
+                    </div>
+                </div>
+                <div class="card-content">
+                    <h3>ACO Analysis</h3>
+                    <p>Detailed analytics for Accountable Care Organizations with provider-level insights and performance tracking.</p>
+                    
+                    <div class="stats-grid">
+                        <div class="stat-item">
+                            <div class="stat-number">350+</div>
+                            <div class="stat-label">ACO Partners</div>
+                        </div>
+                        <div class="stat-item">
+                            <div class="stat-number">$1.2M</div>
+                            <div class="stat-label">Shared Savings</div>
+                        </div>
+                    </div>
+                    
+                    <div class="card-action">
+                        <span class="action-btn">
+                            Explore ACO Analysis
+                            <i class="fas fa-arrow-right"></i>
+                        </span>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- Additional Analytics -->
+<section class="additional-analytics section">
+    <div class="container">
+        <div class="section-title">
+            <h2>Additional Analytics Sources</h2>
+            <div class="divider"></div>
+            <p>Explore more specialized analytics sources for comprehensive healthcare data insights</p>
+        </div>
+        
+        <div class="tools-grid">
+            <div class="tool-card fade-in-up">
+                <div class="tool-icon">
+                    <i class="fas fa-chart-pie"></i>
+                </div>
+                <h4>Financial Analytics</h4>
+                <p>Comprehensive financial performance tracking and cost analysis tools.</p>
+                <button class="tool-btn" onclick="window.location.href='https://www.ahrq.gov/data/innovations/hfmd.html'">Explore</button>
+            </div>
+            
+            <div class="tool-card fade-in-up">
+                <div class="tool-icon">
+                    <i class="fas fa-heartbeat"></i>
+                </div>
+                <h4>Quality Metrics</h4>
+                <p>Track and analyze quality measures across all care programs.</p>
+                <button class="tool-btn" onclick="window.location.href='https://www.cms.gov/medicare/quality/measures'">Explore</button>
+            </div>
+            
+            <div class="tool-card fade-in-up">
+                <div class="tool-icon">
+                    <i class="fas fa-users-cog"></i>
+                </div>
+                <h4>Population Health</h4>
+                <p>Population-level analytics for better health outcomes management.</p>
+                <button class="tool-btn" onclick="window.location.href='https://data.who.int/countries/840'">Explore</button>
+            </div>
+            
+            <div class="tool-card fade-in-up">
+                <div class="tool-icon">
+                    <i class="fas fa-clipboard-list"></i>
+                </div>
+                <h4>Compliance Reporting</h4>
+                <p>Automated compliance reporting for CMS and regulatory requirements.</p>
+                <button class="tool-btn" onclick="window.location.href='https://www.cms.gov/medicare/audits-compliance/part-c-d/compliance-program-policy-and-guidance'">Explore</button>
+            </div>
+        </div>
+    </div>
+</section>
+
+
+{% endblock %}
+
+{% block scripts %}
+    <!-- Correctly links the specific JavaScript for this page -->
+    <script src="{{ url_for('static', filename='js/analysis.js') }}"></script>
+{% endblock %}
+

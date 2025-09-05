@@ -1,0 +1,83 @@
+{% extends "base.html" %}
+
+{% block title %}About Us - CMS VBC Analytics{% endblock %}
+
+{% block head %}
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/about.css') }}">
+{% endblock %}
+
+{% block content %}
+<!-- Hero Section -->
+<section class="about-hero">
+    <div class="container">
+        <div class="hero-content fade-in-up">
+            <h1>Driving Healthcare Forward</h1>
+            <p>We unite expertise in healthcare, data science, and technology to drive the future of value-based care with actionable insights.</p>
+        </div>
+    </div>
+</section>
+<!-- Mission Section -->
+<section class="mission-section section">
+    <div class="container">
+        <div class="mission-grid">
+            <div class="mission-content slide-in-left">
+                <h2>Our Mission</h2>
+                <p class="mission-text">
+                Our mission is to empower Accountable Care Organizations with actionable insights that align with CMS initiatives. By leveraging data-driven strategies, we help ACOs improve patient outcomes, optimize operational efficiency, and reduce the total cost of care.</p>
+                <div class="mission-points">
+                    <div class="point">
+                        <div class="point-icon"><i class="fas fa-bullseye"></i></div>
+                        <span>Enhance Patient Outcomes</span>
+                    </div>
+                    <div class="point">
+                        <div class="point-icon"><i class="fas fa-dollar-sign"></i></div>
+                        <span>Reduce Healthcare Costs</span>
+                    </div>
+                    <div class="point">
+                        <div class="point-icon"><i class="fas fa-chart-line"></i></div>
+                        <span>Drive Data-Driven Decisions</span>
+                    </div>
+                </div>
+            </div>
+            <div class="mission-image slide-in-right">
+                <div class="image-container">
+                        <img src="{{ url_for('static', filename='images/healthcare.png') }}" alt="Healthcare professionals collaborating">
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- Stats Section -->
+<section class="stats-section section">
+    <div class="container">
+         <div class="section-title">
+            <h2 style="color: white;">Our Impact in Numbers</h2>
+            <div class="divider" style="background: white;"></div>
+        </div>
+        <div class="stats-grid">
+            <div class="stat-item">
+                <span class="stat-number" data-target="500">450 + </span>
+                <span class="stat-label">ACOs Empowered</span>
+            </div>
+            <div class="stat-item">
+                <span class="stat-number" data-target="10000000">15,000</span>
+                <span class="stat-label">Patients Impacted</span>
+            </div>
+            <div class="stat-item">
+                <span class="stat-number" data-target="95">92</span>
+                <span class="stat-label">Model Accuracy (%)</span>
+            </div>
+            <div class="stat-item">
+                <span class="stat-number" data-target="2">45</span>
+                <span class="stat-label">Millions Saved ($)</span>
+            </div>
+        </div>
+    </div>
+</section>  
+{% endblock %}
+
+{% block scripts %}
+    <script src="{{ url_for('static', filename='js/about.js') }}"></script>
+{% endblock %}
