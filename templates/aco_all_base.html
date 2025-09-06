@@ -30,10 +30,8 @@
             
             <div class="nav-actions">
                 {% if current_user.is_authenticated %}
-                    <span class="login-status logged-in">Logged In</span>
                     <a href="{{ url_for('logout') }}" class="login-btn logout">Logout</a>
                 {% else %}
-                    <span class="login-status">Logged Out</span>
                     <a href="{{ url_for('login') }}" class="login-btn">Login</a>
                 {% endif %}
             </div>

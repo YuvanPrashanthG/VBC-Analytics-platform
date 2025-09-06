@@ -37,7 +37,13 @@ def handle_database_connection_error(e):
     and shows a user-friendly error page.
     """
     app.logger.error(f"DATABASE CONNECTION ERROR: {e}")
-    return render_template('500.html'), 500
+
+    return render_template(
+        "error.html",
+        error_code=500,
+        message="Database connection failed. Please try again later.",
+        request=request
+    ), 500
 
 # --- Database and Model Loading ---
 db = Database()
@@ -213,8 +219,6 @@ def sep_aco_dashboard(aco_id):
 @login_required
 def api_risk_data():
     return jsonify(risk_data.to_dict(orient='records'))
-
-
 
 
 from groq import Groq

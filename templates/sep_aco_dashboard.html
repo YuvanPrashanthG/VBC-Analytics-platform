@@ -121,6 +121,13 @@
       {% endif %}
     </div>
   </div>
+     <div class="metric-card large">
+    <h3>Executive Summary</h3>
+    <div class="summary-card-content">
+        <p id="summaryText">Click the button to generate an AI-powered summary of this ACO's performance.</p>
+        <button id="generateSummaryBtn" class="action-btn-card">Generate Summary</button>
+    </div>
+  </div>
 </div>
 </dev>
 {% endblock %}
@@ -129,6 +136,42 @@
   <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
   <script>
     const acoData = {{ aco | tojson }};
+    
+    // === UPDATED SCRIPT FOR SUMMARY CARD ===
+    document.getElementById('generateSummaryBtn').addEventListener('click', async () => {
+      const summaryText = document.getElementById('summaryText');
+      const generateBtn = document.getElementById('generateSummaryBtn');
+      const acoId = acoData.id;
+
+      // Update UI to show loading state
+      summaryText.textContent = 'Analyzing data and generating summary...';
+      summaryText.style.color = '#000000'; // Change text color to black for visibility
+      generateBtn.style.display = 'none'; // Hide button after clicking
+
+      try {
+        const response = await fetch(`/api/aco_summary/${acoId}`);
+        
+        if (!response.ok) {
+          throw new Error(`API request failed with status: ${response.status}`);
+        }
+        
+        const data = await response.json();
+
+        if (data.error) {
+          summaryText.textContent = `Error: ${data.error}`;
+          summaryText.style.color = '#ff6b6b'; // Red for errors
+        } else {
+          // Format and display the summary
+          summaryText.innerHTML = data.summary.replace(/\n/g, '<br>');
+          summaryText.style.color = '#000000'; // Reset to default color
+        }
+
+      } catch (error) {
+        console.error('Failed to fetch summary:', error);
+        summaryText.textContent = 'An error occurred while generating the summary. Please try again later.';
+        summaryText.style.color = '#ff6b6b';
+      }
+    });
   </script>
   <script src="{{ url_for('static', filename='js/charts.js') }}"></script>
 {% endblock %}
