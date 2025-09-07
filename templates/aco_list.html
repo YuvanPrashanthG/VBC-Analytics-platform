@@ -35,7 +35,10 @@
       <div class="metric-label">Beneficiaries</div>
     </div>
     <div class="metric-item">
-      <div class="metric-value">${{ '%.1f'|format((aco.sharedSavings | abs) / 1000000) }}M</div>
+      <div class="metric-value"
+     style="color: {% if aco.sharedSavings < 0 %}red{% else %}green{% endif %};">
+  ${{ '%.1f'|format((aco.sharedSavings | abs) / 1000000) }}M
+</div>
       <div class="metric-label">Savings/Losses</div>
     </div>
     <div class="metric-item">

@@ -35,14 +35,7 @@
       "Hospitals": 2,
       "Other Facilities": 4
     },
-    "penalties": [
-      {
-        "type": "Final Share Rate",
-        "amount": 75.0,
-        "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
-      }
-    ]
+    "penalties": []
   },
   {
     "id": "A1026",
@@ -80,14 +73,7 @@
       "Hospitals": 0,
       "Other Facilities": 0
     },
-    "penalties": [
-      {
-        "type": "Final Share Rate",
-        "amount": 50.0,
-        "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
-      }
-    ]
+    "penalties": []
   },
   {
     "id": "A1033",
@@ -125,14 +111,7 @@
       "Hospitals": 11,
       "Other Facilities": 10
     },
-    "penalties": [
-      {
-        "type": "Final Share Rate",
-        "amount": 75.0,
-        "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
-      }
-    ]
+    "penalties": []
   },
   {
     "id": "A1041",
@@ -170,14 +149,7 @@
       "Hospitals": 0,
       "Other Facilities": 0
     },
-    "penalties": [
-      {
-        "type": "Final Share Rate",
-        "amount": 75.0,
-        "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
-      }
-    ]
+    "penalties": []
   },
   {
     "id": "A1051",
@@ -215,14 +187,7 @@
       "Hospitals": 0,
       "Other Facilities": 0
     },
-    "penalties": [
-      {
-        "type": "Final Share Rate",
-        "amount": 75.0,
-        "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
-      }
-    ]
+    "penalties": []
   },
   {
     "id": "A1059",
@@ -260,14 +225,7 @@
       "Hospitals": 1,
       "Other Facilities": 0
     },
-    "penalties": [
-      {
-        "type": "Final Share Rate",
-        "amount": 50.0,
-        "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
-      }
-    ]
+    "penalties": []
   },
   {
     "id": "A1061",
@@ -305,14 +263,7 @@
       "Hospitals": 6,
       "Other Facilities": 10
     },
-    "penalties": [
-      {
-        "type": "Final Share Rate",
-        "amount": 75.0,
-        "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
-      }
-    ]
+    "penalties": []
   },
   {
     "id": "A1063",
@@ -350,14 +301,7 @@
       "Hospitals": 0,
       "Other Facilities": 0
     },
-    "penalties": [
-      {
-        "type": "Final Share Rate",
-        "amount": 50.0,
-        "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
-      }
-    ]
+    "penalties": []
   },
   {
     "id": "A1066",
@@ -395,14 +339,7 @@
       "Hospitals": 6,
       "Other Facilities": 19
     },
-    "penalties": [
-      {
-        "type": "Final Share Rate",
-        "amount": 75.0,
-        "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
-      }
-    ]
+    "penalties": []
   },
   {
     "id": "A1095",
@@ -440,14 +377,7 @@
       "Hospitals": 0,
       "Other Facilities": 0
     },
-    "penalties": [
-      {
-        "type": "Final Share Rate",
-        "amount": 75.0,
-        "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
-      }
-    ]
+    "penalties": []
   },
   {
     "id": "A1131",
@@ -485,14 +415,7 @@
       "Hospitals": 0,
       "Other Facilities": 1
     },
-    "penalties": [
-      {
-        "type": "Final Share Rate",
-        "amount": 75.0,
-        "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
-      }
-    ]
+    "penalties": []
   },
   {
     "id": "A1175",
@@ -530,14 +453,7 @@
       "Hospitals": 6,
       "Other Facilities": 11
     },
-    "penalties": [
-      {
-        "type": "Final Share Rate",
-        "amount": 50.0,
-        "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
-      }
-    ]
+    "penalties": []
   },
   {
     "id": "A1196",
@@ -575,14 +491,7 @@
       "Hospitals": 6,
       "Other Facilities": 1
     },
-    "penalties": [
-      {
-        "type": "Final Share Rate",
-        "amount": 75.0,
-        "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
-      }
-    ]
+    "penalties": []
   },
   {
     "id": "A1199",
@@ -620,14 +529,7 @@
       "Hospitals": 0,
       "Other Facilities": 0
     },
-    "penalties": [
-      {
-        "type": "Final Share Rate",
-        "amount": 75.0,
-        "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
-      }
-    ]
+    "penalties": []
   },
   {
     "id": "A1204",
@@ -665,14 +567,7 @@
       "Hospitals": 9,
       "Other Facilities": 14
     },
-    "penalties": [
-      {
-        "type": "Final Share Rate",
-        "amount": 75.0,
-        "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
-      }
-    ]
+    "penalties": []
   },
   {
     "id": "A1215",
@@ -710,14 +605,7 @@
       "Hospitals": 23,
       "Other Facilities": 37
     },
-    "penalties": [
-      {
-        "type": "Final Share Rate",
-        "amount": 75.0,
-        "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
-      }
-    ]
+    "penalties": []
   },
   {
     "id": "A1216",
@@ -755,14 +643,7 @@
       "Hospitals": 0,
       "Other Facilities": 0
     },
-    "penalties": [
-      {
-        "type": "Final Share Rate",
-        "amount": 50.0,
-        "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
-      }
-    ]
+    "penalties": []
   },
   {
     "id": "A1225",
@@ -800,14 +681,7 @@
       "Hospitals": 0,
       "Other Facilities": 0
     },
-    "penalties": [
-      {
-        "type": "Final Share Rate",
-        "amount": 50.0,
-        "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
-      }
-    ]
+    "penalties": []
   },
   {
     "id": "A1241",
@@ -845,14 +719,7 @@
       "Hospitals": 0,
       "Other Facilities": 0
     },
-    "penalties": [
-      {
-        "type": "Final Share Rate",
-        "amount": 50.0,
-        "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
-      }
-    ]
+    "penalties": []
   },
   {
     "id": "A1242",
@@ -890,14 +757,7 @@
       "Hospitals": 0,
       "Other Facilities": 0
     },
-    "penalties": [
-      {
-        "type": "Final Share Rate",
-        "amount": 50.0,
-        "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
-      }
-    ]
+    "penalties": []
   },
   {
     "id": "A1247",
@@ -935,14 +795,7 @@
       "Hospitals": 1,
       "Other Facilities": 2
     },
-    "penalties": [
-      {
-        "type": "Final Share Rate",
-        "amount": 40.0,
-        "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
-      }
-    ]
+    "penalties": []
   },
   {
     "id": "A1252",
@@ -980,14 +833,7 @@
       "Hospitals": 0,
       "Other Facilities": 0
     },
-    "penalties": [
-      {
-        "type": "Final Share Rate",
-        "amount": 50.0,
-        "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
-      }
-    ]
+    "penalties": []
   },
   {
     "id": "A1262",
@@ -1025,14 +871,7 @@
       "Hospitals": 0,
       "Other Facilities": 0
     },
-    "penalties": [
-      {
-        "type": "Final Share Rate",
-        "amount": 40.0,
-        "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
-      }
-    ]
+    "penalties": []
   },
   {
     "id": "A1290",
@@ -1070,14 +909,7 @@
       "Hospitals": 7,
       "Other Facilities": 12
     },
-    "penalties": [
-      {
-        "type": "Final Share Rate",
-        "amount": 40.0,
-        "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
-      }
-    ]
+    "penalties": []
   },
   {
     "id": "A1297",
@@ -1115,14 +947,7 @@
       "Hospitals": 13,
       "Other Facilities": 20
     },
-    "penalties": [
-      {
-        "type": "Final Share Rate",
-        "amount": 50.0,
-        "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
-      }
-    ]
+    "penalties": []
   },
   {
     "id": "A1392",
@@ -1160,14 +985,7 @@
       "Hospitals": 0,
       "Other Facilities": 0
     },
-    "penalties": [
-      {
-        "type": "Final Share Rate",
-        "amount": 75.0,
-        "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
-      }
-    ]
+    "penalties": []
   },
   {
     "id": "A1401",
@@ -1205,14 +1023,7 @@
       "Hospitals": 0,
       "Other Facilities": 1
     },
-    "penalties": [
-      {
-        "type": "Final Share Rate",
-        "amount": 75.0,
-        "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
-      }
-    ]
+    "penalties": []
   },
   {
     "id": "A1403",
@@ -1250,14 +1061,7 @@
       "Hospitals": 0,
       "Other Facilities": 0
     },
-    "penalties": [
-      {
-        "type": "Final Share Rate",
-        "amount": 50.0,
-        "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
-      }
-    ]
+    "penalties": []
   },
   {
     "id": "A1459",
@@ -1295,14 +1099,7 @@
       "Hospitals": 5,
       "Other Facilities": 3
     },
-    "penalties": [
-      {
-        "type": "Final Share Rate",
-        "amount": 75.0,
-        "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
-      }
-    ]
+    "penalties": []
   },
   {
     "id": "A1488",
@@ -1340,14 +1137,7 @@
       "Hospitals": 0,
       "Other Facilities": 0
     },
-    "penalties": [
-      {
-        "type": "Final Share Rate",
-        "amount": 75.0,
-        "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
-      }
-    ]
+    "penalties": []
   },
   {
     "id": "A1490",
@@ -1385,14 +1175,7 @@
       "Hospitals": 3,
       "Other Facilities": 2
     },
-    "penalties": [
-      {
-        "type": "Final Share Rate",
-        "amount": 30.64,
-        "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
-      }
-    ]
+    "penalties": []
   },
   {
     "id": "A1494",
@@ -1430,14 +1213,7 @@
       "Hospitals": 1,
       "Other Facilities": 2
     },
-    "penalties": [
-      {
-        "type": "Final Share Rate",
-        "amount": 75.0,
-        "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
-      }
-    ]
+    "penalties": []
   },
   {
     "id": "A1501",
@@ -1475,14 +1251,7 @@
       "Hospitals": 0,
       "Other Facilities": 0
     },
-    "penalties": [
-      {
-        "type": "Final Share Rate",
-        "amount": 50.0,
-        "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
-      }
-    ]
+    "penalties": []
   },
   {
     "id": "A1522",
@@ -1520,14 +1289,7 @@
       "Hospitals": 0,
       "Other Facilities": 0
     },
-    "penalties": [
-      {
-        "type": "Final Share Rate",
-        "amount": 50.0,
-        "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
-      }
-    ]
+    "penalties": []
   },
   {
     "id": "A1535",
@@ -1565,14 +1327,7 @@
       "Hospitals": 6,
       "Other Facilities": 14
     },
-    "penalties": [
-      {
-        "type": "Final Share Rate",
-        "amount": 75.0,
-        "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
-      }
-    ]
+    "penalties": []
   },
   {
     "id": "A1539",
@@ -1610,14 +1365,7 @@
       "Hospitals": 3,
       "Other Facilities": 8
     },
-    "penalties": [
-      {
-        "type": "Final Share Rate",
-        "amount": 75.0,
-        "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
-      }
-    ]
+    "penalties": []
   },
   {
     "id": "A1552",
@@ -1655,14 +1403,7 @@
       "Hospitals": 7,
       "Other Facilities": 17
     },
-    "penalties": [
-      {
-        "type": "Final Share Rate",
-        "amount": 50.0,
-        "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
-      }
-    ]
+    "penalties": []
   },
   {
     "id": "A1557",
@@ -1700,14 +1441,7 @@
       "Hospitals": 0,
       "Other Facilities": 0
     },
-    "penalties": [
-      {
-        "type": "Final Share Rate",
-        "amount": 75.0,
-        "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
-      }
-    ]
+    "penalties": []
   },
   {
     "id": "A1596",
@@ -1745,14 +1479,7 @@
       "Hospitals": 0,
       "Other Facilities": 0
     },
-    "penalties": [
-      {
-        "type": "Final Share Rate",
-        "amount": 75.0,
-        "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
-      }
-    ]
+    "penalties": []
   },
   {
     "id": "A1652",
@@ -1790,14 +1517,7 @@
       "Hospitals": 1,
       "Other Facilities": 3
     },
-    "penalties": [
-      {
-        "type": "Final Share Rate",
-        "amount": 28.52,
-        "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
-      }
-    ]
+    "penalties": []
   },
   {
     "id": "A1675",
@@ -1835,14 +1555,7 @@
       "Hospitals": 5,
       "Other Facilities": 33
     },
-    "penalties": [
-      {
-        "type": "Final Share Rate",
-        "amount": 75.0,
-        "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
-      }
-    ]
+    "penalties": []
   },
   {
     "id": "A1694",
@@ -1880,14 +1593,7 @@
       "Hospitals": 7,
       "Other Facilities": 13
     },
-    "penalties": [
-      {
-        "type": "Final Share Rate",
-        "amount": 50.0,
-        "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
-      }
-    ]
+    "penalties": []
   },
   {
     "id": "A1702",
@@ -1925,14 +1631,7 @@
       "Hospitals": 0,
       "Other Facilities": 0
     },
-    "penalties": [
-      {
-        "type": "Final Share Rate",
-        "amount": 75.0,
-        "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
-      }
-    ]
+    "penalties": []
   },
   {
     "id": "A1737",
@@ -1970,14 +1669,7 @@
       "Hospitals": 0,
       "Other Facilities": 0
     },
-    "penalties": [
-      {
-        "type": "Final Share Rate",
-        "amount": 50.0,
-        "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
-      }
-    ]
+    "penalties": []
   },
   {
     "id": "A1749",
@@ -2015,14 +1707,7 @@
       "Hospitals": 0,
       "Other Facilities": 0
     },
-    "penalties": [
-      {
-        "type": "Final Share Rate",
-        "amount": 40.0,
-        "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
-      }
-    ]
+    "penalties": []
   },
   {
     "id": "A2000",
@@ -2060,14 +1745,7 @@
       "Hospitals": 0,
       "Other Facilities": 0
     },
-    "penalties": [
-      {
-        "type": "Final Share Rate",
-        "amount": 50.0,
-        "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
-      }
-    ]
+    "penalties": []
   },
   {
     "id": "A2019",
@@ -2105,14 +1783,7 @@
       "Hospitals": 1,
       "Other Facilities": 3
     },
-    "penalties": [
-      {
-        "type": "Final Share Rate",
-        "amount": 50.0,
-        "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
-      }
-    ]
+    "penalties": []
   },
   {
     "id": "A2021",
@@ -2150,14 +1821,7 @@
       "Hospitals": 2,
       "Other Facilities": 2
     },
-    "penalties": [
-      {
-        "type": "Final Share Rate",
-        "amount": 50.0,
-        "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
-      }
-    ]
+    "penalties": []
   },
   {
     "id": "A2024",
@@ -2195,14 +1859,7 @@
       "Hospitals": 7,
       "Other Facilities": 11
     },
-    "penalties": [
-      {
-        "type": "Final Share Rate",
-        "amount": 75.0,
-        "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
-      }
-    ]
+    "penalties": []
   },
   {
     "id": "A2029",
@@ -2242,10 +1899,10 @@
     },
     "penalties": [
       {
-        "type": "Final Share Rate",
-        "amount": 75.0,
+        "type": "Shared Loss Payment",
+        "amount": 694247.0,
         "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
+        "description": "ACO incurred a $1,388,494 loss. At 50% shared loss rate, repayment = $694,247."
       }
     ]
   },
@@ -2285,14 +1942,7 @@
       "Hospitals": 0,
       "Other Facilities": 0
     },
-    "penalties": [
-      {
-        "type": "Final Share Rate",
-        "amount": 40.0,
-        "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
-      }
-    ]
+    "penalties": []
   },
   {
     "id": "A2057",
@@ -2330,14 +1980,7 @@
       "Hospitals": 0,
       "Other Facilities": 0
     },
-    "penalties": [
-      {
-        "type": "Final Share Rate",
-        "amount": 75.0,
-        "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
-      }
-    ]
+    "penalties": []
   },
   {
     "id": "A2070",
@@ -2375,14 +2018,7 @@
       "Hospitals": 0,
       "Other Facilities": 0
     },
-    "penalties": [
-      {
-        "type": "Final Share Rate",
-        "amount": 40.0,
-        "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
-      }
-    ]
+    "penalties": []
   },
   {
     "id": "A2083",
@@ -2420,14 +2056,7 @@
       "Hospitals": 1,
       "Other Facilities": 1
     },
-    "penalties": [
-      {
-        "type": "Final Share Rate",
-        "amount": 40.0,
-        "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
-      }
-    ]
+    "penalties": []
   },
   {
     "id": "A2097",
@@ -2465,14 +2094,7 @@
       "Hospitals": 2,
       "Other Facilities": 8
     },
-    "penalties": [
-      {
-        "type": "Final Share Rate",
-        "amount": 75.0,
-        "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
-      }
-    ]
+    "penalties": []
   },
   {
     "id": "A2098",
@@ -2510,14 +2132,7 @@
       "Hospitals": 0,
       "Other Facilities": 0
     },
-    "penalties": [
-      {
-        "type": "Final Share Rate",
-        "amount": 75.0,
-        "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
-      }
-    ]
+    "penalties": []
   },
   {
     "id": "A2107",
@@ -2555,14 +2170,7 @@
       "Hospitals": 0,
       "Other Facilities": 0
     },
-    "penalties": [
-      {
-        "type": "Final Share Rate",
-        "amount": 50.0,
-        "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
-      }
-    ]
+    "penalties": []
   },
   {
     "id": "A2120",
@@ -2600,14 +2208,7 @@
       "Hospitals": 0,
       "Other Facilities": 0
     },
-    "penalties": [
-      {
-        "type": "Final Share Rate",
-        "amount": 50.0,
-        "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
-      }
-    ]
+    "penalties": []
   },
   {
     "id": "A2141",
@@ -2645,14 +2246,7 @@
       "Hospitals": 0,
       "Other Facilities": 0
     },
-    "penalties": [
-      {
-        "type": "Final Share Rate",
-        "amount": 50.0,
-        "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
-      }
-    ]
+    "penalties": []
   },
   {
     "id": "A2142",
@@ -2690,14 +2284,7 @@
       "Hospitals": 0,
       "Other Facilities": 0
     },
-    "penalties": [
-      {
-        "type": "Final Share Rate",
-        "amount": 40.0,
-        "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
-      }
-    ]
+    "penalties": []
   },
   {
     "id": "A2147",
@@ -2735,14 +2322,7 @@
       "Hospitals": 0,
       "Other Facilities": 1
     },
-    "penalties": [
-      {
-        "type": "Final Share Rate",
-        "amount": 50.0,
-        "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
-      }
-    ]
+    "penalties": []
   },
   {
     "id": "A2164",
@@ -2780,14 +2360,7 @@
       "Hospitals": 6,
       "Other Facilities": 7
     },
-    "penalties": [
-      {
-        "type": "Final Share Rate",
-        "amount": 75.0,
-        "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
-      }
-    ]
+    "penalties": []
   },
   {
     "id": "A2189",
@@ -2825,14 +2398,7 @@
       "Hospitals": 0,
       "Other Facilities": 0
     },
-    "penalties": [
-      {
-        "type": "Final Share Rate",
-        "amount": 40.0,
-        "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
-      }
-    ]
+    "penalties": []
   },
   {
     "id": "A2193",
@@ -2870,14 +2436,7 @@
       "Hospitals": 4,
       "Other Facilities": 10
     },
-    "penalties": [
-      {
-        "type": "Final Share Rate",
-        "amount": 40.0,
-        "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
-      }
-    ]
+    "penalties": []
   },
   {
     "id": "A2198",
@@ -2915,14 +2474,7 @@
       "Hospitals": 0,
       "Other Facilities": 1
     },
-    "penalties": [
-      {
-        "type": "Final Share Rate",
-        "amount": 75.0,
-        "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
-      }
-    ]
+    "penalties": []
   },
   {
     "id": "A2202",
@@ -2960,14 +2512,7 @@
       "Hospitals": 4,
       "Other Facilities": 4
     },
-    "penalties": [
-      {
-        "type": "Final Share Rate",
-        "amount": 40.0,
-        "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
-      }
-    ]
+    "penalties": []
   },
   {
     "id": "A2205",
@@ -3005,14 +2550,7 @@
       "Hospitals": 0,
       "Other Facilities": 0
     },
-    "penalties": [
-      {
-        "type": "Final Share Rate",
-        "amount": 50.0,
-        "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
-      }
-    ]
+    "penalties": []
   },
   {
     "id": "A2207",
@@ -3050,14 +2588,7 @@
       "Hospitals": 3,
       "Other Facilities": 4
     },
-    "penalties": [
-      {
-        "type": "Final Share Rate",
-        "amount": 75.0,
-        "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
-      }
-    ]
+    "penalties": []
   },
   {
     "id": "A2217",
@@ -3095,14 +2626,7 @@
       "Hospitals": 7,
       "Other Facilities": 8
     },
-    "penalties": [
-      {
-        "type": "Final Share Rate",
-        "amount": 50.0,
-        "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
-      }
-    ]
+    "penalties": []
   },
   {
     "id": "A2246",
@@ -3142,10 +2666,10 @@
     },
     "penalties": [
       {
-        "type": "Final Share Rate",
-        "amount": 50.0,
+        "type": "Shared Loss Payment",
+        "amount": 239428.0,
         "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
+        "description": "ACO incurred a $478,856 loss. At 50% shared loss rate, repayment = $239,428."
       }
     ]
   },
@@ -3185,14 +2709,7 @@
       "Hospitals": 2,
       "Other Facilities": 1
     },
-    "penalties": [
-      {
-        "type": "Final Share Rate",
-        "amount": 50.0,
-        "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
-      }
-    ]
+    "penalties": []
   },
   {
     "id": "A2251",
@@ -3230,14 +2747,7 @@
       "Hospitals": 1,
       "Other Facilities": 0
     },
-    "penalties": [
-      {
-        "type": "Final Share Rate",
-        "amount": 75.0,
-        "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
-      }
-    ]
+    "penalties": []
   },
   {
     "id": "A2266",
@@ -3275,14 +2785,7 @@
       "Hospitals": 1,
       "Other Facilities": 5
     },
-    "penalties": [
-      {
-        "type": "Final Share Rate",
-        "amount": 75.0,
-        "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
-      }
-    ]
+    "penalties": []
   },
   {
     "id": "A2272",
@@ -3320,14 +2823,7 @@
       "Hospitals": 5,
       "Other Facilities": 6
     },
-    "penalties": [
-      {
-        "type": "Final Share Rate",
-        "amount": 75.0,
-        "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
-      }
-    ]
+    "penalties": []
   },
   {
     "id": "A2286",
@@ -3365,14 +2861,7 @@
       "Hospitals": 8,
       "Other Facilities": 14
     },
-    "penalties": [
-      {
-        "type": "Final Share Rate",
-        "amount": 75.0,
-        "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
-      }
-    ]
+    "penalties": []
   },
   {
     "id": "A2299",
@@ -3410,14 +2899,7 @@
       "Hospitals": 3,
       "Other Facilities": 2
     },
-    "penalties": [
-      {
-        "type": "Final Share Rate",
-        "amount": 40.0,
-        "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
-      }
-    ]
+    "penalties": []
   },
   {
     "id": "A2308",
@@ -3457,10 +2939,10 @@
     },
     "penalties": [
       {
-        "type": "Final Share Rate",
-        "amount": 50.0,
+        "type": "Shared Loss Payment",
+        "amount": 809829.5,
         "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
+        "description": "ACO incurred a $1,619,659 loss. At 50% shared loss rate, repayment = $809,830."
       }
     ]
   },
@@ -3500,14 +2982,7 @@
       "Hospitals": 0,
       "Other Facilities": 0
     },
-    "penalties": [
-      {
-        "type": "Final Share Rate",
-        "amount": 50.0,
-        "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
-      }
-    ]
+    "penalties": []
   },
   {
     "id": "A2311",
@@ -3545,14 +3020,7 @@
       "Hospitals": 0,
       "Other Facilities": 0
     },
-    "penalties": [
-      {
-        "type": "Final Share Rate",
-        "amount": 40.0,
-        "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
-      }
-    ]
+    "penalties": []
   },
   {
     "id": "A2342",
@@ -3590,14 +3058,7 @@
       "Hospitals": 9,
       "Other Facilities": 11
     },
-    "penalties": [
-      {
-        "type": "Final Share Rate",
-        "amount": 75.0,
-        "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
-      }
-    ]
+    "penalties": []
   },
   {
     "id": "A2366",
@@ -3635,14 +3096,7 @@
       "Hospitals": 0,
       "Other Facilities": 0
     },
-    "penalties": [
-      {
-        "type": "Final Share Rate",
-        "amount": 38.31,
-        "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
-      }
-    ]
+    "penalties": []
   },
   {
     "id": "A2419",
@@ -3680,14 +3134,7 @@
       "Hospitals": 4,
       "Other Facilities": 8
     },
-    "penalties": [
-      {
-        "type": "Final Share Rate",
-        "amount": 75.0,
-        "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
-      }
-    ]
+    "penalties": []
   },
   {
     "id": "A2452",
@@ -3725,14 +3172,7 @@
       "Hospitals": 0,
       "Other Facilities": 0
     },
-    "penalties": [
-      {
-        "type": "Final Share Rate",
-        "amount": 40.0,
-        "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
-      }
-    ]
+    "penalties": []
   },
   {
     "id": "A2490",
@@ -3770,14 +3210,7 @@
       "Hospitals": 0,
       "Other Facilities": 0
     },
-    "penalties": [
-      {
-        "type": "Final Share Rate",
-        "amount": 75.0,
-        "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
-      }
-    ]
+    "penalties": []
   },
   {
     "id": "A2500",
@@ -3815,14 +3248,7 @@
       "Hospitals": 0,
       "Other Facilities": 0
     },
-    "penalties": [
-      {
-        "type": "Final Share Rate",
-        "amount": 75.0,
-        "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
-      }
-    ]
+    "penalties": []
   },
   {
     "id": "A2506",
@@ -3860,14 +3286,7 @@
       "Hospitals": 1,
       "Other Facilities": 1
     },
-    "penalties": [
-      {
-        "type": "Final Share Rate",
-        "amount": 50.0,
-        "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
-      }
-    ]
+    "penalties": []
   },
   {
     "id": "A2528",
@@ -3905,14 +3324,7 @@
       "Hospitals": 2,
       "Other Facilities": 2
     },
-    "penalties": [
-      {
-        "type": "Final Share Rate",
-        "amount": 40.0,
-        "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
-      }
-    ]
+    "penalties": []
   },
   {
     "id": "A2530",
@@ -3950,14 +3362,7 @@
       "Hospitals": 0,
       "Other Facilities": 0
     },
-    "penalties": [
-      {
-        "type": "Final Share Rate",
-        "amount": 40.0,
-        "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
-      }
-    ]
+    "penalties": []
   },
   {
     "id": "A2542",
@@ -3995,14 +3400,7 @@
       "Hospitals": 20,
       "Other Facilities": 17
     },
-    "penalties": [
-      {
-        "type": "Final Share Rate",
-        "amount": 75.0,
-        "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
-      }
-    ]
+    "penalties": []
   },
   {
     "id": "A2543",
@@ -4040,14 +3438,7 @@
       "Hospitals": 0,
       "Other Facilities": 1
     },
-    "penalties": [
-      {
-        "type": "Final Share Rate",
-        "amount": 75.0,
-        "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
-      }
-    ]
+    "penalties": []
   },
   {
     "id": "A2550",
@@ -4085,14 +3476,7 @@
       "Hospitals": 12,
       "Other Facilities": 61
     },
-    "penalties": [
-      {
-        "type": "Final Share Rate",
-        "amount": 75.0,
-        "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
-      }
-    ]
+    "penalties": []
   },
   {
     "id": "A2551",
@@ -4130,14 +3514,7 @@
       "Hospitals": 0,
       "Other Facilities": 0
     },
-    "penalties": [
-      {
-        "type": "Final Share Rate",
-        "amount": 75.0,
-        "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
-      }
-    ]
+    "penalties": []
   },
   {
     "id": "A2557",
@@ -4175,14 +3552,7 @@
       "Hospitals": 0,
       "Other Facilities": 0
     },
-    "penalties": [
-      {
-        "type": "Final Share Rate",
-        "amount": 75.0,
-        "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
-      }
-    ]
+    "penalties": []
   },
   {
     "id": "A2571",
@@ -4220,14 +3590,7 @@
       "Hospitals": 1,
       "Other Facilities": 4
     },
-    "penalties": [
-      {
-        "type": "Final Share Rate",
-        "amount": 40.0,
-        "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
-      }
-    ]
+    "penalties": []
   },
   {
     "id": "A2587",
@@ -4265,14 +3628,7 @@
       "Hospitals": 0,
       "Other Facilities": 0
     },
-    "penalties": [
-      {
-        "type": "Final Share Rate",
-        "amount": 40.0,
-        "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
-      }
-    ]
+    "penalties": []
   },
   {
     "id": "A2591",
@@ -4310,14 +3666,7 @@
       "Hospitals": 3,
       "Other Facilities": 11
     },
-    "penalties": [
-      {
-        "type": "Final Share Rate",
-        "amount": 40.0,
-        "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
-      }
-    ]
+    "penalties": []
   },
   {
     "id": "A2592",
@@ -4355,14 +3704,7 @@
       "Hospitals": 10,
       "Other Facilities": 13
     },
-    "penalties": [
-      {
-        "type": "Final Share Rate",
-        "amount": 75.0,
-        "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
-      }
-    ]
+    "penalties": []
   },
   {
     "id": "A2597",
@@ -4400,14 +3742,7 @@
       "Hospitals": 1,
       "Other Facilities": 1
     },
-    "penalties": [
-      {
-        "type": "Final Share Rate",
-        "amount": 75.0,
-        "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
-      }
-    ]
+    "penalties": []
   },
   {
     "id": "A2598",
@@ -4445,14 +3780,7 @@
       "Hospitals": 8,
       "Other Facilities": 8
     },
-    "penalties": [
-      {
-        "type": "Final Share Rate",
-        "amount": 40.0,
-        "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
-      }
-    ]
+    "penalties": []
   },
   {
     "id": "A2599",
@@ -4490,14 +3818,7 @@
       "Hospitals": 1,
       "Other Facilities": 2
     },
-    "penalties": [
-      {
-        "type": "Final Share Rate",
-        "amount": 40.0,
-        "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
-      }
-    ]
+    "penalties": []
   },
   {
     "id": "A2600",
@@ -4535,14 +3856,7 @@
       "Hospitals": 0,
       "Other Facilities": 0
     },
-    "penalties": [
-      {
-        "type": "Final Share Rate",
-        "amount": 50.0,
-        "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
-      }
-    ]
+    "penalties": []
   },
   {
     "id": "A2612",
@@ -4580,14 +3894,7 @@
       "Hospitals": 3,
       "Other Facilities": 6
     },
-    "penalties": [
-      {
-        "type": "Final Share Rate",
-        "amount": 40.0,
-        "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
-      }
-    ]
+    "penalties": []
   },
   {
     "id": "A2616",
@@ -4625,14 +3932,7 @@
       "Hospitals": 13,
       "Other Facilities": 44
     },
-    "penalties": [
-      {
-        "type": "Final Share Rate",
-        "amount": 75.0,
-        "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
-      }
-    ]
+    "penalties": []
   },
   {
     "id": "A2619",
@@ -4670,14 +3970,7 @@
       "Hospitals": 2,
       "Other Facilities": 15
     },
-    "penalties": [
-      {
-        "type": "Final Share Rate",
-        "amount": 28.84,
-        "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
-      }
-    ]
+    "penalties": []
   },
   {
     "id": "A2620",
@@ -4715,14 +4008,7 @@
       "Hospitals": 0,
       "Other Facilities": 0
     },
-    "penalties": [
-      {
-        "type": "Final Share Rate",
-        "amount": 40.0,
-        "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
-      }
-    ]
+    "penalties": []
   },
   {
     "id": "A2628",
@@ -4760,14 +4046,7 @@
       "Hospitals": 0,
       "Other Facilities": 0
     },
-    "penalties": [
-      {
-        "type": "Final Share Rate",
-        "amount": 40.0,
-        "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
-      }
-    ]
+    "penalties": []
   },
   {
     "id": "A2634",
@@ -4805,14 +4084,7 @@
       "Hospitals": 0,
       "Other Facilities": 0
     },
-    "penalties": [
-      {
-        "type": "Final Share Rate",
-        "amount": 37.1,
-        "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
-      }
-    ]
+    "penalties": []
   },
   {
     "id": "A2643",
@@ -4850,14 +4122,7 @@
       "Hospitals": 0,
       "Other Facilities": 0
     },
-    "penalties": [
-      {
-        "type": "Final Share Rate",
-        "amount": 75.0,
-        "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
-      }
-    ]
+    "penalties": []
   },
   {
     "id": "A2645",
@@ -4895,14 +4160,7 @@
       "Hospitals": 1,
       "Other Facilities": 0
     },
-    "penalties": [
-      {
-        "type": "Final Share Rate",
-        "amount": 40.0,
-        "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
-      }
-    ]
+    "penalties": []
   },
   {
     "id": "A2666",
@@ -4940,14 +4198,7 @@
       "Hospitals": 1,
       "Other Facilities": 3
     },
-    "penalties": [
-      {
-        "type": "Final Share Rate",
-        "amount": 75.0,
-        "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
-      }
-    ]
+    "penalties": []
   },
   {
     "id": "A2671",
@@ -4985,14 +4236,7 @@
       "Hospitals": 0,
       "Other Facilities": 0
     },
-    "penalties": [
-      {
-        "type": "Final Share Rate",
-        "amount": 75.0,
-        "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
-      }
-    ]
+    "penalties": []
   },
   {
     "id": "A2684",
@@ -5030,14 +4274,7 @@
       "Hospitals": 1,
       "Other Facilities": 2
     },
-    "penalties": [
-      {
-        "type": "Final Share Rate",
-        "amount": 40.0,
-        "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
-      }
-    ]
+    "penalties": []
   },
   {
     "id": "A2695",
@@ -5075,14 +4312,7 @@
       "Hospitals": 0,
       "Other Facilities": 0
     },
-    "penalties": [
-      {
-        "type": "Final Share Rate",
-        "amount": 40.0,
-        "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
-      }
-    ]
+    "penalties": []
   },
   {
     "id": "A2704",
@@ -5120,14 +4350,7 @@
       "Hospitals": 1,
       "Other Facilities": 1
     },
-    "penalties": [
-      {
-        "type": "Final Share Rate",
-        "amount": 40.0,
-        "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
-      }
-    ]
+    "penalties": []
   },
   {
     "id": "A2706",
@@ -5165,14 +4388,7 @@
       "Hospitals": 0,
       "Other Facilities": 0
     },
-    "penalties": [
-      {
-        "type": "Final Share Rate",
-        "amount": 50.0,
-        "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
-      }
-    ]
+    "penalties": []
   },
   {
     "id": "A2710",
@@ -5210,14 +4426,7 @@
       "Hospitals": 0,
       "Other Facilities": 0
     },
-    "penalties": [
-      {
-        "type": "Final Share Rate",
-        "amount": 50.0,
-        "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
-      }
-    ]
+    "penalties": []
   },
   {
     "id": "A2729",
@@ -5255,14 +4464,7 @@
       "Hospitals": 13,
       "Other Facilities": 16
     },
-    "penalties": [
-      {
-        "type": "Final Share Rate",
-        "amount": 75.0,
-        "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
-      }
-    ]
+    "penalties": []
   },
   {
     "id": "A2735",
@@ -5300,14 +4502,7 @@
       "Hospitals": 1,
       "Other Facilities": 7
     },
-    "penalties": [
-      {
-        "type": "Final Share Rate",
-        "amount": 50.0,
-        "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
-      }
-    ]
+    "penalties": []
   },
   {
     "id": "A2754",
@@ -5345,14 +4540,7 @@
       "Hospitals": 0,
       "Other Facilities": 0
     },
-    "penalties": [
-      {
-        "type": "Final Share Rate",
-        "amount": 40.0,
-        "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
-      }
-    ]
+    "penalties": []
   },
   {
     "id": "A2762",
@@ -5390,14 +4578,7 @@
       "Hospitals": 1,
       "Other Facilities": 1
     },
-    "penalties": [
-      {
-        "type": "Final Share Rate",
-        "amount": 40.0,
-        "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
-      }
-    ]
+    "penalties": []
   },
   {
     "id": "A2772",
@@ -5435,14 +4616,7 @@
       "Hospitals": 0,
       "Other Facilities": 0
     },
-    "penalties": [
-      {
-        "type": "Final Share Rate",
-        "amount": 75.0,
-        "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
-      }
-    ]
+    "penalties": []
   },
   {
     "id": "A2773",
@@ -5480,14 +4654,7 @@
       "Hospitals": 0,
       "Other Facilities": 0
     },
-    "penalties": [
-      {
-        "type": "Final Share Rate",
-        "amount": 75.0,
-        "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
-      }
-    ]
+    "penalties": []
   },
   {
     "id": "A2778",
@@ -5525,14 +4692,7 @@
       "Hospitals": 1,
       "Other Facilities": 2
     },
-    "penalties": [
-      {
-        "type": "Final Share Rate",
-        "amount": 75.0,
-        "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
-      }
-    ]
+    "penalties": []
   },
   {
     "id": "A2783",
@@ -5570,14 +4730,7 @@
       "Hospitals": 3,
       "Other Facilities": 11
     },
-    "penalties": [
-      {
-        "type": "Final Share Rate",
-        "amount": 40.0,
-        "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
-      }
-    ]
+    "penalties": []
   },
   {
     "id": "A2801",
@@ -5615,14 +4768,7 @@
       "Hospitals": 1,
       "Other Facilities": 5
     },
-    "penalties": [
-      {
-        "type": "Final Share Rate",
-        "amount": 75.0,
-        "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
-      }
-    ]
+    "penalties": []
   },
   {
     "id": "A2802",
@@ -5660,14 +4806,7 @@
       "Hospitals": 0,
       "Other Facilities": 0
     },
-    "penalties": [
-      {
-        "type": "Final Share Rate",
-        "amount": 75.0,
-        "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
-      }
-    ]
+    "penalties": []
   },
   {
     "id": "A2809",
@@ -5705,14 +4844,7 @@
       "Hospitals": 0,
       "Other Facilities": 0
     },
-    "penalties": [
-      {
-        "type": "Final Share Rate",
-        "amount": 75.0,
-        "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
-      }
-    ]
+    "penalties": []
   },
   {
     "id": "A2811",
@@ -5750,14 +4882,7 @@
       "Hospitals": 0,
       "Other Facilities": 0
     },
-    "penalties": [
-      {
-        "type": "Final Share Rate",
-        "amount": 75.0,
-        "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
-      }
-    ]
+    "penalties": []
   },
   {
     "id": "A2831",
@@ -5795,14 +4920,7 @@
       "Hospitals": 2,
       "Other Facilities": 0
     },
-    "penalties": [
-      {
-        "type": "Final Share Rate",
-        "amount": 40.0,
-        "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
-      }
-    ]
+    "penalties": []
   },
   {
     "id": "A2833",
@@ -5840,14 +4958,7 @@
       "Hospitals": 0,
       "Other Facilities": 0
     },
-    "penalties": [
-      {
-        "type": "Final Share Rate",
-        "amount": 50.0,
-        "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
-      }
-    ]
+    "penalties": []
   },
   {
     "id": "A2844",
@@ -5885,14 +4996,7 @@
       "Hospitals": 3,
       "Other Facilities": 26
     },
-    "penalties": [
-      {
-        "type": "Final Share Rate",
-        "amount": 50.0,
-        "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
-      }
-    ]
+    "penalties": []
   },
   {
     "id": "A2880",
@@ -5930,14 +5034,7 @@
       "Hospitals": 4,
       "Other Facilities": 23
     },
-    "penalties": [
-      {
-        "type": "Final Share Rate",
-        "amount": 50.0,
-        "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
-      }
-    ]
+    "penalties": []
   },
   {
     "id": "A2909",
@@ -5975,14 +5072,7 @@
       "Hospitals": 0,
       "Other Facilities": 0
     },
-    "penalties": [
-      {
-        "type": "Final Share Rate",
-        "amount": 75.0,
-        "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
-      }
-    ]
+    "penalties": []
   },
   {
     "id": "A2916",
@@ -6020,14 +5110,7 @@
       "Hospitals": 0,
       "Other Facilities": 0
     },
-    "penalties": [
-      {
-        "type": "Final Share Rate",
-        "amount": 75.0,
-        "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
-      }
-    ]
+    "penalties": []
   },
   {
     "id": "A2918",
@@ -6065,14 +5148,7 @@
       "Hospitals": 1,
       "Other Facilities": 2
     },
-    "penalties": [
-      {
-        "type": "Final Share Rate",
-        "amount": 75.0,
-        "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
-      }
-    ]
+    "penalties": []
   },
   {
     "id": "A2920",
@@ -6110,14 +5186,7 @@
       "Hospitals": 0,
       "Other Facilities": 0
     },
-    "penalties": [
-      {
-        "type": "Final Share Rate",
-        "amount": 75.0,
-        "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
-      }
-    ]
+    "penalties": []
   },
   {
     "id": "A2952",
@@ -6155,14 +5224,7 @@
       "Hospitals": 0,
       "Other Facilities": 0
     },
-    "penalties": [
-      {
-        "type": "Final Share Rate",
-        "amount": 40.0,
-        "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
-      }
-    ]
+    "penalties": []
   },
   {
     "id": "A2973",
@@ -6200,14 +5262,7 @@
       "Hospitals": 0,
       "Other Facilities": 0
     },
-    "penalties": [
-      {
-        "type": "Final Share Rate",
-        "amount": 75.0,
-        "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
-      }
-    ]
+    "penalties": []
   },
   {
     "id": "A2975",
@@ -6245,14 +5300,7 @@
       "Hospitals": 0,
       "Other Facilities": 0
     },
-    "penalties": [
-      {
-        "type": "Final Share Rate",
-        "amount": 40.0,
-        "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
-      }
-    ]
+    "penalties": []
   },
   {
     "id": "A3016",
@@ -6290,14 +5338,7 @@
       "Hospitals": 1,
       "Other Facilities": 2
     },
-    "penalties": [
-      {
-        "type": "Final Share Rate",
-        "amount": 50.0,
-        "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
-      }
-    ]
+    "penalties": []
   },
   {
     "id": "A3029",
@@ -6335,14 +5376,7 @@
       "Hospitals": 19,
       "Other Facilities": 33
     },
-    "penalties": [
-      {
-        "type": "Final Share Rate",
-        "amount": 75.0,
-        "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
-      }
-    ]
+    "penalties": []
   },
   {
     "id": "A3030",
@@ -6380,14 +5414,7 @@
       "Hospitals": 11,
       "Other Facilities": 26
     },
-    "penalties": [
-      {
-        "type": "Final Share Rate",
-        "amount": 40.0,
-        "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
-      }
-    ]
+    "penalties": []
   },
   {
     "id": "A3047",
@@ -6425,14 +5452,7 @@
       "Hospitals": 1,
       "Other Facilities": 1
     },
-    "penalties": [
-      {
-        "type": "Final Share Rate",
-        "amount": 75.0,
-        "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
-      }
-    ]
+    "penalties": []
   },
   {
     "id": "A3053",
@@ -6470,14 +5490,7 @@
       "Hospitals": 3,
       "Other Facilities": 5
     },
-    "penalties": [
-      {
-        "type": "Final Share Rate",
-        "amount": 50.0,
-        "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
-      }
-    ]
+    "penalties": []
   },
   {
     "id": "A3094",
@@ -6515,14 +5528,7 @@
       "Hospitals": 0,
       "Other Facilities": 0
     },
-    "penalties": [
-      {
-        "type": "Final Share Rate",
-        "amount": 50.0,
-        "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
-      }
-    ]
+    "penalties": []
   },
   {
     "id": "A3195",
@@ -6560,14 +5566,7 @@
       "Hospitals": 1,
       "Other Facilities": 4
     },
-    "penalties": [
-      {
-        "type": "Final Share Rate",
-        "amount": 40.0,
-        "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
-      }
-    ]
+    "penalties": []
   },
   {
     "id": "A3229",
@@ -6605,14 +5604,7 @@
       "Hospitals": 4,
       "Other Facilities": 2
     },
-    "penalties": [
-      {
-        "type": "Final Share Rate",
-        "amount": 75.0,
-        "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
-      }
-    ]
+    "penalties": []
   },
   {
     "id": "A3235",
@@ -6650,14 +5642,7 @@
       "Hospitals": 0,
       "Other Facilities": 0
     },
-    "penalties": [
-      {
-        "type": "Final Share Rate",
-        "amount": 50.0,
-        "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
-      }
-    ]
+    "penalties": []
   },
   {
     "id": "A3236",
@@ -6695,14 +5680,7 @@
       "Hospitals": 0,
       "Other Facilities": 0
     },
-    "penalties": [
-      {
-        "type": "Final Share Rate",
-        "amount": 75.0,
-        "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
-      }
-    ]
+    "penalties": []
   },
   {
     "id": "A3250",
@@ -6740,14 +5718,7 @@
       "Hospitals": 0,
       "Other Facilities": 0
     },
-    "penalties": [
-      {
-        "type": "Final Share Rate",
-        "amount": 40.0,
-        "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
-      }
-    ]
+    "penalties": []
   },
   {
     "id": "A3266",
@@ -6785,14 +5756,7 @@
       "Hospitals": 0,
       "Other Facilities": 0
     },
-    "penalties": [
-      {
-        "type": "Final Share Rate",
-        "amount": 40.0,
-        "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
-      }
-    ]
+    "penalties": []
   },
   {
     "id": "A3272",
@@ -6830,14 +5794,7 @@
       "Hospitals": 0,
       "Other Facilities": 0
     },
-    "penalties": [
-      {
-        "type": "Final Share Rate",
-        "amount": 40.0,
-        "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
-      }
-    ]
+    "penalties": []
   },
   {
     "id": "A3273",
@@ -6875,14 +5832,7 @@
       "Hospitals": 0,
       "Other Facilities": 0
     },
-    "penalties": [
-      {
-        "type": "Final Share Rate",
-        "amount": 75.0,
-        "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
-      }
-    ]
+    "penalties": []
   },
   {
     "id": "A3280",
@@ -6920,14 +5870,7 @@
       "Hospitals": 0,
       "Other Facilities": 0
     },
-    "penalties": [
-      {
-        "type": "Final Share Rate",
-        "amount": 75.0,
-        "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
-      }
-    ]
+    "penalties": []
   },
   {
     "id": "A3283",
@@ -6965,14 +5908,7 @@
       "Hospitals": 8,
       "Other Facilities": 8
     },
-    "penalties": [
-      {
-        "type": "Final Share Rate",
-        "amount": 40.0,
-        "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
-      }
-    ]
+    "penalties": []
   },
   {
     "id": "A3287",
@@ -7010,14 +5946,7 @@
       "Hospitals": 0,
       "Other Facilities": 6
     },
-    "penalties": [
-      {
-        "type": "Final Share Rate",
-        "amount": 40.0,
-        "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
-      }
-    ]
+    "penalties": []
   },
   {
     "id": "A3289",
@@ -7055,14 +5984,7 @@
       "Hospitals": 6,
       "Other Facilities": 16
     },
-    "penalties": [
-      {
-        "type": "Final Share Rate",
-        "amount": 75.0,
-        "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
-      }
-    ]
+    "penalties": []
   },
   {
     "id": "A3299",
@@ -7100,14 +6022,7 @@
       "Hospitals": 1,
       "Other Facilities": 2
     },
-    "penalties": [
-      {
-        "type": "Final Share Rate",
-        "amount": 75.0,
-        "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
-      }
-    ]
+    "penalties": []
   },
   {
     "id": "A3302",
@@ -7145,14 +6060,7 @@
       "Hospitals": 0,
       "Other Facilities": 1
     },
-    "penalties": [
-      {
-        "type": "Final Share Rate",
-        "amount": 75.0,
-        "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
-      }
-    ]
+    "penalties": []
   },
   {
     "id": "A3317",
@@ -7192,10 +6100,10 @@
     },
     "penalties": [
       {
-        "type": "Final Share Rate",
-        "amount": 50.0,
+        "type": "Shared Loss Payment",
+        "amount": 1557026.0,
         "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
+        "description": "ACO incurred a $3,114,052 loss. At 50% shared loss rate, repayment = $1,557,026."
       }
     ]
   },
@@ -7235,14 +6143,7 @@
       "Hospitals": 0,
       "Other Facilities": 0
     },
-    "penalties": [
-      {
-        "type": "Final Share Rate",
-        "amount": 75.0,
-        "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
-      }
-    ]
+    "penalties": []
   },
   {
     "id": "A3319",
@@ -7280,14 +6181,7 @@
       "Hospitals": 0,
       "Other Facilities": 0
     },
-    "penalties": [
-      {
-        "type": "Final Share Rate",
-        "amount": 75.0,
-        "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
-      }
-    ]
+    "penalties": []
   },
   {
     "id": "A3320",
@@ -7325,14 +6219,7 @@
       "Hospitals": 4,
       "Other Facilities": 10
     },
-    "penalties": [
-      {
-        "type": "Final Share Rate",
-        "amount": 40.0,
-        "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
-      }
-    ]
+    "penalties": []
   },
   {
     "id": "A3324",
@@ -7370,14 +6257,7 @@
       "Hospitals": 4,
       "Other Facilities": 8
     },
-    "penalties": [
-      {
-        "type": "Final Share Rate",
-        "amount": 50.0,
-        "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
-      }
-    ]
+    "penalties": []
   },
   {
     "id": "A3325",
@@ -7415,14 +6295,7 @@
       "Hospitals": 6,
       "Other Facilities": 10
     },
-    "penalties": [
-      {
-        "type": "Final Share Rate",
-        "amount": 40.0,
-        "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
-      }
-    ]
+    "penalties": []
   },
   {
     "id": "A3327",
@@ -7460,14 +6333,7 @@
       "Hospitals": 0,
       "Other Facilities": 0
     },
-    "penalties": [
-      {
-        "type": "Final Share Rate",
-        "amount": 75.0,
-        "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
-      }
-    ]
+    "penalties": []
   },
   {
     "id": "A3336",
@@ -7505,14 +6371,7 @@
       "Hospitals": 1,
       "Other Facilities": 0
     },
-    "penalties": [
-      {
-        "type": "Final Share Rate",
-        "amount": 75.0,
-        "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
-      }
-    ]
+    "penalties": []
   },
   {
     "id": "A3361",
@@ -7550,14 +6409,7 @@
       "Hospitals": 0,
       "Other Facilities": 0
     },
-    "penalties": [
-      {
-        "type": "Final Share Rate",
-        "amount": 30.05,
-        "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
-      }
-    ]
+    "penalties": []
   },
   {
     "id": "A3365",
@@ -7595,14 +6447,7 @@
       "Hospitals": 2,
       "Other Facilities": 8
     },
-    "penalties": [
-      {
-        "type": "Final Share Rate",
-        "amount": 50.0,
-        "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
-      }
-    ]
+    "penalties": []
   },
   {
     "id": "A3378",
@@ -7640,14 +6485,7 @@
       "Hospitals": 0,
       "Other Facilities": 0
     },
-    "penalties": [
-      {
-        "type": "Final Share Rate",
-        "amount": 40.0,
-        "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
-      }
-    ]
+    "penalties": []
   },
   {
     "id": "A3379",
@@ -7685,14 +6523,7 @@
       "Hospitals": 2,
       "Other Facilities": 5
     },
-    "penalties": [
-      {
-        "type": "Final Share Rate",
-        "amount": 40.0,
-        "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
-      }
-    ]
+    "penalties": []
   },
   {
     "id": "A3380",
@@ -7730,14 +6561,7 @@
       "Hospitals": 4,
       "Other Facilities": 7
     },
-    "penalties": [
-      {
-        "type": "Final Share Rate",
-        "amount": 75.0,
-        "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
-      }
-    ]
+    "penalties": []
   },
   {
     "id": "A3391",
@@ -7775,14 +6599,7 @@
       "Hospitals": 1,
       "Other Facilities": 3
     },
-    "penalties": [
-      {
-        "type": "Final Share Rate",
-        "amount": 40.0,
-        "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
-      }
-    ]
+    "penalties": []
   },
   {
     "id": "A3454",
@@ -7820,14 +6637,7 @@
       "Hospitals": 18,
       "Other Facilities": 35
     },
-    "penalties": [
-      {
-        "type": "Final Share Rate",
-        "amount": 75.0,
-        "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
-      }
-    ]
+    "penalties": []
   },
   {
     "id": "A3457",
@@ -7865,14 +6675,7 @@
       "Hospitals": 0,
       "Other Facilities": 0
     },
-    "penalties": [
-      {
-        "type": "Final Share Rate",
-        "amount": 75.0,
-        "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
-      }
-    ]
+    "penalties": []
   },
   {
     "id": "A3458",
@@ -7910,14 +6713,7 @@
       "Hospitals": 0,
       "Other Facilities": 0
     },
-    "penalties": [
-      {
-        "type": "Final Share Rate",
-        "amount": 75.0,
-        "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
-      }
-    ]
+    "penalties": []
   },
   {
     "id": "A3466",
@@ -7955,14 +6751,7 @@
       "Hospitals": 0,
       "Other Facilities": 0
     },
-    "penalties": [
-      {
-        "type": "Final Share Rate",
-        "amount": 75.0,
-        "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
-      }
-    ]
+    "penalties": []
   },
   {
     "id": "A3473",
@@ -8000,14 +6789,7 @@
       "Hospitals": 0,
       "Other Facilities": 0
     },
-    "penalties": [
-      {
-        "type": "Final Share Rate",
-        "amount": 75.0,
-        "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
-      }
-    ]
+    "penalties": []
   },
   {
     "id": "A3476",
@@ -8045,14 +6827,7 @@
       "Hospitals": 6,
       "Other Facilities": 16
     },
-    "penalties": [
-      {
-        "type": "Final Share Rate",
-        "amount": 29.8,
-        "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
-      }
-    ]
+    "penalties": []
   },
   {
     "id": "A3477",
@@ -8090,14 +6865,7 @@
       "Hospitals": 0,
       "Other Facilities": 4
     },
-    "penalties": [
-      {
-        "type": "Final Share Rate",
-        "amount": 50.0,
-        "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
-      }
-    ]
+    "penalties": []
   },
   {
     "id": "A3504",
@@ -8135,14 +6903,7 @@
       "Hospitals": 2,
       "Other Facilities": 5
     },
-    "penalties": [
-      {
-        "type": "Final Share Rate",
-        "amount": 75.0,
-        "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
-      }
-    ]
+    "penalties": []
   },
   {
     "id": "A3507",
@@ -8180,14 +6941,7 @@
       "Hospitals": 0,
       "Other Facilities": 0
     },
-    "penalties": [
-      {
-        "type": "Final Share Rate",
-        "amount": 37.91,
-        "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
-      }
-    ]
+    "penalties": []
   },
   {
     "id": "A3509",
@@ -8225,14 +6979,7 @@
       "Hospitals": 0,
       "Other Facilities": 0
     },
-    "penalties": [
-      {
-        "type": "Final Share Rate",
-        "amount": 50.0,
-        "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
-      }
-    ]
+    "penalties": []
   },
   {
     "id": "A3521",
@@ -8270,14 +7017,7 @@
       "Hospitals": 4,
       "Other Facilities": 2
     },
-    "penalties": [
-      {
-        "type": "Final Share Rate",
-        "amount": 75.0,
-        "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
-      }
-    ]
+    "penalties": []
   },
   {
     "id": "A3527",
@@ -8315,14 +7055,7 @@
       "Hospitals": 2,
       "Other Facilities": 7
     },
-    "penalties": [
-      {
-        "type": "Final Share Rate",
-        "amount": 27.53,
-        "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
-      }
-    ]
+    "penalties": []
   },
   {
     "id": "A3531",
@@ -8360,14 +7093,7 @@
       "Hospitals": 2,
       "Other Facilities": 2
     },
-    "penalties": [
-      {
-        "type": "Final Share Rate",
-        "amount": 50.0,
-        "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
-      }
-    ]
+    "penalties": []
   },
   {
     "id": "A3547",
@@ -8405,14 +7131,7 @@
       "Hospitals": 3,
       "Other Facilities": 7
     },
-    "penalties": [
-      {
-        "type": "Final Share Rate",
-        "amount": 40.0,
-        "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
-      }
-    ]
+    "penalties": []
   },
   {
     "id": "A3554",
@@ -8450,14 +7169,7 @@
       "Hospitals": 0,
       "Other Facilities": 0
     },
-    "penalties": [
-      {
-        "type": "Final Share Rate",
-        "amount": 40.0,
-        "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
-      }
-    ]
+    "penalties": []
   },
   {
     "id": "A3555",
@@ -8495,14 +7207,7 @@
       "Hospitals": 1,
       "Other Facilities": 18
     },
-    "penalties": [
-      {
-        "type": "Final Share Rate",
-        "amount": 40.0,
-        "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
-      }
-    ]
+    "penalties": []
   },
   {
     "id": "A3560",
@@ -8540,14 +7245,7 @@
       "Hospitals": 0,
       "Other Facilities": 0
     },
-    "penalties": [
-      {
-        "type": "Final Share Rate",
-        "amount": 40.0,
-        "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
-      }
-    ]
+    "penalties": []
   },
   {
     "id": "A3563",
@@ -8585,14 +7283,7 @@
       "Hospitals": 11,
       "Other Facilities": 22
     },
-    "penalties": [
-      {
-        "type": "Final Share Rate",
-        "amount": 40.0,
-        "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
-      }
-    ]
+    "penalties": []
   },
   {
     "id": "A3566",
@@ -8630,14 +7321,7 @@
       "Hospitals": 18,
       "Other Facilities": 40
     },
-    "penalties": [
-      {
-        "type": "Final Share Rate",
-        "amount": 50.0,
-        "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
-      }
-    ]
+    "penalties": []
   },
   {
     "id": "A3578",
@@ -8675,14 +7359,7 @@
       "Hospitals": 0,
       "Other Facilities": 20
     },
-    "penalties": [
-      {
-        "type": "Final Share Rate",
-        "amount": 40.0,
-        "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
-      }
-    ]
+    "penalties": []
   },
   {
     "id": "A3579",
@@ -8720,14 +7397,7 @@
       "Hospitals": 4,
       "Other Facilities": 2
     },
-    "penalties": [
-      {
-        "type": "Final Share Rate",
-        "amount": 40.0,
-        "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
-      }
-    ]
+    "penalties": []
   },
   {
     "id": "A3588",
@@ -8765,14 +7435,7 @@
       "Hospitals": 0,
       "Other Facilities": 0
     },
-    "penalties": [
-      {
-        "type": "Final Share Rate",
-        "amount": 40.0,
-        "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
-      }
-    ]
+    "penalties": []
   },
   {
     "id": "A3591",
@@ -8810,14 +7473,7 @@
       "Hospitals": 0,
       "Other Facilities": 0
     },
-    "penalties": [
-      {
-        "type": "Final Share Rate",
-        "amount": 40.0,
-        "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
-      }
-    ]
+    "penalties": []
   },
   {
     "id": "A3599",
@@ -8855,14 +7511,7 @@
       "Hospitals": 0,
       "Other Facilities": 0
     },
-    "penalties": [
-      {
-        "type": "Final Share Rate",
-        "amount": 40.0,
-        "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
-      }
-    ]
+    "penalties": []
   },
   {
     "id": "A3613",
@@ -8900,14 +7549,7 @@
       "Hospitals": 0,
       "Other Facilities": 0
     },
-    "penalties": [
-      {
-        "type": "Final Share Rate",
-        "amount": 50.0,
-        "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
-      }
-    ]
+    "penalties": []
   },
   {
     "id": "A3617",
@@ -8945,14 +7587,7 @@
       "Hospitals": 1,
       "Other Facilities": 5
     },
-    "penalties": [
-      {
-        "type": "Final Share Rate",
-        "amount": 75.0,
-        "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
-      }
-    ]
+    "penalties": []
   },
   {
     "id": "A3621",
@@ -8990,14 +7625,7 @@
       "Hospitals": 1,
       "Other Facilities": 2
     },
-    "penalties": [
-      {
-        "type": "Final Share Rate",
-        "amount": 40.0,
-        "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
-      }
-    ]
+    "penalties": []
   },
   {
     "id": "A3623",
@@ -9035,14 +7663,7 @@
       "Hospitals": 0,
       "Other Facilities": 0
     },
-    "penalties": [
-      {
-        "type": "Final Share Rate",
-        "amount": 40.0,
-        "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
-      }
-    ]
+    "penalties": []
   },
   {
     "id": "A3630",
@@ -9080,14 +7701,7 @@
       "Hospitals": 0,
       "Other Facilities": 0
     },
-    "penalties": [
-      {
-        "type": "Final Share Rate",
-        "amount": 50.0,
-        "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
-      }
-    ]
+    "penalties": []
   },
   {
     "id": "A3631",
@@ -9125,14 +7739,7 @@
       "Hospitals": 10,
       "Other Facilities": 12
     },
-    "penalties": [
-      {
-        "type": "Final Share Rate",
-        "amount": 75.0,
-        "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
-      }
-    ]
+    "penalties": []
   },
   {
     "id": "A3632",
@@ -9170,14 +7777,7 @@
       "Hospitals": 3,
       "Other Facilities": 8
     },
-    "penalties": [
-      {
-        "type": "Final Share Rate",
-        "amount": 50.0,
-        "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
-      }
-    ]
+    "penalties": []
   },
   {
     "id": "A3633",
@@ -9215,14 +7815,7 @@
       "Hospitals": 8,
       "Other Facilities": 20
     },
-    "penalties": [
-      {
-        "type": "Final Share Rate",
-        "amount": 75.0,
-        "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
-      }
-    ]
+    "penalties": []
   },
   {
     "id": "A3644",
@@ -9260,14 +7853,7 @@
       "Hospitals": 12,
       "Other Facilities": 32
     },
-    "penalties": [
-      {
-        "type": "Final Share Rate",
-        "amount": 30.62,
-        "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
-      }
-    ]
+    "penalties": []
   },
   {
     "id": "A3664",
@@ -9305,14 +7891,7 @@
       "Hospitals": 6,
       "Other Facilities": 9
     },
-    "penalties": [
-      {
-        "type": "Final Share Rate",
-        "amount": 40.0,
-        "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
-      }
-    ]
+    "penalties": []
   },
   {
     "id": "A3667",
@@ -9350,14 +7929,7 @@
       "Hospitals": 0,
       "Other Facilities": 0
     },
-    "penalties": [
-      {
-        "type": "Final Share Rate",
-        "amount": 75.0,
-        "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
-      }
-    ]
+    "penalties": []
   },
   {
     "id": "A3671",
@@ -9395,14 +7967,7 @@
       "Hospitals": 0,
       "Other Facilities": 0
     },
-    "penalties": [
-      {
-        "type": "Final Share Rate",
-        "amount": 50.0,
-        "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
-      }
-    ]
+    "penalties": []
   },
   {
     "id": "A3675",
@@ -9440,14 +8005,7 @@
       "Hospitals": 3,
       "Other Facilities": 25
     },
-    "penalties": [
-      {
-        "type": "Final Share Rate",
-        "amount": 40.0,
-        "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
-      }
-    ]
+    "penalties": []
   },
   {
     "id": "A3677",
@@ -9485,14 +8043,7 @@
       "Hospitals": 6,
       "Other Facilities": 8
     },
-    "penalties": [
-      {
-        "type": "Final Share Rate",
-        "amount": 50.0,
-        "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
-      }
-    ]
+    "penalties": []
   },
   {
     "id": "A3692",
@@ -9530,14 +8081,7 @@
       "Hospitals": 1,
       "Other Facilities": 2
     },
-    "penalties": [
-      {
-        "type": "Final Share Rate",
-        "amount": 75.0,
-        "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
-      }
-    ]
+    "penalties": []
   },
   {
     "id": "A3694",
@@ -9575,14 +8119,7 @@
       "Hospitals": 9,
       "Other Facilities": 15
     },
-    "penalties": [
-      {
-        "type": "Final Share Rate",
-        "amount": 40.0,
-        "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
-      }
-    ]
+    "penalties": []
   },
   {
     "id": "A3696",
@@ -9620,14 +8157,7 @@
       "Hospitals": 1,
       "Other Facilities": 0
     },
-    "penalties": [
-      {
-        "type": "Final Share Rate",
-        "amount": 40.0,
-        "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
-      }
-    ]
+    "penalties": []
   },
   {
     "id": "A3698",
@@ -9665,14 +8195,7 @@
       "Hospitals": 4,
       "Other Facilities": 4
     },
-    "penalties": [
-      {
-        "type": "Final Share Rate",
-        "amount": 30.48,
-        "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
-      }
-    ]
+    "penalties": []
   },
   {
     "id": "A3712",
@@ -9710,14 +8233,7 @@
       "Hospitals": 13,
       "Other Facilities": 20
     },
-    "penalties": [
-      {
-        "type": "Final Share Rate",
-        "amount": 40.0,
-        "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
-      }
-    ]
+    "penalties": []
   },
   {
     "id": "A3714",
@@ -9755,14 +8271,7 @@
       "Hospitals": 6,
       "Other Facilities": 8
     },
-    "penalties": [
-      {
-        "type": "Final Share Rate",
-        "amount": 40.0,
-        "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
-      }
-    ]
+    "penalties": []
   },
   {
     "id": "A3715",
@@ -9800,14 +8309,7 @@
       "Hospitals": 9,
       "Other Facilities": 13
     },
-    "penalties": [
-      {
-        "type": "Final Share Rate",
-        "amount": 40.0,
-        "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
-      }
-    ]
+    "penalties": []
   },
   {
     "id": "A3720",
@@ -9845,14 +8347,7 @@
       "Hospitals": 0,
       "Other Facilities": 0
     },
-    "penalties": [
-      {
-        "type": "Final Share Rate",
-        "amount": 75.0,
-        "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
-      }
-    ]
+    "penalties": []
   },
   {
     "id": "A3722",
@@ -9890,14 +8385,7 @@
       "Hospitals": 7,
       "Other Facilities": 13
     },
-    "penalties": [
-      {
-        "type": "Final Share Rate",
-        "amount": 30.38,
-        "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
-      }
-    ]
+    "penalties": []
   },
   {
     "id": "A3723",
@@ -9935,14 +8423,7 @@
       "Hospitals": 3,
       "Other Facilities": 6
     },
-    "penalties": [
-      {
-        "type": "Final Share Rate",
-        "amount": 40.0,
-        "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
-      }
-    ]
+    "penalties": []
   },
   {
     "id": "A3724",
@@ -9980,14 +8461,7 @@
       "Hospitals": 16,
       "Other Facilities": 26
     },
-    "penalties": [
-      {
-        "type": "Final Share Rate",
-        "amount": 40.0,
-        "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
-      }
-    ]
+    "penalties": []
   },
   {
     "id": "A3730",
@@ -10025,14 +8499,7 @@
       "Hospitals": 3,
       "Other Facilities": 5
     },
-    "penalties": [
-      {
-        "type": "Final Share Rate",
-        "amount": 75.0,
-        "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
-      }
-    ]
+    "penalties": []
   },
   {
     "id": "A3731",
@@ -10070,14 +8537,7 @@
       "Hospitals": 2,
       "Other Facilities": 1
     },
-    "penalties": [
-      {
-        "type": "Final Share Rate",
-        "amount": 40.0,
-        "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
-      }
-    ]
+    "penalties": []
   },
   {
     "id": "A3738",
@@ -10115,14 +8575,7 @@
       "Hospitals": 1,
       "Other Facilities": 3
     },
-    "penalties": [
-      {
-        "type": "Final Share Rate",
-        "amount": 40.0,
-        "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
-      }
-    ]
+    "penalties": []
   },
   {
     "id": "A3739",
@@ -10160,14 +8613,7 @@
       "Hospitals": 0,
       "Other Facilities": 0
     },
-    "penalties": [
-      {
-        "type": "Final Share Rate",
-        "amount": 50.0,
-        "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
-      }
-    ]
+    "penalties": []
   },
   {
     "id": "A3759",
@@ -10205,14 +8651,7 @@
       "Hospitals": 0,
       "Other Facilities": 0
     },
-    "penalties": [
-      {
-        "type": "Final Share Rate",
-        "amount": 40.0,
-        "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
-      }
-    ]
+    "penalties": []
   },
   {
     "id": "A3764",
@@ -10250,14 +8689,7 @@
       "Hospitals": 0,
       "Other Facilities": 0
     },
-    "penalties": [
-      {
-        "type": "Final Share Rate",
-        "amount": 75.0,
-        "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
-      }
-    ]
+    "penalties": []
   },
   {
     "id": "A3770",
@@ -10295,14 +8727,7 @@
       "Hospitals": 0,
       "Other Facilities": 0
     },
-    "penalties": [
-      {
-        "type": "Final Share Rate",
-        "amount": 42.34,
-        "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
-      }
-    ]
+    "penalties": []
   },
   {
     "id": "A3783",
@@ -10340,14 +8765,7 @@
       "Hospitals": 0,
       "Other Facilities": 0
     },
-    "penalties": [
-      {
-        "type": "Final Share Rate",
-        "amount": 75.0,
-        "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
-      }
-    ]
+    "penalties": []
   },
   {
     "id": "A3791",
@@ -10385,14 +8803,7 @@
       "Hospitals": 1,
       "Other Facilities": 1
     },
-    "penalties": [
-      {
-        "type": "Final Share Rate",
-        "amount": 40.0,
-        "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
-      }
-    ]
+    "penalties": []
   },
   {
     "id": "A3797",
@@ -10430,14 +8841,7 @@
       "Hospitals": 0,
       "Other Facilities": 0
     },
-    "penalties": [
-      {
-        "type": "Final Share Rate",
-        "amount": 40.0,
-        "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
-      }
-    ]
+    "penalties": []
   },
   {
     "id": "A3799",
@@ -10475,14 +8879,7 @@
       "Hospitals": 1,
       "Other Facilities": 2
     },
-    "penalties": [
-      {
-        "type": "Final Share Rate",
-        "amount": 40.0,
-        "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
-      }
-    ]
+    "penalties": []
   },
   {
     "id": "A3825",
@@ -10520,14 +8917,7 @@
       "Hospitals": 0,
       "Other Facilities": 0
     },
-    "penalties": [
-      {
-        "type": "Final Share Rate",
-        "amount": 28.61,
-        "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
-      }
-    ]
+    "penalties": []
   },
   {
     "id": "A3832",
@@ -10565,14 +8955,7 @@
       "Hospitals": 1,
       "Other Facilities": 1
     },
-    "penalties": [
-      {
-        "type": "Final Share Rate",
-        "amount": 50.0,
-        "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
-      }
-    ]
+    "penalties": []
   },
   {
     "id": "A3834",
@@ -10610,14 +8993,7 @@
       "Hospitals": 0,
       "Other Facilities": 0
     },
-    "penalties": [
-      {
-        "type": "Final Share Rate",
-        "amount": 75.0,
-        "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
-      }
-    ]
+    "penalties": []
   },
   {
     "id": "A3840",
@@ -10655,14 +9031,7 @@
       "Hospitals": 2,
       "Other Facilities": 6
     },
-    "penalties": [
-      {
-        "type": "Final Share Rate",
-        "amount": 50.0,
-        "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
-      }
-    ]
+    "penalties": []
   },
   {
     "id": "A3864",
@@ -10700,14 +9069,7 @@
       "Hospitals": 0,
       "Other Facilities": 0
     },
-    "penalties": [
-      {
-        "type": "Final Share Rate",
-        "amount": 40.0,
-        "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
-      }
-    ]
+    "penalties": []
   },
   {
     "id": "A3873",
@@ -10745,14 +9107,7 @@
       "Hospitals": 1,
       "Other Facilities": 1
     },
-    "penalties": [
-      {
-        "type": "Final Share Rate",
-        "amount": 40.0,
-        "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
-      }
-    ]
+    "penalties": []
   },
   {
     "id": "A3891",
@@ -10790,14 +9145,7 @@
       "Hospitals": 0,
       "Other Facilities": 0
     },
-    "penalties": [
-      {
-        "type": "Final Share Rate",
-        "amount": 75.0,
-        "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
-      }
-    ]
+    "penalties": []
   },
   {
     "id": "A3894",
@@ -10835,14 +9183,7 @@
       "Hospitals": 0,
       "Other Facilities": 0
     },
-    "penalties": [
-      {
-        "type": "Final Share Rate",
-        "amount": 75.0,
-        "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
-      }
-    ]
+    "penalties": []
   },
   {
     "id": "A3899",
@@ -10880,14 +9221,7 @@
       "Hospitals": 0,
       "Other Facilities": 0
     },
-    "penalties": [
-      {
-        "type": "Final Share Rate",
-        "amount": 75.0,
-        "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
-      }
-    ]
+    "penalties": []
   },
   {
     "id": "A3908",
@@ -10925,14 +9259,7 @@
       "Hospitals": 2,
       "Other Facilities": 6
     },
-    "penalties": [
-      {
-        "type": "Final Share Rate",
-        "amount": 40.0,
-        "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
-      }
-    ]
+    "penalties": []
   },
   {
     "id": "A3919",
@@ -10970,14 +9297,7 @@
       "Hospitals": 2,
       "Other Facilities": 5
     },
-    "penalties": [
-      {
-        "type": "Final Share Rate",
-        "amount": 50.0,
-        "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
-      }
-    ]
+    "penalties": []
   },
   {
     "id": "A3922",
@@ -11015,14 +9335,7 @@
       "Hospitals": 0,
       "Other Facilities": 0
     },
-    "penalties": [
-      {
-        "type": "Final Share Rate",
-        "amount": 75.0,
-        "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
-      }
-    ]
+    "penalties": []
   },
   {
     "id": "A4502",
@@ -11060,14 +9373,7 @@
       "Hospitals": 1,
       "Other Facilities": 6
     },
-    "penalties": [
-      {
-        "type": "Final Share Rate",
-        "amount": 40.0,
-        "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
-      }
-    ]
+    "penalties": []
   },
   {
     "id": "A4513",
@@ -11105,14 +9411,7 @@
       "Hospitals": 5,
       "Other Facilities": 7
     },
-    "penalties": [
-      {
-        "type": "Final Share Rate",
-        "amount": 27.88,
-        "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
-      }
-    ]
+    "penalties": []
   },
   {
     "id": "A4516",
@@ -11150,14 +9449,7 @@
       "Hospitals": 0,
       "Other Facilities": 0
     },
-    "penalties": [
-      {
-        "type": "Final Share Rate",
-        "amount": 50.0,
-        "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
-      }
-    ]
+    "penalties": []
   },
   {
     "id": "A4527",
@@ -11195,14 +9487,7 @@
       "Hospitals": 5,
       "Other Facilities": 12
     },
-    "penalties": [
-      {
-        "type": "Final Share Rate",
-        "amount": 75.0,
-        "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
-      }
-    ]
+    "penalties": []
   },
   {
     "id": "A4542",
@@ -11240,14 +9525,7 @@
       "Hospitals": 0,
       "Other Facilities": 0
     },
-    "penalties": [
-      {
-        "type": "Final Share Rate",
-        "amount": 75.0,
-        "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
-      }
-    ]
+    "penalties": []
   },
   {
     "id": "A4546",
@@ -11285,14 +9563,7 @@
       "Hospitals": 0,
       "Other Facilities": 1
     },
-    "penalties": [
-      {
-        "type": "Final Share Rate",
-        "amount": 75.0,
-        "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
-      }
-    ]
+    "penalties": []
   },
   {
     "id": "A4548",
@@ -11330,14 +9601,7 @@
       "Hospitals": 0,
       "Other Facilities": 0
     },
-    "penalties": [
-      {
-        "type": "Final Share Rate",
-        "amount": 75.0,
-        "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
-      }
-    ]
+    "penalties": []
   },
   {
     "id": "A4551",
@@ -11377,10 +9641,10 @@
     },
     "penalties": [
       {
-        "type": "Final Share Rate",
-        "amount": 50.0,
+        "type": "Shared Loss Payment",
+        "amount": 290078.0,
         "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
+        "description": "ACO incurred a $580,156 loss. At 50% shared loss rate, repayment = $290,078."
       }
     ]
   },
@@ -11420,14 +9684,7 @@
       "Hospitals": 0,
       "Other Facilities": 0
     },
-    "penalties": [
-      {
-        "type": "Final Share Rate",
-        "amount": 50.0,
-        "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
-      }
-    ]
+    "penalties": []
   },
   {
     "id": "A4559",
@@ -11465,14 +9722,7 @@
       "Hospitals": 6,
       "Other Facilities": 6
     },
-    "penalties": [
-      {
-        "type": "Final Share Rate",
-        "amount": 75.0,
-        "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
-      }
-    ]
+    "penalties": []
   },
   {
     "id": "A4566",
@@ -11510,14 +9760,7 @@
       "Hospitals": 1,
       "Other Facilities": 3
     },
-    "penalties": [
-      {
-        "type": "Final Share Rate",
-        "amount": 40.0,
-        "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
-      }
-    ]
+    "penalties": []
   },
   {
     "id": "A4573",
@@ -11555,14 +9798,7 @@
       "Hospitals": 4,
       "Other Facilities": 13
     },
-    "penalties": [
-      {
-        "type": "Final Share Rate",
-        "amount": 50.0,
-        "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
-      }
-    ]
+    "penalties": []
   },
   {
     "id": "A4575",
@@ -11600,14 +9836,7 @@
       "Hospitals": 3,
       "Other Facilities": 4
     },
-    "penalties": [
-      {
-        "type": "Final Share Rate",
-        "amount": 75.0,
-        "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
-      }
-    ]
+    "penalties": []
   },
   {
     "id": "A4577",
@@ -11645,14 +9874,7 @@
       "Hospitals": 0,
       "Other Facilities": 0
     },
-    "penalties": [
-      {
-        "type": "Final Share Rate",
-        "amount": 50.0,
-        "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
-      }
-    ]
+    "penalties": []
   },
   {
     "id": "A4585",
@@ -11690,14 +9912,7 @@
       "Hospitals": 0,
       "Other Facilities": 0
     },
-    "penalties": [
-      {
-        "type": "Final Share Rate",
-        "amount": 75.0,
-        "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
-      }
-    ]
+    "penalties": []
   },
   {
     "id": "A4588",
@@ -11737,10 +9952,10 @@
     },
     "penalties": [
       {
-        "type": "Final Share Rate",
-        "amount": 75.0,
+        "type": "Shared Loss Payment",
+        "amount": 637992.0,
         "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
+        "description": "ACO incurred a $1,275,984 loss. At 50% shared loss rate, repayment = $637,992."
       }
     ]
   },
@@ -11780,14 +9995,7 @@
       "Hospitals": 1,
       "Other Facilities": 2
     },
-    "penalties": [
-      {
-        "type": "Final Share Rate",
-        "amount": 50.0,
-        "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
-      }
-    ]
+    "penalties": []
   },
   {
     "id": "A4597",
@@ -11825,14 +10033,7 @@
       "Hospitals": 0,
       "Other Facilities": 0
     },
-    "penalties": [
-      {
-        "type": "Final Share Rate",
-        "amount": 36.39,
-        "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
-      }
-    ]
+    "penalties": []
   },
   {
     "id": "A4604",
@@ -11870,14 +10071,7 @@
       "Hospitals": 54,
       "Other Facilities": 210
     },
-    "penalties": [
-      {
-        "type": "Final Share Rate",
-        "amount": 75.0,
-        "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
-      }
-    ]
+    "penalties": []
   },
   {
     "id": "A4613",
@@ -11915,14 +10109,7 @@
       "Hospitals": 0,
       "Other Facilities": 0
     },
-    "penalties": [
-      {
-        "type": "Final Share Rate",
-        "amount": 40.0,
-        "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
-      }
-    ]
+    "penalties": []
   },
   {
     "id": "A4614",
@@ -11960,14 +10147,7 @@
       "Hospitals": 2,
       "Other Facilities": 1
     },
-    "penalties": [
-      {
-        "type": "Final Share Rate",
-        "amount": 40.0,
-        "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
-      }
-    ]
+    "penalties": []
   },
   {
     "id": "A4617",
@@ -12005,14 +10185,7 @@
       "Hospitals": 6,
       "Other Facilities": 21
     },
-    "penalties": [
-      {
-        "type": "Final Share Rate",
-        "amount": 75.0,
-        "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
-      }
-    ]
+    "penalties": []
   },
   {
     "id": "A4618",
@@ -12050,14 +10223,7 @@
       "Hospitals": 0,
       "Other Facilities": 0
     },
-    "penalties": [
-      {
-        "type": "Final Share Rate",
-        "amount": 50.0,
-        "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
-      }
-    ]
+    "penalties": []
   },
   {
     "id": "A4620",
@@ -12095,14 +10261,7 @@
       "Hospitals": 0,
       "Other Facilities": 0
     },
-    "penalties": [
-      {
-        "type": "Final Share Rate",
-        "amount": 40.0,
-        "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
-      }
-    ]
+    "penalties": []
   },
   {
     "id": "A4626",
@@ -12140,14 +10299,7 @@
       "Hospitals": 6,
       "Other Facilities": 13
     },
-    "penalties": [
-      {
-        "type": "Final Share Rate",
-        "amount": 50.0,
-        "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
-      }
-    ]
+    "penalties": []
   },
   {
     "id": "A4629",
@@ -12185,14 +10337,7 @@
       "Hospitals": 0,
       "Other Facilities": 0
     },
-    "penalties": [
-      {
-        "type": "Final Share Rate",
-        "amount": 75.0,
-        "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
-      }
-    ]
+    "penalties": []
   },
   {
     "id": "A4638",
@@ -12232,10 +10377,10 @@
     },
     "penalties": [
       {
-        "type": "Final Share Rate",
-        "amount": 75.0,
+        "type": "Shared Loss Payment",
+        "amount": 490181.0,
         "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
+        "description": "ACO incurred a $980,362 loss. At 50% shared loss rate, repayment = $490,181."
       }
     ]
   },
@@ -12275,14 +10420,7 @@
       "Hospitals": 5,
       "Other Facilities": 7
     },
-    "penalties": [
-      {
-        "type": "Final Share Rate",
-        "amount": 75.0,
-        "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
-      }
-    ]
+    "penalties": []
   },
   {
     "id": "A4649",
@@ -12320,14 +10458,7 @@
       "Hospitals": 1,
       "Other Facilities": 8
     },
-    "penalties": [
-      {
-        "type": "Final Share Rate",
-        "amount": 75.0,
-        "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
-      }
-    ]
+    "penalties": []
   },
   {
     "id": "A4650",
@@ -12365,14 +10496,7 @@
       "Hospitals": 0,
       "Other Facilities": 0
     },
-    "penalties": [
-      {
-        "type": "Final Share Rate",
-        "amount": 50.0,
-        "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
-      }
-    ]
+    "penalties": []
   },
   {
     "id": "A4652",
@@ -12410,14 +10534,7 @@
       "Hospitals": 3,
       "Other Facilities": 7
     },
-    "penalties": [
-      {
-        "type": "Final Share Rate",
-        "amount": 50.0,
-        "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
-      }
-    ]
+    "penalties": []
   },
   {
     "id": "A4654",
@@ -12455,14 +10572,7 @@
       "Hospitals": 5,
       "Other Facilities": 8
     },
-    "penalties": [
-      {
-        "type": "Final Share Rate",
-        "amount": 50.0,
-        "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
-      }
-    ]
+    "penalties": []
   },
   {
     "id": "A4657",
@@ -12500,14 +10610,7 @@
       "Hospitals": 4,
       "Other Facilities": 8
     },
-    "penalties": [
-      {
-        "type": "Final Share Rate",
-        "amount": 50.0,
-        "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
-      }
-    ]
+    "penalties": []
   },
   {
     "id": "A4671",
@@ -12545,14 +10648,7 @@
       "Hospitals": 0,
       "Other Facilities": 0
     },
-    "penalties": [
-      {
-        "type": "Final Share Rate",
-        "amount": 50.0,
-        "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
-      }
-    ]
+    "penalties": []
   },
   {
     "id": "A4678",
@@ -12590,14 +10686,7 @@
       "Hospitals": 1,
       "Other Facilities": 0
     },
-    "penalties": [
-      {
-        "type": "Final Share Rate",
-        "amount": 40.0,
-        "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
-      }
-    ]
+    "penalties": []
   },
   {
     "id": "A4692",
@@ -12635,14 +10724,7 @@
       "Hospitals": 9,
       "Other Facilities": 61
     },
-    "penalties": [
-      {
-        "type": "Final Share Rate",
-        "amount": 75.0,
-        "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
-      }
-    ]
+    "penalties": []
   },
   {
     "id": "A4701",
@@ -12680,14 +10762,7 @@
       "Hospitals": 0,
       "Other Facilities": 0
     },
-    "penalties": [
-      {
-        "type": "Final Share Rate",
-        "amount": 75.0,
-        "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
-      }
-    ]
+    "penalties": []
   },
   {
     "id": "A4707",
@@ -12725,14 +10800,7 @@
       "Hospitals": 0,
       "Other Facilities": 0
     },
-    "penalties": [
-      {
-        "type": "Final Share Rate",
-        "amount": 75.0,
-        "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
-      }
-    ]
+    "penalties": []
   },
   {
     "id": "A4709",
@@ -12770,14 +10838,7 @@
       "Hospitals": 0,
       "Other Facilities": 0
     },
-    "penalties": [
-      {
-        "type": "Final Share Rate",
-        "amount": 75.0,
-        "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
-      }
-    ]
+    "penalties": []
   },
   {
     "id": "A4711",
@@ -12815,14 +10876,7 @@
       "Hospitals": 2,
       "Other Facilities": 3
     },
-    "penalties": [
-      {
-        "type": "Final Share Rate",
-        "amount": 75.0,
-        "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
-      }
-    ]
+    "penalties": []
   },
   {
     "id": "A4723",
@@ -12860,14 +10914,7 @@
       "Hospitals": 6,
       "Other Facilities": 14
     },
-    "penalties": [
-      {
-        "type": "Final Share Rate",
-        "amount": 40.0,
-        "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
-      }
-    ]
+    "penalties": []
   },
   {
     "id": "A4733",
@@ -12905,14 +10952,7 @@
       "Hospitals": 0,
       "Other Facilities": 0
     },
-    "penalties": [
-      {
-        "type": "Final Share Rate",
-        "amount": 50.0,
-        "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
-      }
-    ]
+    "penalties": []
   },
   {
     "id": "A4737",
@@ -12950,14 +10990,7 @@
       "Hospitals": 0,
       "Other Facilities": 0
     },
-    "penalties": [
-      {
-        "type": "Final Share Rate",
-        "amount": 75.0,
-        "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
-      }
-    ]
+    "penalties": []
   },
   {
     "id": "A4744",
@@ -12995,14 +11028,7 @@
       "Hospitals": 0,
       "Other Facilities": 0
     },
-    "penalties": [
-      {
-        "type": "Final Share Rate",
-        "amount": 75.0,
-        "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
-      }
-    ]
+    "penalties": []
   },
   {
     "id": "A4749",
@@ -13040,14 +11066,7 @@
       "Hospitals": 0,
       "Other Facilities": 0
     },
-    "penalties": [
-      {
-        "type": "Final Share Rate",
-        "amount": 40.0,
-        "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
-      }
-    ]
+    "penalties": []
   },
   {
     "id": "A4754",
@@ -13085,14 +11104,7 @@
       "Hospitals": 0,
       "Other Facilities": 0
     },
-    "penalties": [
-      {
-        "type": "Final Share Rate",
-        "amount": 50.0,
-        "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
-      }
-    ]
+    "penalties": []
   },
   {
     "id": "A4756",
@@ -13130,14 +11142,7 @@
       "Hospitals": 0,
       "Other Facilities": 0
     },
-    "penalties": [
-      {
-        "type": "Final Share Rate",
-        "amount": 75.0,
-        "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
-      }
-    ]
+    "penalties": []
   },
   {
     "id": "A4757",
@@ -13175,14 +11180,7 @@
       "Hospitals": 0,
       "Other Facilities": 0
     },
-    "penalties": [
-      {
-        "type": "Final Share Rate",
-        "amount": 75.0,
-        "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
-      }
-    ]
+    "penalties": []
   },
   {
     "id": "A4764",
@@ -13220,14 +11218,7 @@
       "Hospitals": 0,
       "Other Facilities": 0
     },
-    "penalties": [
-      {
-        "type": "Final Share Rate",
-        "amount": 75.0,
-        "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
-      }
-    ]
+    "penalties": []
   },
   {
     "id": "A4768",
@@ -13265,14 +11256,7 @@
       "Hospitals": 1,
       "Other Facilities": 0
     },
-    "penalties": [
-      {
-        "type": "Final Share Rate",
-        "amount": 50.0,
-        "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
-      }
-    ]
+    "penalties": []
   },
   {
     "id": "A4771",
@@ -13310,14 +11294,7 @@
       "Hospitals": 0,
       "Other Facilities": 0
     },
-    "penalties": [
-      {
-        "type": "Final Share Rate",
-        "amount": 40.0,
-        "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
-      }
-    ]
+    "penalties": []
   },
   {
     "id": "A4775",
@@ -13355,14 +11332,7 @@
       "Hospitals": 0,
       "Other Facilities": 0
     },
-    "penalties": [
-      {
-        "type": "Final Share Rate",
-        "amount": 75.0,
-        "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
-      }
-    ]
+    "penalties": []
   },
   {
     "id": "A4776",
@@ -13400,14 +11370,7 @@
       "Hospitals": 1,
       "Other Facilities": 3
     },
-    "penalties": [
-      {
-        "type": "Final Share Rate",
-        "amount": 75.0,
-        "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
-      }
-    ]
+    "penalties": []
   },
   {
     "id": "A4777",
@@ -13445,14 +11408,7 @@
       "Hospitals": 0,
       "Other Facilities": 1
     },
-    "penalties": [
-      {
-        "type": "Final Share Rate",
-        "amount": 75.0,
-        "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
-      }
-    ]
+    "penalties": []
   },
   {
     "id": "A4778",
@@ -13490,14 +11446,7 @@
       "Hospitals": 0,
       "Other Facilities": 0
     },
-    "penalties": [
-      {
-        "type": "Final Share Rate",
-        "amount": 40.0,
-        "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
-      }
-    ]
+    "penalties": []
   },
   {
     "id": "A4794",
@@ -13535,14 +11484,7 @@
       "Hospitals": 0,
       "Other Facilities": 0
     },
-    "penalties": [
-      {
-        "type": "Final Share Rate",
-        "amount": 75.0,
-        "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
-      }
-    ]
+    "penalties": []
   },
   {
     "id": "A4795",
@@ -13580,14 +11522,7 @@
       "Hospitals": 0,
       "Other Facilities": 0
     },
-    "penalties": [
-      {
-        "type": "Final Share Rate",
-        "amount": 75.0,
-        "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
-      }
-    ]
+    "penalties": []
   },
   {
     "id": "A4799",
@@ -13625,14 +11560,7 @@
       "Hospitals": 1,
       "Other Facilities": 4
     },
-    "penalties": [
-      {
-        "type": "Final Share Rate",
-        "amount": 75.0,
-        "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
-      }
-    ]
+    "penalties": []
   },
   {
     "id": "A4803",
@@ -13670,14 +11598,7 @@
       "Hospitals": 0,
       "Other Facilities": 0
     },
-    "penalties": [
-      {
-        "type": "Final Share Rate",
-        "amount": 40.0,
-        "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
-      }
-    ]
+    "penalties": []
   },
   {
     "id": "A4824",
@@ -13715,14 +11636,7 @@
       "Hospitals": 0,
       "Other Facilities": 0
     },
-    "penalties": [
-      {
-        "type": "Final Share Rate",
-        "amount": 40.0,
-        "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
-      }
-    ]
+    "penalties": []
   },
   {
     "id": "A4825",
@@ -13760,14 +11674,7 @@
       "Hospitals": 0,
       "Other Facilities": 0
     },
-    "penalties": [
-      {
-        "type": "Final Share Rate",
-        "amount": 50.0,
-        "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
-      }
-    ]
+    "penalties": []
   },
   {
     "id": "A4830",
@@ -13805,14 +11712,7 @@
       "Hospitals": 1,
       "Other Facilities": 2
     },
-    "penalties": [
-      {
-        "type": "Final Share Rate",
-        "amount": 50.0,
-        "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
-      }
-    ]
+    "penalties": []
   },
   {
     "id": "A4832",
@@ -13850,14 +11750,7 @@
       "Hospitals": 0,
       "Other Facilities": 0
     },
-    "penalties": [
-      {
-        "type": "Final Share Rate",
-        "amount": 50.0,
-        "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
-      }
-    ]
+    "penalties": []
   },
   {
     "id": "A4856",
@@ -13895,14 +11788,7 @@
       "Hospitals": 0,
       "Other Facilities": 0
     },
-    "penalties": [
-      {
-        "type": "Final Share Rate",
-        "amount": 75.0,
-        "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
-      }
-    ]
+    "penalties": []
   },
   {
     "id": "A4862",
@@ -13940,14 +11826,7 @@
       "Hospitals": 0,
       "Other Facilities": 0
     },
-    "penalties": [
-      {
-        "type": "Final Share Rate",
-        "amount": 75.0,
-        "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
-      }
-    ]
+    "penalties": []
   },
   {
     "id": "A4868",
@@ -13985,14 +11864,7 @@
       "Hospitals": 0,
       "Other Facilities": 0
     },
-    "penalties": [
-      {
-        "type": "Final Share Rate",
-        "amount": 50.0,
-        "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
-      }
-    ]
+    "penalties": []
   },
   {
     "id": "A4873",
@@ -14030,14 +11902,7 @@
       "Hospitals": 0,
       "Other Facilities": 0
     },
-    "penalties": [
-      {
-        "type": "Final Share Rate",
-        "amount": 50.0,
-        "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
-      }
-    ]
+    "penalties": []
   },
   {
     "id": "A4885",
@@ -14075,14 +11940,7 @@
       "Hospitals": 0,
       "Other Facilities": 0
     },
-    "penalties": [
-      {
-        "type": "Final Share Rate",
-        "amount": 40.0,
-        "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
-      }
-    ]
+    "penalties": []
   },
   {
     "id": "A4888",
@@ -14120,14 +11978,7 @@
       "Hospitals": 0,
       "Other Facilities": 0
     },
-    "penalties": [
-      {
-        "type": "Final Share Rate",
-        "amount": 30.58,
-        "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
-      }
-    ]
+    "penalties": []
   },
   {
     "id": "A4889",
@@ -14165,14 +12016,7 @@
       "Hospitals": 0,
       "Other Facilities": 0
     },
-    "penalties": [
-      {
-        "type": "Final Share Rate",
-        "amount": 50.0,
-        "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
-      }
-    ]
+    "penalties": []
   },
   {
     "id": "A4894",
@@ -14210,14 +12054,7 @@
       "Hospitals": 0,
       "Other Facilities": 0
     },
-    "penalties": [
-      {
-        "type": "Final Share Rate",
-        "amount": 75.0,
-        "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
-      }
-    ]
+    "penalties": []
   },
   {
     "id": "A4895",
@@ -14255,14 +12092,7 @@
       "Hospitals": 0,
       "Other Facilities": 0
     },
-    "penalties": [
-      {
-        "type": "Final Share Rate",
-        "amount": 50.0,
-        "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
-      }
-    ]
+    "penalties": []
   },
   {
     "id": "A4901",
@@ -14300,14 +12130,7 @@
       "Hospitals": 2,
       "Other Facilities": 4
     },
-    "penalties": [
-      {
-        "type": "Final Share Rate",
-        "amount": 40.0,
-        "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
-      }
-    ]
+    "penalties": []
   },
   {
     "id": "A4922",
@@ -14345,14 +12168,7 @@
       "Hospitals": 0,
       "Other Facilities": 0
     },
-    "penalties": [
-      {
-        "type": "Final Share Rate",
-        "amount": 75.0,
-        "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
-      }
-    ]
+    "penalties": []
   },
   {
     "id": "A4923",
@@ -14390,14 +12206,7 @@
       "Hospitals": 2,
       "Other Facilities": 2
     },
-    "penalties": [
-      {
-        "type": "Final Share Rate",
-        "amount": 40.0,
-        "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
-      }
-    ]
+    "penalties": []
   },
   {
     "id": "A4924",
@@ -14435,14 +12244,7 @@
       "Hospitals": 0,
       "Other Facilities": 0
     },
-    "penalties": [
-      {
-        "type": "Final Share Rate",
-        "amount": 50.0,
-        "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
-      }
-    ]
+    "penalties": []
   },
   {
     "id": "A4931",
@@ -14480,14 +12282,7 @@
       "Hospitals": 1,
       "Other Facilities": 4
     },
-    "penalties": [
-      {
-        "type": "Final Share Rate",
-        "amount": 75.0,
-        "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
-      }
-    ]
+    "penalties": []
   },
   {
     "id": "A4937",
@@ -14525,14 +12320,7 @@
       "Hospitals": 2,
       "Other Facilities": 6
     },
-    "penalties": [
-      {
-        "type": "Final Share Rate",
-        "amount": 75.0,
-        "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
-      }
-    ]
+    "penalties": []
   },
   {
     "id": "A4938",
@@ -14570,14 +12358,7 @@
       "Hospitals": 5,
       "Other Facilities": 10
     },
-    "penalties": [
-      {
-        "type": "Final Share Rate",
-        "amount": 75.0,
-        "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
-      }
-    ]
+    "penalties": []
   },
   {
     "id": "A4943",
@@ -14615,14 +12396,7 @@
       "Hospitals": 0,
       "Other Facilities": 0
     },
-    "penalties": [
-      {
-        "type": "Final Share Rate",
-        "amount": 40.0,
-        "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
-      }
-    ]
+    "penalties": []
   },
   {
     "id": "A4945",
@@ -14660,14 +12434,7 @@
       "Hospitals": 1,
       "Other Facilities": 4
     },
-    "penalties": [
-      {
-        "type": "Final Share Rate",
-        "amount": 50.0,
-        "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
-      }
-    ]
+    "penalties": []
   },
   {
     "id": "A4947",
@@ -14705,14 +12472,7 @@
       "Hospitals": 0,
       "Other Facilities": 0
     },
-    "penalties": [
-      {
-        "type": "Final Share Rate",
-        "amount": 50.0,
-        "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
-      }
-    ]
+    "penalties": []
   },
   {
     "id": "A4949",
@@ -14750,14 +12510,7 @@
       "Hospitals": 4,
       "Other Facilities": 12
     },
-    "penalties": [
-      {
-        "type": "Final Share Rate",
-        "amount": 75.0,
-        "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
-      }
-    ]
+    "penalties": []
   },
   {
     "id": "A4960",
@@ -14795,14 +12548,7 @@
       "Hospitals": 0,
       "Other Facilities": 0
     },
-    "penalties": [
-      {
-        "type": "Final Share Rate",
-        "amount": 50.0,
-        "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
-      }
-    ]
+    "penalties": []
   },
   {
     "id": "A4961",
@@ -14840,14 +12586,7 @@
       "Hospitals": 0,
       "Other Facilities": 0
     },
-    "penalties": [
-      {
-        "type": "Final Share Rate",
-        "amount": 40.0,
-        "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
-      }
-    ]
+    "penalties": []
   },
   {
     "id": "A4964",
@@ -14885,14 +12624,7 @@
       "Hospitals": 1,
       "Other Facilities": 3
     },
-    "penalties": [
-      {
-        "type": "Final Share Rate",
-        "amount": 75.0,
-        "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
-      }
-    ]
+    "penalties": []
   },
   {
     "id": "A4974",
@@ -14930,14 +12662,7 @@
       "Hospitals": 19,
       "Other Facilities": 200
     },
-    "penalties": [
-      {
-        "type": "Final Share Rate",
-        "amount": 40.0,
-        "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
-      }
-    ]
+    "penalties": []
   },
   {
     "id": "A4976",
@@ -14975,14 +12700,7 @@
       "Hospitals": 2,
       "Other Facilities": 1
     },
-    "penalties": [
-      {
-        "type": "Final Share Rate",
-        "amount": 54.02,
-        "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
-      }
-    ]
+    "penalties": []
   },
   {
     "id": "A4977",
@@ -15020,14 +12738,7 @@
       "Hospitals": 1,
       "Other Facilities": 5
     },
-    "penalties": [
-      {
-        "type": "Final Share Rate",
-        "amount": 75.0,
-        "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
-      }
-    ]
+    "penalties": []
   },
   {
     "id": "A4979",
@@ -15067,10 +12778,10 @@
     },
     "penalties": [
       {
-        "type": "Final Share Rate",
-        "amount": 75.0,
+        "type": "Shared Loss Payment",
+        "amount": 247865.5,
         "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
+        "description": "ACO incurred a $495,731 loss. At 50% shared loss rate, repayment = $247,866."
       }
     ]
   },
@@ -15110,14 +12821,7 @@
       "Hospitals": 2,
       "Other Facilities": 3
     },
-    "penalties": [
-      {
-        "type": "Final Share Rate",
-        "amount": 53.56,
-        "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
-      }
-    ]
+    "penalties": []
   },
   {
     "id": "A4984",
@@ -15155,14 +12859,7 @@
       "Hospitals": 2,
       "Other Facilities": 4
     },
-    "penalties": [
-      {
-        "type": "Final Share Rate",
-        "amount": 29.29,
-        "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
-      }
-    ]
+    "penalties": []
   },
   {
     "id": "A4986",
@@ -15200,14 +12897,7 @@
       "Hospitals": 0,
       "Other Facilities": 0
     },
-    "penalties": [
-      {
-        "type": "Final Share Rate",
-        "amount": 75.0,
-        "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
-      }
-    ]
+    "penalties": []
   },
   {
     "id": "A4988",
@@ -15245,14 +12935,7 @@
       "Hospitals": 2,
       "Other Facilities": 9
     },
-    "penalties": [
-      {
-        "type": "Final Share Rate",
-        "amount": 75.0,
-        "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
-      }
-    ]
+    "penalties": []
   },
   {
     "id": "A4992",
@@ -15290,14 +12973,7 @@
       "Hospitals": 0,
       "Other Facilities": 5
     },
-    "penalties": [
-      {
-        "type": "Final Share Rate",
-        "amount": 75.0,
-        "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
-      }
-    ]
+    "penalties": []
   },
   {
     "id": "A4996",
@@ -15335,14 +13011,7 @@
       "Hospitals": 0,
       "Other Facilities": 0
     },
-    "penalties": [
-      {
-        "type": "Final Share Rate",
-        "amount": 75.0,
-        "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
-      }
-    ]
+    "penalties": []
   },
   {
     "id": "A4998",
@@ -15380,14 +13049,7 @@
       "Hospitals": 3,
       "Other Facilities": 9
     },
-    "penalties": [
-      {
-        "type": "Final Share Rate",
-        "amount": 75.0,
-        "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
-      }
-    ]
+    "penalties": []
   },
   {
     "id": "A4999",
@@ -15425,14 +13087,7 @@
       "Hospitals": 0,
       "Other Facilities": 0
     },
-    "penalties": [
-      {
-        "type": "Final Share Rate",
-        "amount": 75.0,
-        "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
-      }
-    ]
+    "penalties": []
   },
   {
     "id": "A5002",
@@ -15470,14 +13125,7 @@
       "Hospitals": 0,
       "Other Facilities": 0
     },
-    "penalties": [
-      {
-        "type": "Final Share Rate",
-        "amount": 75.0,
-        "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
-      }
-    ]
+    "penalties": []
   },
   {
     "id": "A5003",
@@ -15515,14 +13163,7 @@
       "Hospitals": 0,
       "Other Facilities": 3
     },
-    "penalties": [
-      {
-        "type": "Final Share Rate",
-        "amount": 50.0,
-        "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
-      }
-    ]
+    "penalties": []
   },
   {
     "id": "A5012",
@@ -15560,14 +13201,7 @@
       "Hospitals": 2,
       "Other Facilities": 4
     },
-    "penalties": [
-      {
-        "type": "Final Share Rate",
-        "amount": 75.0,
-        "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
-      }
-    ]
+    "penalties": []
   },
   {
     "id": "A5013",
@@ -15605,14 +13239,7 @@
       "Hospitals": 0,
       "Other Facilities": 0
     },
-    "penalties": [
-      {
-        "type": "Final Share Rate",
-        "amount": 40.0,
-        "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
-      }
-    ]
+    "penalties": []
   },
   {
     "id": "A5025",
@@ -15650,14 +13277,7 @@
       "Hospitals": 3,
       "Other Facilities": 4
     },
-    "penalties": [
-      {
-        "type": "Final Share Rate",
-        "amount": 50.0,
-        "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
-      }
-    ]
+    "penalties": []
   },
   {
     "id": "A5028",
@@ -15695,14 +13315,7 @@
       "Hospitals": 8,
       "Other Facilities": 16
     },
-    "penalties": [
-      {
-        "type": "Final Share Rate",
-        "amount": 50.0,
-        "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
-      }
-    ]
+    "penalties": []
   },
   {
     "id": "A5030",
@@ -15740,14 +13353,7 @@
       "Hospitals": 0,
       "Other Facilities": 0
     },
-    "penalties": [
-      {
-        "type": "Final Share Rate",
-        "amount": 40.0,
-        "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
-      }
-    ]
+    "penalties": []
   },
   {
     "id": "A5033",
@@ -15785,14 +13391,7 @@
       "Hospitals": 6,
       "Other Facilities": 21
     },
-    "penalties": [
-      {
-        "type": "Final Share Rate",
-        "amount": 75.0,
-        "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
-      }
-    ]
+    "penalties": []
   },
   {
     "id": "A5037",
@@ -15830,14 +13429,7 @@
       "Hospitals": 3,
       "Other Facilities": 5
     },
-    "penalties": [
-      {
-        "type": "Final Share Rate",
-        "amount": 50.0,
-        "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
-      }
-    ]
+    "penalties": []
   },
   {
     "id": "A5038",
@@ -15875,14 +13467,7 @@
       "Hospitals": 7,
       "Other Facilities": 15
     },
-    "penalties": [
-      {
-        "type": "Final Share Rate",
-        "amount": 50.0,
-        "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
-      }
-    ]
+    "penalties": []
   },
   {
     "id": "A5039",
@@ -15920,14 +13505,7 @@
       "Hospitals": 4,
       "Other Facilities": 4
     },
-    "penalties": [
-      {
-        "type": "Final Share Rate",
-        "amount": 50.0,
-        "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
-      }
-    ]
+    "penalties": []
   },
   {
     "id": "A5040",
@@ -15965,14 +13543,7 @@
       "Hospitals": 4,
       "Other Facilities": 4
     },
-    "penalties": [
-      {
-        "type": "Final Share Rate",
-        "amount": 75.0,
-        "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
-      }
-    ]
+    "penalties": []
   },
   {
     "id": "A5045",
@@ -16010,14 +13581,7 @@
       "Hospitals": 0,
       "Other Facilities": 0
     },
-    "penalties": [
-      {
-        "type": "Final Share Rate",
-        "amount": 75.0,
-        "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
-      }
-    ]
+    "penalties": []
   },
   {
     "id": "A5047",
@@ -16055,14 +13619,7 @@
       "Hospitals": 0,
       "Other Facilities": 0
     },
-    "penalties": [
-      {
-        "type": "Final Share Rate",
-        "amount": 40.0,
-        "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
-      }
-    ]
+    "penalties": []
   },
   {
     "id": "A5049",
@@ -16100,14 +13657,7 @@
       "Hospitals": 0,
       "Other Facilities": 0
     },
-    "penalties": [
-      {
-        "type": "Final Share Rate",
-        "amount": 75.0,
-        "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
-      }
-    ]
+    "penalties": []
   },
   {
     "id": "A5053",
@@ -16145,14 +13695,7 @@
       "Hospitals": 0,
       "Other Facilities": 0
     },
-    "penalties": [
-      {
-        "type": "Final Share Rate",
-        "amount": 40.0,
-        "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
-      }
-    ]
+    "penalties": []
   },
   {
     "id": "A5056",
@@ -16190,14 +13733,7 @@
       "Hospitals": 1,
       "Other Facilities": 3
     },
-    "penalties": [
-      {
-        "type": "Final Share Rate",
-        "amount": 75.0,
-        "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
-      }
-    ]
+    "penalties": []
   },
   {
     "id": "A5058",
@@ -16235,14 +13771,7 @@
       "Hospitals": 0,
       "Other Facilities": 0
     },
-    "penalties": [
-      {
-        "type": "Final Share Rate",
-        "amount": 40.0,
-        "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
-      }
-    ]
+    "penalties": []
   },
   {
     "id": "A5062",
@@ -16280,14 +13809,7 @@
       "Hospitals": 0,
       "Other Facilities": 0
     },
-    "penalties": [
-      {
-        "type": "Final Share Rate",
-        "amount": 40.0,
-        "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
-      }
-    ]
+    "penalties": []
   },
   {
     "id": "A5067",
@@ -16325,14 +13847,7 @@
       "Hospitals": 0,
       "Other Facilities": 2
     },
-    "penalties": [
-      {
-        "type": "Final Share Rate",
-        "amount": 40.0,
-        "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
-      }
-    ]
+    "penalties": []
   },
   {
     "id": "A5068",
@@ -16370,14 +13885,7 @@
       "Hospitals": 0,
       "Other Facilities": 0
     },
-    "penalties": [
-      {
-        "type": "Final Share Rate",
-        "amount": 38.44,
-        "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
-      }
-    ]
+    "penalties": []
   },
   {
     "id": "A5069",
@@ -16415,14 +13923,7 @@
       "Hospitals": 0,
       "Other Facilities": 0
     },
-    "penalties": [
-      {
-        "type": "Final Share Rate",
-        "amount": 75.0,
-        "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
-      }
-    ]
+    "penalties": []
   },
   {
     "id": "A5080",
@@ -16460,14 +13961,7 @@
       "Hospitals": 0,
       "Other Facilities": 0
     },
-    "penalties": [
-      {
-        "type": "Final Share Rate",
-        "amount": 75.0,
-        "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
-      }
-    ]
+    "penalties": []
   },
   {
     "id": "A5088",
@@ -16505,14 +13999,7 @@
       "Hospitals": 0,
       "Other Facilities": 0
     },
-    "penalties": [
-      {
-        "type": "Final Share Rate",
-        "amount": 75.0,
-        "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
-      }
-    ]
+    "penalties": []
   },
   {
     "id": "A5094",
@@ -16550,14 +14037,7 @@
       "Hospitals": 1,
       "Other Facilities": 15
     },
-    "penalties": [
-      {
-        "type": "Final Share Rate",
-        "amount": 75.0,
-        "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
-      }
-    ]
+    "penalties": []
   },
   {
     "id": "A5116",
@@ -16595,14 +14075,7 @@
       "Hospitals": 0,
       "Other Facilities": 0
     },
-    "penalties": [
-      {
-        "type": "Final Share Rate",
-        "amount": 75.0,
-        "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
-      }
-    ]
+    "penalties": []
   },
   {
     "id": "A5124",
@@ -16640,14 +14113,7 @@
       "Hospitals": 2,
       "Other Facilities": 10
     },
-    "penalties": [
-      {
-        "type": "Final Share Rate",
-        "amount": 50.0,
-        "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
-      }
-    ]
+    "penalties": []
   },
   {
     "id": "A5147",
@@ -16685,14 +14151,7 @@
       "Hospitals": 1,
       "Other Facilities": 4
     },
-    "penalties": [
-      {
-        "type": "Final Share Rate",
-        "amount": 27.8,
-        "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
-      }
-    ]
+    "penalties": []
   },
   {
     "id": "A5148",
@@ -16730,14 +14189,7 @@
       "Hospitals": 2,
       "Other Facilities": 1
     },
-    "penalties": [
-      {
-        "type": "Final Share Rate",
-        "amount": 29.37,
-        "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
-      }
-    ]
+    "penalties": []
   },
   {
     "id": "A5160",
@@ -16775,14 +14227,7 @@
       "Hospitals": 19,
       "Other Facilities": 153
     },
-    "penalties": [
-      {
-        "type": "Final Share Rate",
-        "amount": 75.0,
-        "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
-      }
-    ]
+    "penalties": []
   },
   {
     "id": "A5166",
@@ -16820,14 +14265,7 @@
       "Hospitals": 0,
       "Other Facilities": 1
     },
-    "penalties": [
-      {
-        "type": "Final Share Rate",
-        "amount": 38.44,
-        "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
-      }
-    ]
+    "penalties": []
   },
   {
     "id": "A5169",
@@ -16865,14 +14303,7 @@
       "Hospitals": 2,
       "Other Facilities": 3
     },
-    "penalties": [
-      {
-        "type": "Final Share Rate",
-        "amount": 40.0,
-        "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
-      }
-    ]
+    "penalties": []
   },
   {
     "id": "A5170",
@@ -16910,14 +14341,7 @@
       "Hospitals": 0,
       "Other Facilities": 1
     },
-    "penalties": [
-      {
-        "type": "Final Share Rate",
-        "amount": 75.0,
-        "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
-      }
-    ]
+    "penalties": []
   },
   {
     "id": "A5173",
@@ -16955,14 +14379,7 @@
       "Hospitals": 0,
       "Other Facilities": 0
     },
-    "penalties": [
-      {
-        "type": "Final Share Rate",
-        "amount": 75.0,
-        "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
-      }
-    ]
+    "penalties": []
   },
   {
     "id": "A5176",
@@ -17002,10 +14419,10 @@
     },
     "penalties": [
       {
-        "type": "Final Share Rate",
-        "amount": 75.0,
+        "type": "Shared Loss Payment",
+        "amount": 1419895.5,
         "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
+        "description": "ACO incurred a $2,839,791 loss. At 50% shared loss rate, repayment = $1,419,896."
       }
     ]
   },
@@ -17045,14 +14462,7 @@
       "Hospitals": 0,
       "Other Facilities": 0
     },
-    "penalties": [
-      {
-        "type": "Final Share Rate",
-        "amount": 75.0,
-        "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
-      }
-    ]
+    "penalties": []
   },
   {
     "id": "A5178",
@@ -17090,14 +14500,7 @@
       "Hospitals": 0,
       "Other Facilities": 0
     },
-    "penalties": [
-      {
-        "type": "Final Share Rate",
-        "amount": 29.82,
-        "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
-      }
-    ]
+    "penalties": []
   },
   {
     "id": "A5181",
@@ -17135,14 +14538,7 @@
       "Hospitals": 1,
       "Other Facilities": 1
     },
-    "penalties": [
-      {
-        "type": "Final Share Rate",
-        "amount": 50.0,
-        "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
-      }
-    ]
+    "penalties": []
   },
   {
     "id": "A5189",
@@ -17180,14 +14576,7 @@
       "Hospitals": 0,
       "Other Facilities": 0
     },
-    "penalties": [
-      {
-        "type": "Final Share Rate",
-        "amount": 50.0,
-        "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
-      }
-    ]
+    "penalties": []
   },
   {
     "id": "A5191",
@@ -17225,14 +14614,7 @@
       "Hospitals": 2,
       "Other Facilities": 2
     },
-    "penalties": [
-      {
-        "type": "Final Share Rate",
-        "amount": 40.0,
-        "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
-      }
-    ]
+    "penalties": []
   },
   {
     "id": "A5192",
@@ -17270,14 +14652,7 @@
       "Hospitals": 0,
       "Other Facilities": 0
     },
-    "penalties": [
-      {
-        "type": "Final Share Rate",
-        "amount": 75.0,
-        "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
-      }
-    ]
+    "penalties": []
   },
   {
     "id": "A5193",
@@ -17317,10 +14692,10 @@
     },
     "penalties": [
       {
-        "type": "Final Share Rate",
-        "amount": 37.0,
+        "type": "Shared Loss Payment",
+        "amount": 730310.0,
         "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
+        "description": "ACO incurred a $1,460,620 loss. At 50% shared loss rate, repayment = $730,310."
       }
     ]
   },
@@ -17360,14 +14735,7 @@
       "Hospitals": 0,
       "Other Facilities": 2
     },
-    "penalties": [
-      {
-        "type": "Final Share Rate",
-        "amount": 40.0,
-        "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
-      }
-    ]
+    "penalties": []
   },
   {
     "id": "A5203",
@@ -17405,14 +14773,7 @@
       "Hospitals": 0,
       "Other Facilities": 0
     },
-    "penalties": [
-      {
-        "type": "Final Share Rate",
-        "amount": 50.0,
-        "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
-      }
-    ]
+    "penalties": []
   },
   {
     "id": "A5206",
@@ -17450,14 +14811,7 @@
       "Hospitals": 2,
       "Other Facilities": 8
     },
-    "penalties": [
-      {
-        "type": "Final Share Rate",
-        "amount": 75.0,
-        "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
-      }
-    ]
+    "penalties": []
   },
   {
     "id": "A5214",
@@ -17495,14 +14849,7 @@
       "Hospitals": 0,
       "Other Facilities": 0
     },
-    "penalties": [
-      {
-        "type": "Final Share Rate",
-        "amount": 40.0,
-        "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
-      }
-    ]
+    "penalties": []
   },
   {
     "id": "A5215",
@@ -17540,14 +14887,7 @@
       "Hospitals": 0,
       "Other Facilities": 6
     },
-    "penalties": [
-      {
-        "type": "Final Share Rate",
-        "amount": 40.0,
-        "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
-      }
-    ]
+    "penalties": []
   },
   {
     "id": "A5216",
@@ -17585,14 +14925,7 @@
       "Hospitals": 1,
       "Other Facilities": 2
     },
-    "penalties": [
-      {
-        "type": "Final Share Rate",
-        "amount": 50.0,
-        "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
-      }
-    ]
+    "penalties": []
   },
   {
     "id": "A5220",
@@ -17630,14 +14963,7 @@
       "Hospitals": 0,
       "Other Facilities": 0
     },
-    "penalties": [
-      {
-        "type": "Final Share Rate",
-        "amount": 75.0,
-        "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
-      }
-    ]
+    "penalties": []
   },
   {
     "id": "A5226",
@@ -17675,14 +15001,7 @@
       "Hospitals": 1,
       "Other Facilities": 2
     },
-    "penalties": [
-      {
-        "type": "Final Share Rate",
-        "amount": 50.0,
-        "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
-      }
-    ]
+    "penalties": []
   },
   {
     "id": "A5230",
@@ -17720,14 +15039,7 @@
       "Hospitals": 0,
       "Other Facilities": 0
     },
-    "penalties": [
-      {
-        "type": "Final Share Rate",
-        "amount": 50.0,
-        "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
-      }
-    ]
+    "penalties": []
   },
   {
     "id": "A5231",
@@ -17765,14 +15077,7 @@
       "Hospitals": 3,
       "Other Facilities": 8
     },
-    "penalties": [
-      {
-        "type": "Final Share Rate",
-        "amount": 50.0,
-        "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
-      }
-    ]
+    "penalties": []
   },
   {
     "id": "A5245",
@@ -17810,14 +15115,7 @@
       "Hospitals": 0,
       "Other Facilities": 0
     },
-    "penalties": [
-      {
-        "type": "Final Share Rate",
-        "amount": 75.0,
-        "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
-      }
-    ]
+    "penalties": []
   },
   {
     "id": "A5249",
@@ -17855,14 +15153,7 @@
       "Hospitals": 0,
       "Other Facilities": 0
     },
-    "penalties": [
-      {
-        "type": "Final Share Rate",
-        "amount": 75.0,
-        "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
-      }
-    ]
+    "penalties": []
   },
   {
     "id": "A5255",
@@ -17900,14 +15191,7 @@
       "Hospitals": 0,
       "Other Facilities": 0
     },
-    "penalties": [
-      {
-        "type": "Final Share Rate",
-        "amount": 75.0,
-        "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
-      }
-    ]
+    "penalties": []
   },
   {
     "id": "A5257",
@@ -17945,14 +15229,7 @@
       "Hospitals": 1,
       "Other Facilities": 5
     },
-    "penalties": [
-      {
-        "type": "Final Share Rate",
-        "amount": 28.76,
-        "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
-      }
-    ]
+    "penalties": []
   },
   {
     "id": "A5260",
@@ -17990,14 +15267,7 @@
       "Hospitals": 0,
       "Other Facilities": 0
     },
-    "penalties": [
-      {
-        "type": "Final Share Rate",
-        "amount": 75.0,
-        "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
-      }
-    ]
+    "penalties": []
   },
   {
     "id": "A5275",
@@ -18035,14 +15305,7 @@
       "Hospitals": 0,
       "Other Facilities": 2
     },
-    "penalties": [
-      {
-        "type": "Final Share Rate",
-        "amount": 40.0,
-        "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
-      }
-    ]
+    "penalties": []
   },
   {
     "id": "A5279",
@@ -18082,10 +15345,10 @@
     },
     "penalties": [
       {
-        "type": "Final Share Rate",
-        "amount": 50.0,
+        "type": "Shared Loss Payment",
+        "amount": 1701587.0,
         "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
+        "description": "ACO incurred a $3,403,174 loss. At 50% shared loss rate, repayment = $1,701,587."
       }
     ]
   },
@@ -18125,14 +15388,7 @@
       "Hospitals": 0,
       "Other Facilities": 0
     },
-    "penalties": [
-      {
-        "type": "Final Share Rate",
-        "amount": 75.0,
-        "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
-      }
-    ]
+    "penalties": []
   },
   {
     "id": "A5304",
@@ -18170,14 +15426,7 @@
       "Hospitals": 0,
       "Other Facilities": 0
     },
-    "penalties": [
-      {
-        "type": "Final Share Rate",
-        "amount": 75.0,
-        "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
-      }
-    ]
+    "penalties": []
   },
   {
     "id": "A5305",
@@ -18215,14 +15464,7 @@
       "Hospitals": 1,
       "Other Facilities": 4
     },
-    "penalties": [
-      {
-        "type": "Final Share Rate",
-        "amount": 30.81,
-        "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
-      }
-    ]
+    "penalties": []
   },
   {
     "id": "A5308",
@@ -18260,14 +15502,7 @@
       "Hospitals": 0,
       "Other Facilities": 0
     },
-    "penalties": [
-      {
-        "type": "Final Share Rate",
-        "amount": 75.0,
-        "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
-      }
-    ]
+    "penalties": []
   },
   {
     "id": "A5309",
@@ -18305,14 +15540,7 @@
       "Hospitals": 0,
       "Other Facilities": 0
     },
-    "penalties": [
-      {
-        "type": "Final Share Rate",
-        "amount": 50.0,
-        "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
-      }
-    ]
+    "penalties": []
   },
   {
     "id": "A5318",
@@ -18350,14 +15578,7 @@
       "Hospitals": 0,
       "Other Facilities": 0
     },
-    "penalties": [
-      {
-        "type": "Final Share Rate",
-        "amount": 75.0,
-        "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
-      }
-    ]
+    "penalties": []
   },
   {
     "id": "A5321",
@@ -18395,14 +15616,7 @@
       "Hospitals": 0,
       "Other Facilities": 0
     },
-    "penalties": [
-      {
-        "type": "Final Share Rate",
-        "amount": 50.0,
-        "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
-      }
-    ]
+    "penalties": []
   },
   {
     "id": "A5323",
@@ -18440,14 +15654,7 @@
       "Hospitals": 1,
       "Other Facilities": 5
     },
-    "penalties": [
-      {
-        "type": "Final Share Rate",
-        "amount": 75.0,
-        "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
-      }
-    ]
+    "penalties": []
   },
   {
     "id": "A5328",
@@ -18485,14 +15692,7 @@
       "Hospitals": 0,
       "Other Facilities": 0
     },
-    "penalties": [
-      {
-        "type": "Final Share Rate",
-        "amount": 40.0,
-        "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
-      }
-    ]
+    "penalties": []
   },
   {
     "id": "A5329",
@@ -18530,14 +15730,7 @@
       "Hospitals": 1,
       "Other Facilities": 1
     },
-    "penalties": [
-      {
-        "type": "Final Share Rate",
-        "amount": 40.0,
-        "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
-      }
-    ]
+    "penalties": []
   },
   {
     "id": "A5330",
@@ -18575,14 +15768,7 @@
       "Hospitals": 0,
       "Other Facilities": 0
     },
-    "penalties": [
-      {
-        "type": "Final Share Rate",
-        "amount": 40.0,
-        "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
-      }
-    ]
+    "penalties": []
   },
   {
     "id": "A5331",
@@ -18622,10 +15808,10 @@
     },
     "penalties": [
       {
-        "type": "Final Share Rate",
-        "amount": 75.0,
+        "type": "Shared Loss Payment",
+        "amount": 481457.0,
         "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
+        "description": "ACO incurred a $962,914 loss. At 50% shared loss rate, repayment = $481,457."
       }
     ]
   },
@@ -18665,14 +15851,7 @@
       "Hospitals": 4,
       "Other Facilities": 11
     },
-    "penalties": [
-      {
-        "type": "Final Share Rate",
-        "amount": 40.0,
-        "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
-      }
-    ]
+    "penalties": []
   },
   {
     "id": "A5335",
@@ -18710,14 +15889,7 @@
       "Hospitals": 0,
       "Other Facilities": 0
     },
-    "penalties": [
-      {
-        "type": "Final Share Rate",
-        "amount": 40.0,
-        "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
-      }
-    ]
+    "penalties": []
   },
   {
     "id": "A5337",
@@ -18755,14 +15927,7 @@
       "Hospitals": 0,
       "Other Facilities": 0
     },
-    "penalties": [
-      {
-        "type": "Final Share Rate",
-        "amount": 75.0,
-        "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
-      }
-    ]
+    "penalties": []
   },
   {
     "id": "A5339",
@@ -18800,14 +15965,7 @@
       "Hospitals": 0,
       "Other Facilities": 0
     },
-    "penalties": [
-      {
-        "type": "Final Share Rate",
-        "amount": 20.0,
-        "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
-      }
-    ]
+    "penalties": []
   },
   {
     "id": "A5340",
@@ -18845,14 +16003,7 @@
       "Hospitals": 0,
       "Other Facilities": 0
     },
-    "penalties": [
-      {
-        "type": "Final Share Rate",
-        "amount": 40.0,
-        "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
-      }
-    ]
+    "penalties": []
   },
   {
     "id": "A5341",
@@ -18890,14 +16041,7 @@
       "Hospitals": 0,
       "Other Facilities": 0
     },
-    "penalties": [
-      {
-        "type": "Final Share Rate",
-        "amount": 40.0,
-        "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
-      }
-    ]
+    "penalties": []
   },
   {
     "id": "A5344",
@@ -18935,14 +16079,7 @@
       "Hospitals": 0,
       "Other Facilities": 0
     },
-    "penalties": [
-      {
-        "type": "Final Share Rate",
-        "amount": 40.0,
-        "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
-      }
-    ]
+    "penalties": []
   },
   {
     "id": "A5346",
@@ -18980,14 +16117,7 @@
       "Hospitals": 0,
       "Other Facilities": 0
     },
-    "penalties": [
-      {
-        "type": "Final Share Rate",
-        "amount": 50.0,
-        "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
-      }
-    ]
+    "penalties": []
   },
   {
     "id": "A5347",
@@ -19025,14 +16155,7 @@
       "Hospitals": 0,
       "Other Facilities": 0
     },
-    "penalties": [
-      {
-        "type": "Final Share Rate",
-        "amount": 25.0,
-        "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
-      }
-    ]
+    "penalties": []
   },
   {
     "id": "A5348",
@@ -19070,14 +16193,7 @@
       "Hospitals": 0,
       "Other Facilities": 0
     },
-    "penalties": [
-      {
-        "type": "Final Share Rate",
-        "amount": 75.0,
-        "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
-      }
-    ]
+    "penalties": []
   },
   {
     "id": "A5349",
@@ -19115,14 +16231,7 @@
       "Hospitals": 0,
       "Other Facilities": 1
     },
-    "penalties": [
-      {
-        "type": "Final Share Rate",
-        "amount": 75.0,
-        "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
-      }
-    ]
+    "penalties": []
   },
   {
     "id": "A5350",
@@ -19160,14 +16269,7 @@
       "Hospitals": 0,
       "Other Facilities": 3
     },
-    "penalties": [
-      {
-        "type": "Final Share Rate",
-        "amount": 20.0,
-        "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
-      }
-    ]
+    "penalties": []
   },
   {
     "id": "A5355",
@@ -19205,14 +16307,7 @@
       "Hospitals": 1,
       "Other Facilities": 3
     },
-    "penalties": [
-      {
-        "type": "Final Share Rate",
-        "amount": 50.0,
-        "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
-      }
-    ]
+    "penalties": []
   },
   {
     "id": "A5356",
@@ -19250,14 +16345,7 @@
       "Hospitals": 0,
       "Other Facilities": 0
     },
-    "penalties": [
-      {
-        "type": "Final Share Rate",
-        "amount": 75.0,
-        "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
-      }
-    ]
+    "penalties": []
   },
   {
     "id": "A5357",
@@ -19295,14 +16383,7 @@
       "Hospitals": 1,
       "Other Facilities": 3
     },
-    "penalties": [
-      {
-        "type": "Final Share Rate",
-        "amount": 75.0,
-        "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
-      }
-    ]
+    "penalties": []
   },
   {
     "id": "A5358",
@@ -19340,14 +16421,7 @@
       "Hospitals": 10,
       "Other Facilities": 20
     },
-    "penalties": [
-      {
-        "type": "Final Share Rate",
-        "amount": 50.0,
-        "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
-      }
-    ]
+    "penalties": []
   },
   {
     "id": "A5360",
@@ -19385,14 +16459,7 @@
       "Hospitals": 0,
       "Other Facilities": 0
     },
-    "penalties": [
-      {
-        "type": "Final Share Rate",
-        "amount": 75.0,
-        "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
-      }
-    ]
+    "penalties": []
   },
   {
     "id": "A5361",
@@ -19430,14 +16497,7 @@
       "Hospitals": 0,
       "Other Facilities": 0
     },
-    "penalties": [
-      {
-        "type": "Final Share Rate",
-        "amount": 75.0,
-        "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
-      }
-    ]
+    "penalties": []
   },
   {
     "id": "A5362",
@@ -19475,14 +16535,7 @@
       "Hospitals": 0,
       "Other Facilities": 0
     },
-    "penalties": [
-      {
-        "type": "Final Share Rate",
-        "amount": 75.0,
-        "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
-      }
-    ]
+    "penalties": []
   },
   {
     "id": "A5363",
@@ -19520,14 +16573,7 @@
       "Hospitals": 0,
       "Other Facilities": 0
     },
-    "penalties": [
-      {
-        "type": "Final Share Rate",
-        "amount": 75.0,
-        "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
-      }
-    ]
+    "penalties": []
   },
   {
     "id": "A5364",
@@ -19565,14 +16611,7 @@
       "Hospitals": 0,
       "Other Facilities": 0
     },
-    "penalties": [
-      {
-        "type": "Final Share Rate",
-        "amount": 75.0,
-        "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
-      }
-    ]
+    "penalties": []
   },
   {
     "id": "A5365",
@@ -19610,14 +16649,7 @@
       "Hospitals": 0,
       "Other Facilities": 0
     },
-    "penalties": [
-      {
-        "type": "Final Share Rate",
-        "amount": 75.0,
-        "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
-      }
-    ]
+    "penalties": []
   },
   {
     "id": "A5370",
@@ -19655,14 +16687,7 @@
       "Hospitals": 1,
       "Other Facilities": 1
     },
-    "penalties": [
-      {
-        "type": "Final Share Rate",
-        "amount": 75.0,
-        "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
-      }
-    ]
+    "penalties": []
   },
   {
     "id": "A5372",
@@ -19700,14 +16725,7 @@
       "Hospitals": 0,
       "Other Facilities": 0
     },
-    "penalties": [
-      {
-        "type": "Final Share Rate",
-        "amount": 75.0,
-        "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
-      }
-    ]
+    "penalties": []
   },
   {
     "id": "A5374",
@@ -19745,14 +16763,7 @@
       "Hospitals": 0,
       "Other Facilities": 0
     },
-    "penalties": [
-      {
-        "type": "Final Share Rate",
-        "amount": 20.0,
-        "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
-      }
-    ]
+    "penalties": []
   },
   {
     "id": "A5375",
@@ -19790,14 +16801,7 @@
       "Hospitals": 1,
       "Other Facilities": 3
     },
-    "penalties": [
-      {
-        "type": "Final Share Rate",
-        "amount": 40.0,
-        "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
-      }
-    ]
+    "penalties": []
   },
   {
     "id": "A5378",
@@ -19835,14 +16839,7 @@
       "Hospitals": 0,
       "Other Facilities": 0
     },
-    "penalties": [
-      {
-        "type": "Final Share Rate",
-        "amount": 50.0,
-        "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
-      }
-    ]
+    "penalties": []
   },
   {
     "id": "A5386",
@@ -19882,10 +16879,10 @@
     },
     "penalties": [
       {
-        "type": "Final Share Rate",
-        "amount": 75.0,
+        "type": "Shared Loss Payment",
+        "amount": 104324.0,
         "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
+        "description": "ACO incurred a $208,648 loss. At 50% shared loss rate, repayment = $104,324."
       }
     ]
   },
@@ -19927,10 +16924,10 @@
     },
     "penalties": [
       {
-        "type": "Final Share Rate",
-        "amount": 75.0,
+        "type": "Shared Loss Payment",
+        "amount": 96250.0,
         "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
+        "description": "ACO incurred a $192,500 loss. At 50% shared loss rate, repayment = $96,250."
       }
     ]
   },
@@ -19970,14 +16967,7 @@
       "Hospitals": 0,
       "Other Facilities": 3
     },
-    "penalties": [
-      {
-        "type": "Final Share Rate",
-        "amount": 20.0,
-        "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
-      }
-    ]
+    "penalties": []
   },
   {
     "id": "A5392",
@@ -20015,14 +17005,7 @@
       "Hospitals": 0,
       "Other Facilities": 0
     },
-    "penalties": [
-      {
-        "type": "Final Share Rate",
-        "amount": 40.0,
-        "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
-      }
-    ]
+    "penalties": []
   },
   {
     "id": "A5395",
@@ -20060,14 +17043,7 @@
       "Hospitals": 0,
       "Other Facilities": 0
     },
-    "penalties": [
-      {
-        "type": "Final Share Rate",
-        "amount": 75.0,
-        "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
-      }
-    ]
+    "penalties": []
   },
   {
     "id": "A5399",
@@ -20105,14 +17081,7 @@
       "Hospitals": 2,
       "Other Facilities": 4
     },
-    "penalties": [
-      {
-        "type": "Final Share Rate",
-        "amount": 20.0,
-        "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
-      }
-    ]
+    "penalties": []
   },
   {
     "id": "A5400",
@@ -20150,14 +17119,7 @@
       "Hospitals": 6,
       "Other Facilities": 12
     },
-    "penalties": [
-      {
-        "type": "Final Share Rate",
-        "amount": 75.0,
-        "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
-      }
-    ]
+    "penalties": []
   },
   {
     "id": "A5401",
@@ -20195,14 +17157,7 @@
       "Hospitals": 0,
       "Other Facilities": 0
     },
-    "penalties": [
-      {
-        "type": "Final Share Rate",
-        "amount": 40.0,
-        "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
-      }
-    ]
+    "penalties": []
   },
   {
     "id": "A5402",
@@ -20240,14 +17195,7 @@
       "Hospitals": 1,
       "Other Facilities": 4
     },
-    "penalties": [
-      {
-        "type": "Final Share Rate",
-        "amount": 20.0,
-        "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
-      }
-    ]
+    "penalties": []
   },
   {
     "id": "A5403",
@@ -20285,14 +17233,7 @@
       "Hospitals": 4,
       "Other Facilities": 9
     },
-    "penalties": [
-      {
-        "type": "Final Share Rate",
-        "amount": 40.0,
-        "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
-      }
-    ]
+    "penalties": []
   },
   {
     "id": "A5404",
@@ -20330,14 +17271,7 @@
       "Hospitals": 0,
       "Other Facilities": 0
     },
-    "penalties": [
-      {
-        "type": "Final Share Rate",
-        "amount": 20.0,
-        "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
-      }
-    ]
+    "penalties": []
   },
   {
     "id": "A5407",
@@ -20377,10 +17311,10 @@
     },
     "penalties": [
       {
-        "type": "Final Share Rate",
-        "amount": 75.0,
+        "type": "Shared Loss Payment",
+        "amount": 595684.5,
         "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
+        "description": "ACO incurred a $1,191,369 loss. At 50% shared loss rate, repayment = $595,684."
       }
     ]
   },
@@ -20420,14 +17354,7 @@
       "Hospitals": 0,
       "Other Facilities": 2
     },
-    "penalties": [
-      {
-        "type": "Final Share Rate",
-        "amount": 20.0,
-        "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
-      }
-    ]
+    "penalties": []
   },
   {
     "id": "A5412",
@@ -20465,14 +17392,7 @@
       "Hospitals": 0,
       "Other Facilities": 0
     },
-    "penalties": [
-      {
-        "type": "Final Share Rate",
-        "amount": 20.0,
-        "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
-      }
-    ]
+    "penalties": []
   },
   {
     "id": "A5414",
@@ -20510,14 +17430,7 @@
       "Hospitals": 2,
       "Other Facilities": 6
     },
-    "penalties": [
-      {
-        "type": "Final Share Rate",
-        "amount": 40.0,
-        "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
-      }
-    ]
+    "penalties": []
   },
   {
     "id": "A5417",
@@ -20555,14 +17468,7 @@
       "Hospitals": 5,
       "Other Facilities": 8
     },
-    "penalties": [
-      {
-        "type": "Final Share Rate",
-        "amount": 40.0,
-        "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
-      }
-    ]
+    "penalties": []
   },
   {
     "id": "A5419",
@@ -20600,14 +17506,7 @@
       "Hospitals": 4,
       "Other Facilities": 6
     },
-    "penalties": [
-      {
-        "type": "Final Share Rate",
-        "amount": 57.66,
-        "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
-      }
-    ]
+    "penalties": []
   },
   {
     "id": "A5421",
@@ -20645,14 +17544,7 @@
       "Hospitals": 8,
       "Other Facilities": 40
     },
-    "penalties": [
-      {
-        "type": "Final Share Rate",
-        "amount": 40.0,
-        "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
-      }
-    ]
+    "penalties": []
   },
   {
     "id": "A5423",
@@ -20690,14 +17582,7 @@
       "Hospitals": 0,
       "Other Facilities": 0
     },
-    "penalties": [
-      {
-        "type": "Final Share Rate",
-        "amount": 75.0,
-        "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
-      }
-    ]
+    "penalties": []
   },
   {
     "id": "A5424",
@@ -20735,14 +17620,7 @@
       "Hospitals": 4,
       "Other Facilities": 3
     },
-    "penalties": [
-      {
-        "type": "Final Share Rate",
-        "amount": 40.0,
-        "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
-      }
-    ]
+    "penalties": []
   },
   {
     "id": "A5431",
@@ -20780,14 +17658,7 @@
       "Hospitals": 0,
       "Other Facilities": 4
     },
-    "penalties": [
-      {
-        "type": "Final Share Rate",
-        "amount": 75.0,
-        "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
-      }
-    ]
+    "penalties": []
   },
   {
     "id": "A5438",
@@ -20825,14 +17696,7 @@
       "Hospitals": 0,
       "Other Facilities": 0
     },
-    "penalties": [
-      {
-        "type": "Final Share Rate",
-        "amount": 20.0,
-        "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
-      }
-    ]
+    "penalties": []
   },
   {
     "id": "A5439",
@@ -20870,14 +17734,7 @@
       "Hospitals": 0,
       "Other Facilities": 1
     },
-    "penalties": [
-      {
-        "type": "Final Share Rate",
-        "amount": 20.0,
-        "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
-      }
-    ]
+    "penalties": []
   },
   {
     "id": "A5444",
@@ -20915,14 +17772,7 @@
       "Hospitals": 0,
       "Other Facilities": 0
     },
-    "penalties": [
-      {
-        "type": "Final Share Rate",
-        "amount": 40.0,
-        "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
-      }
-    ]
+    "penalties": []
   },
   {
     "id": "A5450",
@@ -20960,14 +17810,7 @@
       "Hospitals": 0,
       "Other Facilities": 0
     },
-    "penalties": [
-      {
-        "type": "Final Share Rate",
-        "amount": 75.0,
-        "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
-      }
-    ]
+    "penalties": []
   },
   {
     "id": "A5451",
@@ -21005,14 +17848,7 @@
       "Hospitals": 0,
       "Other Facilities": 0
     },
-    "penalties": [
-      {
-        "type": "Final Share Rate",
-        "amount": 75.0,
-        "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
-      }
-    ]
+    "penalties": []
   },
   {
     "id": "A5453",
@@ -21050,14 +17886,7 @@
       "Hospitals": 0,
       "Other Facilities": 0
     },
-    "penalties": [
-      {
-        "type": "Final Share Rate",
-        "amount": 40.0,
-        "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
-      }
-    ]
+    "penalties": []
   },
   {
     "id": "A5455",
@@ -21095,14 +17924,7 @@
       "Hospitals": 0,
       "Other Facilities": 0
     },
-    "penalties": [
-      {
-        "type": "Final Share Rate",
-        "amount": 50.0,
-        "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
-      }
-    ]
+    "penalties": []
   },
   {
     "id": "A5460",
@@ -21140,14 +17962,7 @@
       "Hospitals": 0,
       "Other Facilities": 0
     },
-    "penalties": [
-      {
-        "type": "Final Share Rate",
-        "amount": 75.0,
-        "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
-      }
-    ]
+    "penalties": []
   },
   {
     "id": "A5465",
@@ -21185,14 +18000,7 @@
       "Hospitals": 0,
       "Other Facilities": 0
     },
-    "penalties": [
-      {
-        "type": "Final Share Rate",
-        "amount": 40.0,
-        "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
-      }
-    ]
+    "penalties": []
   },
   {
     "id": "A5468",
@@ -21230,14 +18038,7 @@
       "Hospitals": 0,
       "Other Facilities": 0
     },
-    "penalties": [
-      {
-        "type": "Final Share Rate",
-        "amount": 40.0,
-        "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
-      }
-    ]
+    "penalties": []
   },
   {
     "id": "A5471",
@@ -21277,10 +18078,10 @@
     },
     "penalties": [
       {
-        "type": "Final Share Rate",
-        "amount": 75.0,
+        "type": "Shared Loss Payment",
+        "amount": 55898.0,
         "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
+        "description": "ACO incurred a $111,796 loss. At 50% shared loss rate, repayment = $55,898."
       }
     ]
   },
@@ -21320,14 +18121,7 @@
       "Hospitals": 0,
       "Other Facilities": 0
     },
-    "penalties": [
-      {
-        "type": "Final Share Rate",
-        "amount": 50.0,
-        "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
-      }
-    ]
+    "penalties": []
   },
   {
     "id": "A5483",
@@ -21365,14 +18159,7 @@
       "Hospitals": 17,
       "Other Facilities": 130
     },
-    "penalties": [
-      {
-        "type": "Final Share Rate",
-        "amount": 75.0,
-        "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
-      }
-    ]
+    "penalties": []
   },
   {
     "id": "A5488",
@@ -21410,13 +18197,6 @@
       "Hospitals": 0,
       "Other Facilities": 0
     },
-    "penalties": [
-      {
-        "type": "Final Share Rate",
-        "amount": 40.0,
-        "status": "active",
-        "description": "Penalty applied due to final share rate adjustment"
-      }
-    ]
+    "penalties": []
   }
 ]
